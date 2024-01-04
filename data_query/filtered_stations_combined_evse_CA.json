@@ -1362,8 +1362,8 @@
         "city": "Carson",
         "state": "CA",
         "zip": "90745",
-        "latitude": 33.824968,
-        "longitude": -118.245675,
+        "latitude": 33.82498,
+        "longitude": -118.24566,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
@@ -1371,7 +1371,7 @@
             "J1772COMBO"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -1615,8 +1615,8 @@
         "city": "El Monte",
         "state": "CA",
         "zip": "91731",
-        "latitude": 34.069536,
-        "longitude": -118.026911,
+        "latitude": 34.06964,
+        "longitude": -118.02703,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
@@ -1624,7 +1624,7 @@
             "J1772COMBO"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -1686,8 +1686,8 @@
         "city": "Folsom",
         "state": "CA",
         "zip": "95630",
-        "latitude": 38.634132,
-        "longitude": -121.204871,
+        "latitude": 38.63424,
+        "longitude": -121.20423,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
@@ -1695,7 +1695,7 @@
             "J1772COMBO"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "GPS",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -1724,15 +1724,15 @@
         "city": "Fremont",
         "state": "CA",
         "zip": "94538",
-        "latitude": 37.489389,
-        "longitude": -121.9576,
+        "latitude": 37.49864,
+        "longitude": -121.9734,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
             "J1772"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "GPS",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2225,8 +2225,8 @@
         "city": "Richmond",
         "state": "CA",
         "zip": "94806",
-        "latitude": 37.985253,
-        "longitude": -122.32124,
+        "latitude": 37.98521,
+        "longitude": -122.32138,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
@@ -2234,7 +2234,7 @@
             "J1772COMBO"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2336,15 +2336,15 @@
         "city": "San Bernardino",
         "state": "CA",
         "zip": "92408",
-        "latitude": 34.074378,
-        "longitude": -117.298,
+        "latitude": 34.07141,
+        "longitude": -117.29807,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
             "J1772"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "GPS",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2537,8 +2537,8 @@
         "city": "Sherman Oaks",
         "state": "CA",
         "zip": "91401",
-        "latitude": 34.168824,
-        "longitude": -118.449059,
+        "latitude": 34.16924,
+        "longitude": -118.44896,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
@@ -2546,7 +2546,7 @@
             "J1772COMBO"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2575,15 +2575,15 @@
         "city": "Stockton",
         "state": "CA",
         "zip": "95212",
-        "latitude": 38.022022,
-        "longitude": -121.275339,
+        "latitude": 38.02221,
+        "longitude": -121.27534,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
             "J1772"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2870,15 +2870,15 @@
         "city": "Dublin",
         "state": "CA",
         "zip": "94568",
-        "latitude": 37.702828,
-        "longitude": -121.911087,
+        "latitude": 37.70271,
+        "longitude": -121.91118,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
             "J1772"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "GPS",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2905,8 +2905,8 @@
         "city": "Fairfield",
         "state": "CA",
         "zip": "94533",
-        "latitude": 38.244614,
-        "longitude": -122.079181,
+        "latitude": 38.24415,
+        "longitude": -122.0795,
         "owner_type_code": "P",
         "ev_connector_types": [
             "CHADEMO",
@@ -2914,7 +2914,7 @@
             "J1772COMBO"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -2977,14 +2977,14 @@
         "city": "Santa Maria",
         "state": "CA",
         "zip": "93454",
-        "latitude": 34.931796,
-        "longitude": -120.420639,
+        "latitude": 34.93214,
+        "longitude": -120.4207,
         "owner_type_code": "P",
         "ev_connector_types": [
             "J1772"
         ],
         "ev_pricing": "Free",
-        "geocode_status": "200-9",
+        "geocode_status": "200-8",
         "access_code": "public"
     },
     {
@@ -8048,7 +8048,7 @@
         ],
         "ev_pricing": "Free; parking or permit fee",
         "geocode_status": "200-9",
-        "access_code": "public"
+        "access_code": "private"
     },
     {
         "id": 89027,

@@ -1,0 +1,1769 @@
+Index,id,station_name,street_address,city,state,zip,latitude,longitude,owner_type_code
+0,1523,Los Angeles Convention Center,1201 S Figueroa St,Los Angeles,CA,90015,34.040539,-118.271387,P
+1,1556,LADWP - Sylmar West,13201 Sepulveda Blvd,Sylmar,CA,91342,34.30309,-118.480505,LG
+2,1573,LADWP - Fairfax Center,2311 S Fairfax Ave,Los Angeles,CA,90016,34.036777,-118.368841,LG
+3,1583,California Air Resources Board,9530 Telstar Ave,El Monte,CA,91731,34.06872,-118.064,SG
+4,6355,Scripps Green Hospital,10666 N Torrey Pines Rd,La Jolla,CA,92037,32.89947,-117.243,P
+5,6425,Galleria at Tyler,1299 Galleria at Tyler,Riverside,CA,92503,33.909914,-117.459053,P
+6,6505,City of Pasadena - Holly Street Garage,150 E Holly St,Pasadena,CA,91103,34.14762,-118.147111,LG
+7,6506,City of Pasadena - De Lacey Garage,45 De Lacey Ave,Pasadena,CA,91105,34.145138,-118.152655,LG
+8,6507,City of Pasadena - Schoolhouse Garage,33 E Green St,Pasadena,CA,91105,34.145119,-118.150133,LG
+9,7172,Hyatt Regency Long Beach,200 S Pine Ave,Long Beach,CA,90802,33.7637,-118.192,P
+10,7184,Los Angeles International Airport (LAX) - Lot 6,1 World Way,Los Angeles,CA,90045,33.94325,-118.403342,LG
+11,7194,Ontario Airport Hotel and Conference Center,700 N Haven Ave,Ontario,CA,91764,34.07122,-117.575,P
+12,7195,Courtyard Marriott - Oxnard Ventura,600 E Esplanade Dr,Oxnard,CA,93030,34.228315,-119.170865,P
+13,7196,Hilton - Palm Springs,400 E Tahquitz Canyon Way,Palm Springs,CA,92262,33.824004,-116.543589,P
+14,7206,Inland Empire Foods,5425 Wilson St,Riverside,CA,92509,34.0189,-117.38,P
+15,7212,Sacramento International Airport - Daily A Lot,Lindbergh Dr,Sacramento,CA,95837,38.69005,-121.58889,P
+16,7229,City of Santa Monica - Airport,3223 Donald Douglas Loop,Santa Monica,CA,90405,34.017081,-118.44704,LG
+17,7230,City of Santa Monica - Pier,200 Santa Monica Pier,Santa Monica,CA,90405,34.010021,-118.49583,LG
+18,7242,Universal City Hilton,333 Universal Terrace Pkwy,Universal City,CA,91608,34.138717,-118.35904,P
+19,7250,Office Max - Home Depot,7075 Firestone Blvd,Downey,CA,90241,33.94756,-118.153806,T
+20,7286,Arden Fair Mall,1689 Arden Way,Sacramento,CA,95815,38.599693,-121.427045,P
+21,21358,Palace Hotel,2 New Montgomery St,San Francisco,CA,94105,37.78881,-122.401,P
+22,21395,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.248959,-118.523887,P
+23,21396,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.241687,-118.528543,P
+24,21397,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.236853,-118.532588,P
+25,21402,Los Angeles Harbor Department Headquarters,425 S Palos Verdes St,San Pedro,CA,90731,33.740758,-118.28192,P
+26,21419,Getty Center,1200 Getty Center Dr,Los Angeles,CA,90049,34.077588,-118.474585,P
+27,21450,LA County DPR Arboretum,301 N Baldwin Ave,Arcadia,CA,91007,34.145528,-118.050548,P
+28,21498,City of Glendora - City Hall,114 S Vista Bonita Ave,Glendora,CA,91741,34.13556,-117.864,LG
+29,21525,Helms Bakery Building,8800 Venice Blvd,Los Angeles,CA,90034,34.029971,-118.385231,P
+30,21559,California State University - Channel Islands,1 University Dr,Camarillo,CA,93012,34.16657601660278,-119.0458546627045,P
+31,21565,Home Depot,2745 Teller Rd,Newbury Park,CA,91320,34.192178,-118.934793,P
+32,21566,Lake Casitas Municipal Water District - Recreational Area,Casitas Pass Rd & Baldwin Rd,Oak View,CA,93022,34.418322,-119.3368,P
+33,21569,San Dimas Park & Ride,205 S San Dimas Ave,San Dimas,CA,91773,34.105275,-117.809208,P
+34,21594,City of Pasadena - El Molino Lot,100 N El Molino Ave,Pasadena,CA,91101,34.147709,-118.136621,LG
+35,21607,Ventura County Air Pollution Control District,669 County Square Dr,Ventura,CA,93003,34.268756,-119.2154,LG
+36,21608,Pacific View Mall,3295 E Main St,Ventura,CA,93003,34.268,-119.2492,P
+37,21618,LA County DPW Imperial,5525 E Imperial Hwy,South Gate,CA,90280,33.930663,-118.175758,LG
+38,21673,University of California - Davis Extension - Lot 80,1441 Research Park Dr,Davis,CA,95616,38.539336,-121.732405,SG
+39,25491,Fair Oaks - Orangevale - Community Library,11601 Fair Oaks Blvd,Fair Oaks,CA,95628,38.66292,-121.2634,LG
+40,25494,Sutter Galleria Mall - University of California - Davis Extension,2901 K St,Sacramento,CA,95816,38.57277,-121.467902,P
+41,25497,North Highlands Library,4235 Antelope Rd,Antelope,CA,95843,38.7042,-121.365,LG
+42,25502,City of Sacramento - Belle Cooledge Library,5600 S Land Park Dr,Sacramento,CA,95822,38.524403,-121.5112,LG
+43,25507,Mosquito Road Park and Ride,Mosquito Rd & Clay St,Placerville,CA,95667,38.73323,-120.78962,LG
+44,25511,City of Vacaville - Cultural Center,1000 Ulatis Dr,Vacaville,CA,95687,38.356027,-121.9628,LG
+45,25514,Stars Recreation Center,155 Browns Valley Pkwy,Vacaville,CA,95688,38.36557,-121.967,LG
+46,25515,City of Vacaville - Regional Transport Center,190 Hickory Ln,Vacaville,CA,95688,38.35172,-121.987,LG
+47,25516,Office of Housing & Redevelopment,40 Eldridge Ave,Vacaville,CA,95688,38.356907,-122.001886,LG
+48,25517,KUIC Radio - Parking Lot,500 Catherine St,Vacaville,CA,95688,38.355867,-121.9862,LG
+49,25518,City of Vacaville - City Hall,650 Merchant St,Vacaville,CA,95688,38.351758,-121.994475,LG
+50,25519,Citrus Heights City Hall,6360 Fountain Square Dr,Citrus Heights,CA,95621,38.682605,-121.297614,LG
+51,25520,Pitt School Plaza,1440 Ary Ln,Dixon,CA,95620,38.457369,-121.842567,LG
+52,25522,El Dorado County Government Center,2850 Fairlane Ct,Placerville,CA,95667,38.72799,-120.828,LG
+53,25523,El Dorado Transit Park & Ride,4640 Post St,El Dorado Hills,CA,95762,38.6476,-121.067,LG
+54,25527,CVS Pharmacy,8455 Auburn-Folsom Rd,Granite Bay,CA,95746,38.74453,-121.17,P
+55,25610,Carmichael Library,5605 Marconi Ave,Carmichael,CA,95608,38.618066,-121.334337,P
+56,27302,Rio Vista City Hall,1 Main St,Rio Vista,CA,94571,38.15485,-121.69,LG
+57,27328,Fairfield City Hall,1000 Webster St,Fairfield,CA,94533,38.25281,-122.044229,LG
+58,27329,Solano Community College,4000 Suisun Valley Rd,Fairfield,CA,94534,38.23723,-122.123,LG
+59,28007,Los Angeles International Airport (LAX) - Lot 1,1 World Way,Los Angeles,CA,90045,33.944761,-118.399767,LG
+60,29862,City of Vacaville - Police Headquarters,660 Merchant St,Vacaville,CA,95688,38.35109,-121.993654,LG
+61,33544,City of Ukiah - Public Parking Lot,N Oak St & W Standley St,Ukiah,CA,95482,39.15,-123.2091,LG
+62,33545,Nut Tree Village,1651 E Monte Vista Ave,Vacaville,CA,95688,38.368755,-121.961192,P
+63,33555,4th and G Plaza Public Parking Garage,817 4th St,Davis,CA,95616,38.54643,-121.7388,P
+64,33556,Davis Amtrak Station,840 2nd St,Davis,CA,95616,38.5443,-121.738,P
+65,33557,University of California - Davis - Quad Parking Structure,6 Howard Way,Davis,CA,95616,38.544538,-121.749713,P
+66,33558,University Covenant Church,315 Mace Blvd,Davis,CA,95618,38.55755,-121.6947,P
+67,33564,Lakewood Center Mall,4500 Silva St,Lakewood,CA,90712,33.84788,-118.13889,P
+68,33690,Golden Gate Ferry Terminal,101 E Sir Francis Drake Blvd,Larkspur,CA,94939,37.94495,-122.5096,P
+69,33695,Oakland International Airport - Daily Lot,1 Airport Dr,Oakland,CA,94621,37.7136,-122.2087,LG
+70,35146,Fairfield Transportation Center,2000 Cadenasso Dr,Fairfield,CA,94533,38.2482,-122.0678,LG
+71,35561,San Luis Obispo Promenade - Bed Bath & Beyond,319 Madonna Rd,San Luis Obispo,CA,93401,35.25982,-120.676,P
+72,36610,Goleta Mechanics Bank,5956 Calle Real,Goleta,CA,93117,34.44198,-119.829553,P
+73,38518,Beach & Hyde Garage,655 Beach St,San Francisco,CA,94109,37.806798,-122.419488,P
+74,38521,City of Santa Monica - Civic Parking Garage,333 Civic Center Dr,Santa Monica,CA,90401,34.010528,-118.4898,LG
+75,39314,Super 8 - Ukiah,693 S Orchard Ave,Ukiah,CA,95482,39.1458,-123.198497,P
+76,39870,Antioch Nissan,1831 Auto Center Dr,Antioch,CA,94509,38.007799,-121.832042,P
+77,39871,Nissan of Bakersfield,2800 Pacheco Rd,Bakersfield,CA,93313,35.310723,-119.035324,P
+78,39872,Buena Park Nissan,6501 Auto Center Dr,Buena Park,CA,90621,33.865497,-117.995215,P
+79,39873,Carson Nissan,1505 E 223rd St,Carson,CA,90745,33.82498,-118.24566,P
+80,39874,Palm Springs Nissan,68177 Kyle Rd,Cathedral City,CA,92234,33.78414,-116.471,P
+81,39875,Cerritos Nissan,18707 Studebaker Rd,Cerritos,CA,90703,33.861544,-118.100471,P
+82,39876,Chico Nissan,575 Manzanita Ave,Chico,CA,95926,39.75674,-121.84372,P
+83,39877,Puente Hills Nissan,17320 E Gale Ave,City of Industry,CA,91748,33.997621,-117.928216,P
+84,39878,Lithia Nissan - Clovis,370 W Herndon Ave,Clovis,CA,93612,36.83692,-119.71718,P
+85,39879,Nissan of Serramonte,1500 Collins Ave,Colma,CA,94014,37.671267,-122.463541,P
+86,39880,Autocom Nissan - Concord,1290 Concord Ave,Concord,CA,94520,37.980192,-122.050128,P
+87,39881,Larry H Miller Nissan,2575 Wardlow Rd,Corona,CA,92882,33.88319,-117.61565,P
+88,39882,Orange Coast Nissan,2850 Harbor Blvd,Costa Mesa,CA,92626,33.675397,-117.918684,P
+89,39883,Hanlees Nissan,5009 Chiles Rd,Davis,CA,95618,38.55252,-121.69156,P
+90,39884,Downey Nissan,7321 Firestone Blvd,Downey,CA,90241,33.9473,-118.151166,P
+91,39885,Nissan of Duarte,1434 Buena Vista St,Duarte,CA,91010,34.136553,-117.975944,P
+92,39886,Mossy Nissan - El Cajon,1170 W Main St,El Cajon,CA,92020,32.795896,-116.976156,P
+93,39887,Ross Nissan El Monte,3428 N Peck Rd,El Monte,CA,91731,34.06964,-118.02703,P
+94,39888,Nissan of Elk Grove,8590 Laguna Grove Dr,Elk Grove,CA,95757,38.40209,-121.38584,P
+95,39889,Mossy Nissan - Escondido,1546 Auto Park Way,Escondido,CA,92029,33.116492,-117.106837,P
+96,39890,McCrea Nissan,601 7th St,Eureka,CA,95501,40.8007,-124.16421,P
+97,39891,Future Nissan of Folsom,12610 Auto Mall Cir,Folsom,CA,95630,38.63424,-121.20423,P
+98,39892,Fontana Nissan,16444 S Highland Ave,Fontana,CA,92336,34.13534,-117.44573,P
+99,39893,Premier Nissan of Fremont,5701 Cushing Pkwy,Fremont,CA,94538,37.49864,-121.9734,P
+100,39894,Lithia Nissan - Fresno,5580 N Blackstone Ave,Fresno,CA,93710,36.818622,-119.789796,P
+101,39895,Garden Grove Nissan,9222 Trask Ave,Garden Grove,CA,92844,33.766376,-117.968337,P
+102,39896,Gardena Nissan,1670 W Redondo Beach Blvd,Gardena,CA,90247,33.889201,-118.307028,P
+103,39897,South County Nissan,400 Automall Dr,Gilroy,CA,95020,36.996869,-121.558573,P
+104,39898,Glendale Nissan,727 S Brand Blvd,Glendale,CA,91204,34.13714,-118.25515,P
+105,39899,Santa Barbara Nissan,425 S Kellogg Ave,Goleta,CA,93117,34.43427,-119.820934,P
+106,39901,Hayward Nissan,24644 Mission Blvd,Hayward,CA,94544,37.662305,-122.075178,P
+107,39902,Pedder Nissan,200 Carriage Cir,Hemet,CA,92545,33.741163,-117.031718,P
+108,39903,Surf City Nissan,17331 Beach Blvd,Huntington Beach,CA,92647,33.71069,-117.989861,P
+109,39905,Torre Nissan,79125 Highway 111,La Quinta,CA,92253,33.70693,-116.28364,P
+110,39906,Nissan of Downtown Los Angeles,635 W Washington Blvd,Los Angeles,CA,90015,34.035168,-118.273229,P
+111,39907,Universal City Nissan,3550 Cahuenga Blvd W,Los Angeles,CA,90068,34.133446,-118.356601,P
+112,39908,Razzari Nissan,1675 Auto Center Dr,Merced,CA,95340,37.30584,-120.50229,P
+113,39910,Nissan of Mission Hills,11000 Sepulveda Blvd,Mission Hills,CA,91345,34.269809,-118.466606,P
+114,39911,Central Valley Nissan,4530 McHenry Ave,Modesto,CA,95356,37.705119,-120.99471,P
+115,39912,Metro Nissan of Montclair,9440 Autoplex Dr,Montclair,CA,91763,34.082404,-117.694876,P
+116,39913,Metro Nissan of Redlands,1665 Industrial Park Ave,Redlands,CA,92374,34.06531,-117.21201,P
+117,39914,Napa Nissan,510 Soscol Ave,Napa,CA,94559,38.2927,-122.27752,P
+118,39915,Mossy Nissan,2700 National City Blvd,National City,CA,91950,32.659001,-117.100836,P
+119,39916,Mossy Nissan - Oceanside,3535 College Blvd,Oceanside,CA,92056,33.181953,-117.298334,P
+120,39917,Stadium Nissan,1140 W Katella Ave,Orange,CA,92867,33.80819,-117.86507,P
+121,39918,Team Nissan,1801 Auto Center Dr,Oxnard,CA,93036,34.22784,-119.15031,P
+122,39919,Antelope Valley Nissan,451 Auto Center Dr,Palmdale,CA,93551,34.5914,-118.1383,P
+123,39920,North Bay Nissan,1250 Auto Center Dr,Petaluma,CA,94952,38.267202,-122.665068,P
+124,39921,Mossy Nissan - Poway,14100 Poway Rd,Poway,CA,92064,32.95678,-117.02581,P
+125,39922,Crown Nissan,300 E Cypress Ave,Redding,CA,96002,40.571632,-122.36654,P
+126,39923,Boardwalk Nissan,1 Bair Island Rd,Redwood City,CA,94063,37.495963,-122.227322,P
+127,39925,Hanlees Hilltop Nissan,3277 Auto Plaza,Richmond,CA,94806,37.98521,-122.32138,P
+128,39926,Raceway Nissan,6030 Sycamore Canyon Blvd,Riverside,CA,92507,33.941878,-117.297603,P
+129,39927,Riverside Nissan,8330 Indiana Ave,Riverside,CA,92504,33.925469,-117.419673,P
+130,39928,Future Nissan of Roseville,600 Automall Dr,Roseville,CA,95661,38.752198,-121.256452,P
+131,39929,Nissan of Sacramento,2820 Auburn Blvd,Sacramento,CA,95821,38.63114,-121.39648,P
+132,39930,MY Nissan,222 Auto Center Cir,Salinas,CA,93907,36.720023,-121.662519,P
+133,39931,Larry H Miller Nissan of San Bernardino,735 Showcase Dr S,San Bernardino,CA,92408,34.07141,-117.29807,P
+134,39932,Mossy Nissan - Kearny Mesa,8118 Clairemont Mesa Blvd,San Diego,CA,92111,32.833179,-117.147384,P
+135,39933,Pacific Nissan,4433 Mission Bay Dr,San Diego,CA,92109,32.802475,-117.215269,P
+136,39934,Nissan Sunnyvale,680 E El Camino Real,Sunnyvale,CA,94087,37.359362,-122.022783,P
+137,39935,Premier Nissan,1120 W Capitol Expy,San Jose,CA,95136,37.275144,-121.877656,P
+138,39936,Nissan of San Juan Capistrano,33633 Camino Capistrano,San Juan Capistrano,CA,92675,33.47462,-117.67629,P
+139,39937,San Leandro Nissan,1152 Marina Blvd,San Leandro,CA,94577,37.71267,-122.16245,P
+140,39938,Coast Nissan,12150 Los Osos Valley Rd,San Luis Obispo,CA,93405,35.25062,-120.68455,P
+141,39939,Stevens Creek Nissan,4855 Stevens Creek Blvd,Santa Clara,CA,95051,37.32349,-121.98788,P
+142,39943,Jim Bone Nissan,1275 Santa Rosa Ave,Santa Rosa,CA,95404,38.42558,-122.71418,P
+143,39944,Cardinale Nissan,1661 Del Monte Blvd,Seaside,CA,93955,36.611189,-121.849899,P
+144,39945,Nissan of Van Nuys,5425 Van Nuys Blvd,Sherman Oaks,CA,91401,34.16924,-118.44896,P
+145,39947,First Nissan,2325 1st St,Simi Valley,CA,93065,34.27735,-118.7796,P
+146,39948,Nissan of Stockton,3077 E Hammer Ln,Stockton,CA,95212,38.02221,-121.27534,P
+147,39949,Temecula Nissan,41895 Motor Car Pkwy,Temecula,CA,92591,33.516768,-117.155039,P
+148,39951,Tracy Nissan,3195 N Naglee Rd,Tracy,CA,95304,37.75990555387505,-121.4632051865082,P
+149,39953,Nissan of Vacaville,671 Orange Dr,Vacaville,CA,95687,38.381441,-121.941218,P
+150,39954,Champion Nissan,24111 Creekside Rd,Valencia,CA,91355,34.420546,-118.557774,P
+151,39955,Vallejo Nissan,3287 Sonoma Blvd,Vallejo,CA,94590,38.118088,-122.255493,P
+152,39956,Valley Hi Nissan,15722 Valley Park Ln,Victorville,CA,92394,34.517883,-117.3219,P
+153,39957,Nissan of Visalia,830 S Ben Maddox Way,Visalia,CA,93292,36.32325,-119.27596,P
+154,39959,West Covina Nissan,205 N Citrus St,West Covina,CA,91791,34.074227,-117.890899,P
+155,40185,International Brotherhood of Electrical Workers 569 - NECA Electrical Training Center,4675 Viewridge Ave,San Diego,CA,92123,32.823912,-117.12114,P
+156,41526,Marsh Street Parking Structure,871 Marsh St,San Luis Obispo,CA,93401,35.279705,-120.6609,LG
+157,43478,Malibu Country Mart,3835 Cross Creek Rd,Malibu,CA,90265,34.035802,-118.686393,P
+158,46136,Amador Transit,115 Valley View Way,Sutter Creek,CA,95685,38.379983,-120.807672,LG
+159,46473,Golden Gate Park - Music Concourse Garage,1 Music Concourse Dr,San Francisco,CA,94118,37.768766,-122.468341,P
+160,46482,Cupertino Electric,1132 N 7th St,San Jose,CA,95112,37.36217972612609,-121.8995386415253,T
+161,46709,Nissan of Burlingame,101 California Dr,Burlingame,CA,94010,37.57792,-122.341931,P
+162,46711,San Francisco Airport - Marriott Waterfront,1800 Old Bayshore Hwy,Burlingame,CA,94010,37.6023496,-122.3706759,P
+163,46721,Dublin Nissan,6450 Dublin Ct,Dublin,CA,94568,37.70271,-121.91118,P
+164,46723,Stone Brewing World Bistro & Gardens,1999 Citracado Pkwy,Escondido,CA,92029,33.11587,-117.11955,P
+165,46724,Momentum Nissan,2545 Auto Mall Pkwy,Fairfield,CA,94533,38.24415,-122.0795,P
+166,46733,LA County Museum of Art,5905 Wilshire Blvd,Los Angeles,CA,90036,34.063383,-118.35808,P
+167,46743,Empire Nissan,1377 Kettering Loop,Ontario,CA,91761,34.049006,-117.547161,P
+168,46974,City of Rancho Cucamonga - Animal Care & Adoption Center,11780 Arrow Rt,Rancho Cucamonga,CA,91730,34.100456,-117.54918,LG
+169,48141,Santa Maria Nissan,1001 E Battles Rd,Santa Maria,CA,93454,34.93214,-120.4207,P
+170,48353,"AAA - Auto Club of Southern California, Costa Mesa Branch",3350 Harbor Blvd,Costa Mesa,CA,92626,33.69276,-117.9183,P
+171,48358,"AAA - Auto Club of Southern California, Los Angeles Branch",2601 S Figueroa St,Los Angeles,CA,90007,34.02828,-118.2778,P
+172,48362,Marriott - Renaissance Los Angeles Airport Hotel,9620 Airport Blvd,Los Angeles,CA,90045,33.9492,-118.385,P
+173,48823,Brea Civic Center,1 Civic Center Cir,Brea,CA,92821,33.91743,-117.889,LG
+174,48836,Marcum Copp Barbieri DDS,1129 Pacific St,San Luis Obispo,CA,93401,35.28059,-120.657,P
+175,48838,Bella Vista Road Park & Ride Lot,782 Davis Ct,Vacaville,CA,95687,38.34962,-121.987,LG
+176,49119,San Joaquin Valley Air Pollution Control District - Central Regional Office,1990 E Gettysburg Ave,Fresno,CA,93726,36.801411,-119.7881,P
+177,49122,Lodi City Hall,221 W Pine St,Lodi,CA,95240,38.13437,-121.2884,LG
+178,49127,Sierra Chrysler Dodge Jeep Ram,1305 S Mountain Ave,Monrovia,CA,91016,34.13867,-117.9869,P
+179,49130,Rancho Sierra Vista - Public Parking Lot,4121 Potrero Rd,Newbury Park,CA,91320,34.152947,-118.965356,FG
+180,49131,Ontario International Airport,Terminal Way,Ontario,CA,91761,34.0616,-117.5935,LG
+181,49133,John T Lyle Center for Regenerative Studies,4105 University S Dr,Walnut,CA,91768,34.049341,-117.82341,P
+182,49134,University of California - Davis Medical Center,4241 X St,Sacramento,CA,95817,38.553545,-121.4561,P
+183,49149,Mojave Desert Air Quality Management District,14306 Park Ave,Victorville,CA,92392,34.511036,-117.325348,P
+184,49255,Winner Chevrolet,1624 S Canyon Way,Colfax,CA,95713,39.084259,-120.956,P
+185,49329,City of Davis - City Hall,23 Russell Blvd,Davis,CA,95616,38.546699,-121.7461,LG
+186,49330,Yolo-Solano Air Quality Management District,1947 Galileo Ct,Davis,CA,95618,38.54246,-121.7279,LG
+187,49333,Malibu Civic Center,23525 Civic Center Way,Malibu,CA,90265,34.037227,-118.689023,LG
+188,49342,Homewood Suites - San Jose Airport,10 W Trimble Rd,San Jose,CA,95131,37.38514,-121.9288,P
+189,49350,Vallejo City Hall,555 Santa Clara St,Vallejo,CA,94590,38.1022,-122.261,LG
+190,50011,InterContinental Hotel - San Francisco,888 Howard St,San Francisco,CA,94103,37.782079,-122.404764,P
+191,50153,City of Pasadena - Los Robles Garage,400 E Green St,Pasadena,CA,91101,34.144224,-118.142129,LG
+192,50157,Best Western - Pepper Tree Inn,3850 State St,Santa Barbara,CA,93105,34.441146,-119.748892,P
+193,50424,Los Angeles Metro - Chatsworth Metrolink Station,10040 Old Depot Plaza Rd,Chatsworth,CA,91311,34.253049,-118.598675,P
+194,50736,Oakland International Airport - Economy Lot,1 Airport Dr,Oakland,CA,94621,37.7153,-122.2145,LG
+195,50742,Monterey Zoo,400 River Rd,Salinas,CA,93908,36.594595,-121.624692,P
+196,50799,City of Temecula - Old Town Parking Garage,28690 Mercedes St,Temecula,CA,92590,33.49353,-117.146,LG
+197,51204,BoardTronics,1364 Blue Oaks Blvd,Roseville,CA,95678,38.797142,-121.31234,P
+198,51210,Sheldon Town Center,8973 Grant Line Rd,Elk Grove,CA,95624,38.431454,-121.299343,P
+199,51211,Folsom Historic District Parking Structure,905 Leidesdorff St,Folsom,CA,95630,38.676631,-121.179577,LG
+200,51236,Wells Fargo Center,400 Capital Mall,Sacramento,CA,95814,38.578648,-121.50238,P
+201,51516,City of Palm Desert - City Hall,73510 Fred Waring Dr,Palm Desert,CA,92260,33.730812,-116.38184,LG
+202,51919,City of Lodi - Finance Department,310 W Elm St,Lodi,CA,95240,38.135267,-121.276865,LG
+203,51920,Hutchins Street Square Community Center,125 S Hutchins St,Lodi,CA,95240,38.132382,-121.280312,LG
+204,51922,Lodi Downtown Parking Structure,50 N Sacramento St,Lodi,CA,95240,38.134789,-121.27182,LG
+205,51923,Lodi Public Library,201 W Locust St,Lodi,CA,95240,38.137038,-121.275506,LG
+206,51933,ProjectGreenHome.org,314 Stanford Ave,Palo Alto,CA,94306,37.430039,-122.147944,P
+207,51934,Unitarian Universalist Church,505 E Charleston Rd,Palo Alto,CA,94306,37.419672,-122.112723,P
+208,51947,Via Verde Park & Ride,181 E Via Verde,San Dimas,CA,91773,34.077429,-117.81619,P
+209,51952,Mark Day School,39 Trellis Dr,San Rafael,CA,94903,38.007147,-122.554769,P
+210,51954,Brisas Del Mar Inn at the Beach,223 Castillo St,Santa Barbara,CA,93101,34.409885,-119.69729,P
+211,51960,Chumash Casino Resort,3400 E Highway 246,Santa Ynez,CA,93460,34.610085,-120.086464,P
+212,52464,Martinez Veterans Affairs Medical Center,150 Muir Rd,Martinez,CA,94533,37.99521,-122.116,FG
+213,52524,City of Palm Springs - Accelerator Park,2901 E Alejo,Palm Springs,CA,92264,33.829433,-116.512914,LG
+214,52525,City of Palm Springs - Camelot Theatre,2300 E Baristo Rd,Palm Springs,CA,92262,33.819685,-116.521241,LG
+215,52526,City of Palm Springs - City Hall,3200 E Tahquitz Canyon Way,Palm Springs,CA,92264,33.824715,-116.511192,LG
+216,52527,City of Palm Springs - Coachella Valley Economic Partnership,3111 E Tahquitz Canyon Way,Palm Springs,CA,92264,33.822673,-116.51192,LG
+217,52528,City of Palm Springs - Convention Center,277 N Avenida Caballeros,Palm Springs,CA,92262,33.825249,-116.536722,LG
+218,52603,City of Palm Springs - Desert AIDS Project,1695 N Sunrise Way,Palm Springs,CA,92262,33.843822,-116.529304,LG
+219,52604,City of Palm Springs - Downtown Parking Structure,Indian Canyon Dr & Baristo Rd,Palm Springs,CA,92264,33.819689,-116.545883,LG
+220,52605,City of Palm Springs - Fleet Maintenance Yard,425 N Civic Dr,Palm Springs,CA,92262,33.828745,-116.515654,LG
+221,52606,City of Palm Springs - International Airport,3400 E Tahquitz Canyon Way,Palm Springs,CA,92262,33.821773,-116.51006,LG
+222,52607,City of Palm Springs - James O Jessie Desert Highland Unity Center,480 Tramview Rd,Palm Springs,CA,92262,33.867738,-116.552297,LG
+223,52608,City of Palm Springs - Library,300 S Sunrise Way,Palm Springs,CA,92262,33.818721,-116.526678,LG
+224,52610,City of Palm Springs - Village Green,233 S Palm Canyon Dr,Palm Springs,CA,92262,33.820689,-116.547468,LG
+225,52611,City of Palm Springs - Visitors Center,Indian Canyon Dr & Tram Rd,Palm Springs,CA,92262,33.858372,-116.558122,LG
+226,52612,City of Palm Springs - Wellness Park,Tachevah & Via Miraleste,Palm Springs,CA,92262,33.837311,-116.540856,LG
+227,52640,Resort at Squaw Creek,1960 Squaw Valley Rd,Olympic Valley,CA,96146,39.19591,-120.236254,P
+228,52722,Malibu Creek State Park,1925 Las Virgenes,Calabasas,CA,91302,34.104235,-118.711535,P
+229,52737,Solano County - County Administration Center Parking Structure,675 Texas St,Fairfield,CA,94533,38.24922,-122.041825,LG
+230,52748,San Francisco State University,1600 Holloway Ave,San Francisco,CA,94132,37.720848,-122.477023,SG
+231,52899,Western Municipal Water District,14205 Meridian Pkwy,Riverside,CA,92518,33.911161,-117.290022,LG
+232,53373,University of California - Davis - Lot 49,La Rue Rd and Garrod Dr,Davis,CA,95616,38.533624,-121.759346,P
+233,53381,California Fresh Market,555 Five Cities Dr,Pismo Beach,CA,93449,35.136076,-120.623728,P
+234,53383,Evergreen,300 Capitol Mall,Sacramento,CA,95814,38.57894,-121.503857,P
+235,53406,El Rancho Market,2886 Mission Dr,Solvang,CA,93463,34.605901,-120.101372,P
+236,53408,Torrance Marriott - South Bay,3635 Fashion Way,Torrance,CA,90503,33.835218,-118.350231,P
+237,53719,Fairway Ford,1350 E Yorba Linda Blvd,Placentia,CA,92870,33.887622,-117.838402,P
+238,53901,Mid-City Motor World,4800 N US Highway 101,Eureka,CA,95503,40.807267,-124.114418,P
+239,53903,Gosch Ford Hemet,150 Carriage Cir,Hemet,CA,92545,33.737588,-117.030106,P
+240,53917,Alameda County Electrical Joint Apprenticeship Training Committee,14600 Catalina St,San Leandro,CA,94577,37.692678,-122.171053,P
+241,53921,Toyota of Santa Maria,700 E Betteravia Rd,Santa Maria,CA,93455,34.922993,-120.423064,P
+242,53923,DCH Ford,3810 Thousand Oaks Blvd,Thousand Oaks,CA,91362,34.1629744,-118.8282546,P
+243,53930,North County Ford,450 W Vista Way,Vista,CA,92083,33.196108,-117.250815,P
+244,60125,University of California Los Angeles - Parking Structure 4,221 Westwood Plaza,Los Angeles,CA,90077,34.072975,-118.444801,SG
+245,60128,University of California Los Angeles - Parking Structure 8,555 Westwood Plaza,Los Angeles,CA,90095,34.068375,-118.445041,SG
+246,60194,Pechanga Resort and Casino,45000 Pechanga Pkwy,Temecula,CA,92592,33.458106,-117.107647,P
+247,60227,Hansel Ford Lincoln,3705 Corby Ave,Santa Rosa,CA,95407,38.40322446729097,-122.7176866526398,P
+248,60448,Mountain View Chevrolet,1079 W Foothill Blvd,Upland,CA,91786,34.107363,-117.667072,P
+249,60720,City of San Dimas - Maintenance Yard,301 S Walnut Ave,San Dimas,CA,91773,34.104155,-117.803402,LG
+250,60721,City of San Dimas - Maintenance Yard,301 S Walnut Ave,San Dimas,CA,91773,34.104155,-117.803402,LG
+251,60856,Sacramento Municipal Utility District,6151 S St,Sacramento,CA,95817,38.553131,-121.434296,T
+252,60857,Sacramento Municipal Utility District,6151 S St,Sacramento,CA,95817,38.553131,-121.434296,T
+253,60871,Oasis West RV Park,28485 Gonzaga Rd,Gustine,CA,95322,37.055147,-121.015402,P
+254,61528,San Simeon Lodge,9520 Castillo Dr,San Simeon,CA,93452,35.61477,-121.145461,P
+255,61532,Stonehaus at Westlake Village Inn,32039 Agoura Rd,Westlake Village,CA,91361,34.148044,-118.818336,P
+256,61791,Mossy Nissan,1885 Auto Park Pl,Chula Vista,CA,91911,32.595542,-117.02529,P
+257,61815,California State University - Fresno,5010 N Woodrow Ave,Fresno,CA,93710,36.810694,-119.741239,P
+258,61854,Lake Merritt Tower,155 Grand Ave,Oakland,CA,94612,37.810716,-122.263905,P
+259,62045,Trillium - Yolo County Transportation District,350 Industrial Way,Woodland,CA,95776,38.679225,-121.753508,P
+260,62068,Fort Mason,101 Fort Mason Dr,San Francisco,CA,94123,37.804677,-122.428903,FG
+261,62069,Fort Mason,201 Fort Mason Dr,San Francisco,CA,94123,37.805045,-122.428183,FG
+262,62071,Muir Woods,1 Muir Woods Rd,Mill Valley,CA,94941,37.893488,-122.572748,FG
+263,62072,Muir Woods,1 Muir Woods Rd,Mill Valley,CA,94941,37.892576,-122.571976,FG
+264,62463,Saluti Cellars Winery,7505 Grizzly Flat Rd,Somerset,CA,95684,38.633369,-120.62423,P
+265,62602,Independent Repair,2720 Artesia Blvd,Redondo Beach,CA,90278,33.872549,-118.360193,P
+266,62976,Best Western Plus - Black Oak,1135 24th St,Paso Robles,CA,93446,35.641205,-120.687141,P
+267,62978,Point Reyes National Seashore - Bear Valley Visitor Center,1 Bear Valley Rd,Point Reyes Station,CA,94956,38.040933,-122.800044,FG
+268,63040,Los Angeles County Sheriff - Lost Hills,27050 Agoura Rd,Agoura,CA,91301,34.137359,-118.713791,LG
+269,63042,LA County DPW HQ Annex,900 S Fremont Ave,Alhambra,CA,91803,34.085829,-118.149245,LG
+270,63043,Los Angeles County Sheriff Pitchess Visitor Center,29320 Wayside Rd,Castaic,CA,91384,34.465239,-118.586761,LG
+271,63044,LA County DHS Rancho Los Amigos Hospital,7601 E Imperial Hwy,Downey,CA,90242,33.93015941726961,-118.1594074,LG
+272,63045,LA County ISD Mira Loma Fleet,45000 N 60th St W,Lancaster,CA,93536,34.699161,-118.236662,LG
+273,63046,Los Angeles County - High Desert Regional Health Center,335 E Avenue I,Lancaster,CA,93535,34.706156,-118.1248,LG
+274,63047,LA County ISD Walt Disney Parking Garage P3,111 S Grand Ave,Los Angeles,CA,90012,34.055505,-118.248852,LG
+275,63049,LA County HOA Lower Lot 18,140 N Grand Ave,Los Angeles,CA,90012,34.056889,-118.247789,LG
+276,63050,Los Angeles County - Hall of Records Lot 10,227 N Broadway,Los Angeles,CA,90012,34.055641,-118.244271,LG
+277,63051,LA County ISD Music Center Lot 14,135 N Grand Ave,Los Angeles,CA,90012,34.057657,-118.24789,LG
+278,63052,LA County DHS 313 Fig,313 N Figueroa St,Los Angeles,CA,90012,34.060148,-118.250747,LG
+279,63054,LA County Sheriff Twin Towers Detention Facility,450 E Bauchet,Los Angeles,CA,90012,34.05870228508828,-118.2303810760574,LG
+280,63055,LA County Sheriff Communications Center,1277 N Eastern Ave,Los Angeles,CA,90063,34.052459,-118.175258,LG
+281,63056,LA County DHS LAC USC Lot 10,1242 N Mission Rd,Los Angeles,CA,90033,34.061036,-118.212893,LG
+282,63057,Los Angeles County - Internal Services Department Headquarters,1102 N Eastern Ave,Los Angeles,CA,90063,34.050994,-118.174908,LG
+283,63058,Los Angeles County - Internal Services Department Telecomm,1110 N Eastern Ave,Los Angeles,CA,90063,34.048272,-118.170335,LG
+284,63059,LA County Sheriff Century Station,11703 S Alameda,Lynwood,CA,90059,33.928019,-118.225363,LG
+285,63060,LA County Sheriff Sherman Block Station,4700 Ramona Blvd,Monterey Park,CA,91754,34.060685,-118.168137,LG
+286,63061,LA County Registrar Recorder HQ,12400 E Imperial Hwy,Norwalk,CA,90650,33.914865,-118.066813,LG
+287,63062,LA County Sheriff San Dimas Station,270 S Walnut Ave,San Dimas,CA,91773,34.105077,-117.802207,LG
+288,63063,LA County Sheriff Santa Clarita Station,23740 Magic Mountain Pkwy,Santa Clarita,CA,91355,34.416259,-118.551228,LG
+289,63064,LA County Sheriff Temple City Station,8838 Las Tunas Dr,Temple City,CA,91780,34.103101,-118.07617,LG
+290,63065,LA County Sheriff Walnut Station,21695 Valley Blvd,Walnut,CA,91789,34.028667,-117.833689,LG
+291,63066,LA County Sheriff West Hollywood Station,780 N San Vicente Blvd,West Hollywood,CA,90069,34.084738,-118.383963,LG
+292,63168,Los Angeles Metro - Sierra Madre Villa Station,149 N Halstead St,Pasadena,CA,91107,34.14883,-118.079622,P
+293,63169,Los Angeles Metro - Union Station,801 N Vignes St,Los Angeles,CA,90012,34.056077,-118.232293,P
+294,63170,Los Angeles Metro - Willow Street Station,2750 W American Ave,Long Beach,CA,90806,33.806509,-118.189823,P
+295,63171,Los Angeles Metro - Universal and Studio City Station,3913 Lankershim Bl,Studio City,CA,91604,34.139746,-118.361851,P
+296,63172,Los Angeles Metro - El Segundo Station,2226 El Segundo Blvd,El Segundo,CA,90245,33.916294,-118.385869,P
+297,63181,Victorian Inn and VI Restaurant,400 Ocean Ave,Ferndale,CA,95536,40.575434,-124.264839,P
+298,63471,Will Rogers State Historic Park,1501 Will Rogers State Park Rd,Los Angeles,CA,90272,34.054983,-118.512636,SG
+299,63477,Fort Ross State Historic Park,19005 Coast Hwy,Jenner,CA,95450,38.5159746604047,-123.2467089497376,P
+300,63642,Mazda of Orange,1350 W Katella Ave,Orange,CA,92867,33.807603,-117.866315,P
+301,63653,Central Ford,5645 Firestone Blvd,South Gate,CA,90280,33.950115,-118.166578,P
+302,63654,Shenandoah Vineyards Winery,12300 Steiner Rd,Plymouth,CA,95669,38.53691,-120.79411,P
+303,63730,Greenwood Ridge Vineyards,5501 Highway 128,Philo,CA,95466,39.0979,-123.484338,P
+304,63734,LA County DBH Lot 77 1,13560 Mindinao Way,Marina Del Rey,CA,90292,33.978488,-118.442785,LG
+305,63735,LA County DPH 5555 Ferguson,5555 Ferguson Dr,Commerce,CA,90022,34.011408,-118.153406,LG
+306,63736,LA County DHS Harbor UCLA Parking Structure,1000 W Carson St,Torrance,CA,90502,33.831538,-118.294546,LG
+307,63737,LA County DHS MLK Lot C,1720 E 120th St,Los Angeles,CA,90059,33.923781,-118.240951,LG
+308,63738,LA County DHS Olive View Lot K,14445 Olive View Dr,Sylmar,CA,91342,34.325912,-118.445513,LG
+309,63739,LA County Probation HQ,9150 E Imperial Hwy,Downey,CA,90242,33.916855,-118.133385,LG
+310,63808,Salinas Valley Ford,1100 Auto Center Cir,Salinas,CA,93907,36.71552,-121.662804,P
+311,63880,JPMorgan Parking Garage,560 Mission St,San Francisco,CA,94105,37.788865,-122.399359,P
+312,64416,California State University - Channel Islands,1 University Dr,Camarillo,CA,93012,34.16386621848126,-119.0417562473297,P
+313,64559,Butte College - Chico,2320 Forest Ave,Chico,CA,95928,39.717216,-121.801107,P
+314,64697,City of Auburn,1225 Lincoln Way,Auburn,CA,95603,38.89702,-121.074405,LG
+315,64700,City of Auburn - Train Station,11500 Blocker Dr,Auburn,CA,95603,38.902182,-121.083175,LG
+316,64775,Extra Space Storage,2501 Cesar Chavez St,San Francisco,CA,94124,37.749068,-122.402416,T
+317,64900,Folded Hills Farmstead,2323 Old Coast Highway Rd,Gaviota,CA,93117,34.543044,-120.191925,P
+318,65080,City of Santa Monica - Garage #6,1443 2nd St,Santa Monica,CA,90403,34.014299,-118.49638,LG
+319,65657,LA Fitness,7230 Firestone Blvd,Downey,CA,90241,33.946978,-118.155046,P
+320,65659,Lakewood City Hall,5050 Clark Ave,Lakewood,CA,90712,33.849737,-118.132994,P
+321,65680,Stanford Court Hotel,905 California St,San Francisco,CA,94108,37.791983,-122.409718,P
+322,66533,Beachcomber Motel and Spa,1111 N Main St,Fort Bragg,CA,95437,39.460807,-123.806806,P
+323,66638,San Gorgonio Hospital,600 N Highland Springs Ave,Banning,CA,92220,33.9317483,-116.9459506,P
+324,66721,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.241917,-118.532194,P
+325,66722,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.242856,-118.532897,P
+326,66723,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.237626,-118.524479,P
+327,66724,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.237474,-118.526461,P
+328,66750,City of Colton - Electric Utility Yard,160 S 10th St,Colton,CA,92324,34.063087,-117.321885,LG
+329,66933,Tops Auto Park Garage,6565 Sunset Blvd,Hollywood,CA,90028,34.09846,-118.332885,P
+330,67299,LA County DPSS AutoPark 46,318 W Adams Blvd,Los Angeles,CA,90007,34.025692,-118.273425,LG
+331,67302,LA County Sheriff La Crescenta Station,4554 Briggs Ave,La Crescenta,CA,91214,34.220972,-118.230266,LG
+332,67303,Los Angeles County Sheriff - Fleet Shop,1104 N Eastern Ave,Los Angeles,CA,90063,34.049649,-118.172315,LG
+333,67305,LA County DHS Harbor UCLA MFI Lot,1000 W Carson St,Torrance,CA,90502,33.828186,-118.290921,LG
+334,67306,LA County DCFS Yaroslavsky Family Support Center,7555 Van Nuys Blvd,Van Nuys,CA,91405,34.207129,-118.44959,LG
+335,67307,LA County DPH HQ Baldwin Park,5050 Commerce Dr,Baldwin Park,CA,91706,34.102754,-117.974207,LG
+336,67309,LA County Natural History Museum,900 Exposition Blvd,Los Angeles,CA,90007,34.017635,-118.289337,LG
+337,67701,Audi Pacific,20460 Hawthorne Ave,Torrance,CA,90503,33.845242,-118.353057,P
+338,67930,Napa Valley Community College,1088 College Ave,St. Helena,CA,94574,38.509959,-122.456246,P
+339,68001,R Street Parking Plaza,1515 R St,Sacramento,CA,95811,38.569559,-121.490128,P
+340,68151,Red Hawk Casino,1 Red Hawk Pkwy,Placerville,CA,95667,38.69494,-120.906682,P
+341,68152,El Dorado County - Government Center,1360 Johnson Blvd,South Lake Tahoe,CA,96150,38.933046,-119.971569,LG
+342,68153,El Dorado County Government Center,330 Fair Ln,Placerville,CA,95667,38.727588,-120.827025,LG
+343,68388,Best Western Plus - Yosemite Gateway Inn,40530 Highway 41,Oakhurst,CA,93644,37.335923,-119.646151,P
+344,68393,Chase Chevrolet,6441 Holman Rd,Stockton,CA,95212,38.018189,-121.271691,P
+345,68400,Steve's Chevrolet Buick,1285 E F St,Oakdale,CA,95361,37.770686,-120.834766,P
+346,68402,California State University - Stanislaus,1 University Cir,Turlock,CA,95382,37.522473,-120.860467,P
+347,68403,Smith Chevrolet Cadillac,1601 Auto Mall Dr,Turlock,CA,95380,37.508226,-120.882066,P
+348,68405,Merle Stone Chevrolet Cadillac,800 W Henderson,Porterville,CA,93257,36.080904,-119.035353,P
+349,68899,Ambrose Hotel,1255 20th St,Santa Monica,CA,90404,34.030445,-118.481495,P
+350,69138,The Grove,189 The Grove Dr,Los Angeles,CA,90036,34.072939,-118.358158,P
+351,69944,City of Woodland - Public Parking,311 First St,Woodland,CA,95695,38.67843,-121.77289,LG
+352,69945,City of Woodland - Woodland Public Library,501 Court St,Woodland,CA,95695,38.67913,-121.77458,LG
+353,69968,Disney's Grand Hotel and Spa,1600 Disneyland Dr,Anaheim,CA,92802,33.807635,-117.922193,P
+354,69974,Joe Carlson Studio,1605 W Mahalo Pl,Compton,CA,90220,33.870986,-118.243988,P
+355,69978,Greenwood State Beach,5980-6140 Shoreline Hwy,Elk,CA,95432,39.130281,-123.718758,SG
+356,69980,City of Elk Grove - City Hall,8401 Laguna Palms Way,Elk Grove,CA,95758,38.41816,-121.394898,LG
+357,69996,Van Damme State Park,8001 N Highway 1,Little River,CA,95456,39.27641,-123.768462,SG
+358,70006,Good Samaritan Hospital - Level 3,1317 Shatto St,Los Angeles,CA,90017,34.055329,-118.267077,P
+359,70010,Los Angeles Zoo,5333 Zoo Dr,Los Angeles,CA,90027,34.148873,-118.283976,P
+360,70011,Good Samaritan Hospital - Level 2,636 Lucas Ave,Los Angeles,CA,90017,34.053453,-118.264153,P
+361,70016,Point Cabrillo Historic Park,13800 Point Cabrillo Dr,Mendocino,CA,95460,39.350629,-123.814654,SG
+362,70056,City of Oxnard - Transportation Center,255 E Fifth St,Oxnard,CA,93030,34.197838,-119.174557,LG
+363,70057,City of Oxnard - Downtown Parking,324 S B St,Oxnard,CA,93030,34.199732,-119.179146,LG
+364,70064,City of Rancho Cordova - City Hall,2729 Prospect Park Dr,Rancho Cordova,CA,95670,38.589518,-121.285008,LG
+365,70072,California State University - Sacramento State - Parking Structure 1,6000 J St,Sacramento,CA,95819,38.55991966310581,-121.4269360132752,P
+366,70073,California State University - Sacramento State - Parking Structure 2,6000 J St,Sacramento,CA,95819,38.55997,-121.420606,P
+367,70074,California State University - Sacramento State - Lot V,6000 J St,Sacramento,CA,95819,38.563944,-121.425722,P
+368,70401,The Cliffs Resort,2757 Shell Beach Rd,Pismo Beach,CA,93449,35.164971,-120.690169,P
+369,70565,Port of San Diego - Admin Building,3165 Pacific Hwy,San Diego,CA,92101,32.735306,-117.176837,LG
+370,70575,Allen Construction,201 N Milpas St,Santa Barbara,CA,93103,34.423434,-119.68182,P
+371,70584,Woodland Joint Unified School District - Zamora Elementary,1716 Cottonwood St,Woodland,CA,95695,38.658128,-121.794707,P
+372,70585,Woodland Joint Unified School District - Plainfield Elementary,20450 County Rd 97,Woodland,CA,95695,38.642231,-121.822455,P
+373,70586,Woodland Joint Unified School District - Woodland High School,21 N W St,Woodland,CA,95695,38.686897,-121.786232,P
+374,70587,Woodland Joint Unified School District - District Office,435 6th St,Woodland,CA,95695,38.676196,-121.766289,P
+375,70588,Woodland Joint Unified School District - Rhoda Maxwell Elementary School,50 Ashley Ave,Woodland,CA,95695,38.683943,-121.79905,P
+376,70589,Woodland Joint Unified School District - Whitehead Elementary,624 W Southwood Dr,Woodland,CA,95695,38.669819,-121.794558,P
+377,70590,Woodland Joint Unified School District - Tafoya Elementary,720 Homestead Way,Woodland,CA,95776,38.671075,-121.739798,P
+378,70601,Golden Gate National Recreation Area - Fort Mason,1300-1398 Bay St,San Francisco,CA,94123,37.803955,-122.429484,FG
+379,70602,Fort Mason,Building 32,San Francisco,CA,94123,37.8067536,-122.4310408,FG
+380,70603,Golden Gate National Recreation Area - Stinson Beach,4900 Shoreline Highway 1,Stinson Beach,CA,94970,37.896506,-122.639414,FG
+381,70674,Tahoe City Public Utility District,221 Fairway Dr,Tahoe City,CA,96145,39.166653,-120.14823,T
+382,70675,US Hybrid Headquarters,445 Maple Ave,Torrance,CA,90501,33.844753,-118.340521,P
+383,70865,Quail Hill Shopping Center,6601 Quail Hill Pkwy,Irvine,CA,92620,33.65408,-117.778087,P
+384,71263,Delano Regional Medical Center,1401 Garces Hwy,Delano,CA,93215,35.761418,-119.238878,P
+385,71444,Marymount College at San Pedro,1600 Palos Verdes Dr N,San Pedro,CA,90710,33.778534,-118.304449,P
+386,71876,"Caltrans - District 3, Management Center",3165 Gold Valley Dr,Rancho Cordova,CA,95742,38.587084,-121.261844,SG
+387,72027,California State University - Long Beach - Parking Structure 1,1250 Bellflower Blvd,Long Beach,CA,90840,33.786099,-118.116119,P
+388,72028,California State University - Long Beach - Parking Structure 2,1250 Bellflower Blvd,Long Beach,CA,90840,33.786682,-118.109671,P
+389,73467,Oak Glen Preserve,39611 Oak Glen Rd,Oak Glen,CA,92399,34.039816,-116.941481,P
+390,73712,City of Placentia - Civic Center,401 E Chapman Ave,Placentia,CA,92870,33.871884,-117.862009,LG
+391,74267,Cache Creek Casino,14455 CA 16,Brooks,CA,95606,38.732886,-122.143539,P
+392,74784,Adelaide Inn,1215 Ysabel St,Paso Robles,CA,93446,35.640982,-120.687792,P
+393,74805,Bonanza King Resort,475 Coffee Creek Rd,Coffee Creek,CA,96091,41.08459428950268,-122.718496665329,P
+394,74947,Niner Wine Estates,2400 CA 46 W,Paso Robles,CA,93446,35.57063225644688,-120.7420085853195,P
+395,75317,Los Angeles Metro - Monrovia Station,1641 S Primrose Ave,Monrovia,CA,91016,34.133889,-118.002898,P
+396,75318,Los Angeles Metro - Duarte Station,1789 Business Center Dr,Duarte,CA,91010,34.134179,-117.965672,P
+397,75319,Los Angeles Metro - Irwindale Station,15998 Avenida Padilla,Irwindale,CA,91702,34.128551,-117.932122,P
+398,75320,Los Angeles Metro - Citrus College Station,901 N Citrus Ave,Azusa,CA,91702,34.095736,-117.890195,P
+399,75437,City of Woodland - Public Parking,435 Court St,Woodland,CA,95695,38.67938,-121.77506,LG
+400,75497,Selma Nissan,2525 Highland Ave,Selma,CA,93662,36.570975,-119.629736,P
+401,75690,California State University - Northridge,18111 Nordhoff St,Northridge,CA,91330,34.235503,-118.527753,P
+402,75692,California State University - San Bernardino,5500 University Pkwy,San Bernardino,CA,92407,34.1827,-117.323997,P
+403,75693,California State University - Stanislaus,1 University Cir,Turlock,CA,95382,37.524248,-120.851941,P
+404,75694,California State University - Stanislaus,1 University Cir,Turlock,CA,95382,37.52251652757602,-120.8554698981476,P
+405,75830,Tablas Creek Vineyard,9339 Adelaida Rd,Paso Robles,CA,93446,35.63651846055232,-120.8593218928375,P
+406,76386,Christa McAuliffe Middle School,3880 Iron Canyon Cir,Stockton,CA,95209,38.04508,-121.366808,P
+407,76387,Bear Creek High School,10555 Thornton Rd,Stockton,CA,95209,38.051545,-121.351267,P
+408,76673,LADWP - Van Nuys Payment Center,6550 Van Nuys Blvd,Los Angeles,CA,91405,34.18993277467182,-118.4481874,T
+409,76699,Alma Street Parking,355 Alma St,Palo Alto,CA,94301,37.444686,-122.165349,P
+410,76705,LADWP - Joint Service Center,1230 W 3rd St,Los Angeles,CA,90017,34.057008,-118.259212,T
+411,76721,LA County ISD Monrovia Fleet,1703 Mountain Ave,Monrovia,CA,91016,34.133361,-117.987274,LG
+412,76722,LA County DHS MLK MRI,1670 E 120th St,Los Angeles,CA,90059,33.923391,-118.240101,LG
+413,76724,LA County DHS Pomona,750 S Park,Pomona,CA,91766,34.052737,-117.753867,LG
+414,76725,LA County Fire Communication,1320 N Eastern Ave,Los Angeles,CA,90063,34.052263,-118.172222,LG
+415,77140,Artemedica,1002 Mendocino Ave,Santa Rosa,CA,95401,38.449962,-122.717135,P
+416,77561,Quality Inn,1010 E Prosperity Ave,Tulare,CA,93274,36.225598,-119.333601,P
+417,77858,International Brotherhood of Electrical Workers 569,4545 Viewridge Ave,San Diego,CA,92123,32.822918,-117.124015,P
+418,78132,Vallejo City Hall,555 Santa Clara St,Vallejo,CA,94590,38.1022,-122.261,LG
+419,78370,Days Inn,14684 Aloma St,Lost Hills,CA,93249,35.617189,-119.656363,P
+420,78782,Taft City Hall,209 E Kern St,Taft,CA,93268,35.140839,-119.448704,LG
+421,78833,LADWP - Parthenia,18721 Parthenia St,Northridge,CA,91325,34.2287165,-118.5414324,LG
+422,78834,LADWP - Crenshaw,4030 Crenshaw Blvd,Los Angeles,CA,90012,34.01223,-118.334323,LG
+423,78835,LADWP - Receiving Station B,9615 S Central Ave,Los Angeles,CA,90002,33.9493637,-118.2538307,LG
+424,78836,LADWP - West Los Angeles Distribution Yard,12300 Nebraska Ave,Los Angeles,CA,90025,34.0344842,-118.459616,LG
+425,78859,Organic Grace,906 Redwood Dr,Garberville,CA,95542,40.098333,-123.795397,P
+426,80872,Fresno Yosemite International Airport - Parking,5155 E Clinton Way,Fresno,CA,93727,36.766768,-119.718483,LG
+427,81126,Sacramento International Airport - Cell Phone Lot,Lindbergh Dr,Sacramento,CA,95837,38.6789377,-121.5918069,P
+428,81144,East Century Boulevard Street Parking,1771 E Century Blvd,Los Angeles,CA,90002,33.9457165,-118.241112,P
+429,81325,US Badminton Academy,4569 Las Positas Rd,Livermore,CA,94551,37.69435,-121.74205,P
+430,81371,Skirball Cultural Center,2701 N Sepulveda Blvd,Los Angeles,CA,90049,34.124839,-118.479053,P
+431,82229,City of Huron - City Hall,36311 Lassen Ave,Huron,CA,93234,36.206049,-120.103577,LG
+432,82280,City of Santa Monica - Lot 11,2501 Nielson Way,Santa Monica,CA,90405,34.003119,-118.485302,LG
+433,82324,LA County DPH HQ Baldwin Park,5050 Commerce Dr,Baldwin Park,CA,91706,34.102754,-117.974207,LG
+434,82326,LA County DHS Rancho Los Amigos Hospital,7601 E Imperial Hwy,Downey,CA,90242,33.93015941726961,-118.1594074,LG
+435,82327,LA County DPW Longden Flood Maintenance Yard,160 E Longden Ave,Irwindale,CA,91706,34.112368,-118.003179,LG
+436,82352,Santa Maria Chrysler Dodge Jeep RAM Fiat,1918 S Broadway,Santa Maria,CA,93454,34.925674,-120.435187,P
+437,82395,Los Angeles International Airport (LAX) - Lot 7,1 World Way,Los Angeles,CA,90045,33.944267,-118.399183,LG
+438,82456,Crow Canyon Medical Center,1320 El Capitan Dr,Danville,CA,94506,37.783831,-121.967591,P
+439,82460,Chula Vista Ford,560 Auto Park Dr,Chula Vista,CA,91911,32.593786,-117.030544,P
+440,82468,LA County Kenneth Hahn - Balwin Hills,4100 S La Cienega Blvd,Los Angeles,CA,90056,34.006112,-118.369027,SG
+441,82709,SEVO SunStation,1624 Dell Ave,Campbell,CA,95008,37.262755,-121.956546,P
+442,85577,City of Kerman - Community Teen Center,15100 W Kearney Blvd,Kerman,CA,93630,36.727657,-120.0617,LG
+443,85578,Kingsburg Branch Library,1399 Draper St,Kingsburg,CA,93631,36.514767,-119.55285,LG
+444,85579,City of Mendota - City Hall,643 Quince St,Mendota,CA,93640,36.753933,-120.382469,LG
+445,85580,City of San Joaquin - City Hall,21900 W Colorado Ave,San Joaquin,CA,93660,36.605946,-120.186373,LG
+446,85581,City of Reedley - Administrative Services,845 G St,Reedley,CA,93654,36.599016,-119.453595,LG
+447,85582,City of Selma,1710 Tucker St,Selma,CA,93662,36.566656,-119.61008,LG
+448,85583,City of Orange Cove - City Hall,633 6th St,Orange Cove,CA,93646,36.623959,-119.312389,LG
+449,85585,City of Coalinga,245 N 6th St,Coalinga,CA,93210,36.138693,-120.361843,LG
+450,85586,City of Parlier - City Hall,1100 E Parlier Ave,Parlier,CA,93648,36.612177,-119.540641,LG
+451,85587,Fowler Branch Library,306 S 7th St,Fowler,CA,93625,36.627738,-119.677688,LG
+452,85628,Ames Visitor Center,8 Clark Rd,Moffett Field,CA,94035,37.409389,-122.063444,FG
+453,85853,City of Firebaugh - City Hall,1133 P St,Firebaugh,CA,93622,36.859284,-120.455057,LG
+454,85958,Nissan of South Bay,20550 Hawthorne Blvd,Torrance,CA,90503,33.84346,-118.35324,P
+455,85993,University of California - Davis - Lot 31,27510 Co Rd 98,Davis,CA,95616,38.539319,-121.805298,P
+456,85994,University of California - Davis - Lot 56,426 Health Sciences Dr,Davis,CA,95616,38.535524,-121.762984,P
+457,85995,University of California - Davis- Lot 55,Garrod Dr,Davis,CA,95616,38.53111172782076,-121.7626930687256,P
+458,85996,University of California - Davis - Lot 44,Bioletti Way,Davis,CA,95616,38.535656,-121.754574,P
+459,85997,University of California - Davis - Gateway Parking Structure,Hilgard Ln,Davis,CA,95616,38.533127,-121.749398,P
+460,85998,University of California - Davis - Lot 1,Hilgard Ln,Davis,CA,95616,38.532775,-121.748494,P
+461,86000,University of California - Davis - Lot 35,Orchard Dr,Davis,CA,95616,38.54308,-121.761568,P
+462,87970,AMCE,5150 N 6th St,Fresno,CA,93710,36.811291,-119.762814,P
+463,88510,Kehilat Etz Chayim,4161 Alma St,Palo Alto,CA,94306,37.411463,-122.111947,P
+464,88977,Living Spaces,49088 Fremont Blvd,Fremont,CA,94538,37.456813,-121.925174,P
+465,88993,Acterra,3921 E Bayshore Rd,Palo Alto,CA,94303,37.430989,-122.103339,P
+466,89027,Henry M. Gunn High School,780 Arastradero Rd,Palo Alto,CA,94306,37.40269,-122.133148,LG
+467,89031,Boardwalk Chevrolet,544 E Bayshore Rd,Redwood City,CA,94063,37.49582,-122.230201,P
+468,89034,American Red Cross,2731 N 1st St,San Jose,CA,95134,37.390356,-121.932236,P
+469,89041,Toyota Sunnyvale,898 W El Camino Real,Sunnyvale,CA,94087,37.370449,-122.044162,P
+470,89043,Ramada - Sunnyvale,1217 Wildwood Ave,Sunnyvale,CA,94089,37.390741,-121.992397,P
+471,89625,Hillview Community Center,97 Hillview Ave,Palo Alto,CA,94022,37.379599,-122.111861,LG
+472,91884,Caltrans - District Office,1656 Union St,Eureka,CA,95501,40.791885,-124.175027,P
+473,94539,Home2 Suites,1589 Glendale Ave,Hanford,CA,93230,36.319444,-119.670556,P
+474,94727,Los Altos High School,201 Almond Ave,Los Altos,CA,94022,37.385746,-122.109849,P
+475,94730,City of Colton - City Hall,651 N La Cadena,Colton,CA,92324,34.0717337,-117.3227394,T
+476,94740,Los Angeles Metro - Canoga Station,6650 Canoga Ave,Canoga Park,CA,91303,34.191637,-118.597035,P
+477,94923,El Dorado Hills Library,7455 Silva Valley Rd,El Dorado Hills,CA,95762,38.672517,-121.064742,LG
+478,95005,Los Angeles Metro - Norwalk Station,12901 Hoxie Ave,Norwalk,CA,90650,33.9139919,-118.1036001,P
+479,95006,Los Angeles Metro - Atlantic Station,255 S Atlantic Blvd,East Los Angeles,CA,90022,34.033838,-118.152742,P
+480,95007,Los Angeles Metro - La Cienega,3420 S La Cienega Blvd,Los Angeles,CA,90016,34.025701,-118.371928,P
+481,96775,Alpha Energy Management,48273 Lakeview Blvd,Fremont,CA,94538,37.466791,-121.929602,P
+482,96792,City of Woodland - Police Department,1000 Lincoln Ave,Woodland,CA,95695,38.675,-121.8,LG
+483,96793,City of Woodland - Municipal Service Center,655 N Pioneer Ave,Woodland,CA,95776,38.6956,-121.74738,LG
+484,96794,City of Santa Monica - Parking Structure 9,1136 4th St,Santa Monica,CA,90403,34.020221,-118.499251,LG
+485,96796,City of Santa Monica - Lot 9,2901 Neilson Way,Santa Monica,CA,90405,33.999203,-118.481415,LG
+486,96797,City of Santa Monica - Lot 7,1217 Euclid St,Santa Monica,CA,90404,34.02576,-118.49583,LG
+487,96798,City of Santa Monica - Lot 8,1146 16th St,Santa Monica,CA,90403,34.03,-118.49583,LG
+488,96803,Santa Monica Place Mall Garage #7 - Civic Center - Upper Deck,395 Broadway,Santa Monica,CA,90401,34.013658,-118.493749,LG
+489,98557,City of Rancho Cucamonga - Fire Training Academy,11297 Jersey Blvd,Rancho Cucamonga,CA,91730,34.094205,-117.55695,LG
+490,99429,San Francisco Estuary Institute,4911 Central Ave,Richmond,CA,94804,37.899428,-122.318169,P
+491,99930,Rabobank,6950 El Camino Real,Atascadero,CA,93422,35.486347,-120.666102,P
+492,99961,Computer History Museum,1401 N Shoreline Blvd,Mountain View,CA,94043,37.414457,-122.07705,P
+493,100486,Element 79 Vineyards,7350 Fairplay Rd,Somerset,CA,95684,38.596754,-120.679764,P
+494,102578,Los Angeles County - Hall of Administration Upper Level,140 N Grand Ave,Los Angeles,CA,90012,34.0565004,-118.2481775,LG
+495,102579,LA County DHS MLK Lot A,1670 E 120th St,Los Angeles,CA,90059,33.922314,-118.240604,LG
+496,102580,LA County DPW Westchester,5530 W 83rd St,Los Angeles,CA,90045,33.962875,-118.379886,LG
+497,103775,LADWP - East Valley District,12730 Saticoy St S,North Hollywood,CA,91605,34.20507,-118.410626,T
+498,103776,LADWP - Los Angeles Cleantech Incubator,525 S Hewitt St,Los Angeles,CA,90013,34.040458,-118.235444,T
+499,103779,LADWP - West 24th Street,1423 W 24th St,Los Angeles,CA,90007,34.034741,-118.29228,T
+500,103780,LADWP - Georgia Street,1814 Georgia St,Los Angeles,CA,90015,34.035847,-118.273342,T
+501,103781,LADWP - Solano Avenue,417 Solano Ave,Los Angeles,CA,90012,34.071508,-118.230314,T
+502,103782,LADWP - Georgia Street,1728 7/8 Georgia St,Los Angeles,CA,90015,34.036868,-118.272685,T
+503,103783,LADWP - South Bonnie Brae Street,1610 S Bonnie Brae St,Los Angeles,CA,90006,34.042355,-118.281909,T
+504,103784,LADWP - South Alameda Street,726 S Alameda St,Los Angeles,CA,90021,34.032919,-118.238621,T
+505,103785,LADWP - East 4th Street,800 E 4th St,Los Angeles,CA,90013,34.043191,-118.23737,T
+506,103786,LADWP - Avalon Boulevard,7103 Avalon Blvd,Los Angeles,CA,90003,33.975437,-118.265365,T
+507,103787,LADWP - West Slauson Avenue,664 W Slauson Ave,Los Angeles,CA,90044,33.988889,-118.285476,T
+508,103788,LADWP - Avalon Boulevard,7005 Avalon Blvd,Los Angeles,CA,90003,33.976155,-118.265365,T
+509,103789,LADWP - Tuxford Street,11571 Tuxford St,Sun Valley,CA,91352,34.225334,-118.384372,T
+510,103790,LADWP - Riverton Ave,5537 Riverton Ave,North Hollywood,CA,91601,34.171063,-118.365893,T
+511,103791,LADWP - Fruitland Drive,11011 Fruitland Dr,Studio City,CA,91604,34.139805,-118.370659,T
+512,103792,LADWP - Burnet Avenue,8677 Burnet Ave,North Hills,CA,91343,34.22845,-118.463489,T
+513,103793,LADWP - Independence Avenue,8970 Independence Ave,Canoga Park,CA,91304,34.233579,-118.59051,T
+514,103794,LADWP - Parthenia Street,18140 Parthenia St,Northridge,CA,91325,34.228057,-118.528682,T
+515,103796,LADWP - West 9th Street,579 W 9th St,San Pedro,CA,90731,33.735855,-118.289691,T
+516,103798,LADWP - West Denni Street,105 W Denni St,Wilmington,CA,90744,33.784942,-118.262959,T
+517,103800,LADWP - South Figueroa Street,5421 S Figueroa St,Los Angeles,CA,90037,33.993086,-118.282886,T
+518,103801,LADWP - Rinaldi Receiving Station,15901 Rinaldi St,Granada Hills,CA,91344,34.279341,-118.478491,T
+519,103802,LADWP - Sylmar Converter Station,13501 Central Ave,Sylmar,CA,91342,34.313095,-118.480525,T
+520,103803,LADWP - Valley Telecom,14453 Oxnard St,Van Nuys,CA,91401,34.179797,-118.446468,T
+521,103805,LADWP - West Valley District,18144 Devonshire St,Northridge,CA,91325,34.25707,-118.529347,T
+522,104205,"Paul Schafer, DDS",896 Sutro Ave,Novato,CA,94947,38.117115,-122.6098,P
+523,104309,Stanislaus County - Modesto Library,1500 I St,Modesto,CA,95354,37.643351,-120.993746,P
+524,104310,Stanislaus County - Oakdale Library,151 S 1st Ave,Oakdale,CA,95361,37.764711,-120.848771,P
+525,104311,City of Bakersfield - Amtrak Parking,601 Truxtun Ave,Bakersfield,CA,93301,35.37255686412197,-119.006687310173,P
+526,104585,The Harker School - Upper Campus,500 Saratoga Ave,San Jose,CA,95129,37.317837,-121.974016,P
+527,104607,Tolosa Winery,4910 Edna Rd,San Luis Obispo,CA,93401,35.23117047348128,-120.6247442655678,P
+528,104642,The Getty Villa - South Parking,17985 Pacific Coast Hwy,Pacific Palisades,CA,90272,34.04590171153875,-118.5648429100341,P
+529,104643,The Getty Villa - Central Parking,17985 Pacific Coast Hwy,Pacific Palisades,CA,90272,34.04584837272859,-118.5648536388702,P
+530,105358,Elkhorn Slough National Estuarine Research Reserve,1700 Elkhorn Rd,Castroville,CA,95012,36.81702,-121.73011,P
+531,105476,Romantix,3945 Market St,Riverside,CA,92501,33.981143,-117.37702,P
+532,112833,LangeTwins Family Winery & Vineyards - Tesla Destination,1525 E Jahant Rd,Acampo,CA,95220,38.2050526,-121.2970729,P
+533,112834,Acquiesce Winery - Tesla Destination,22353 N Tretheway Rd,Acampo,CA,95220,38.189017,-121.179699,P
+534,112835,Vincent Hill Station - Tesla Destination,553 Sierra Hwy,Acton,CA,93510,34.50141,-118.118245,P
+535,112836,Sierra Meadows - Tesla Destination,46516 Opah Dr,Ahwahnee,CA,93601,37.3634,-119.700191,P
+536,112837,Almansor Court - Tesla Destination,700 S Almansor St,Alhambra,CA,91801,34.08998,-118.116006,P
+537,112838,Ayres Lodge Alpine - Tesla Destination,1251 Tavern Rd,Alpine,CA,91901,32.839168,-116.777635,P
+538,112839,Niles Hotel - Tesla Destination,304 S Main St,Alturas,CA,96101,41.482442,-120.542075,P
+539,112840,Peacock Suites - Tesla Destination,1745 S Anaheim Blvd,Anaheim,CA,92805,33.804677,-117.907129,P
+540,112841,Hyatt House at Anaheim Resort/Convention Center - Tesla Destination,1800 S Harbor Blvd,Anaheim,CA,92802,33.80289,-117.91418,P
+541,112842,Homewood Suites Anaheim Resort - Tesla Destination,2010 S Harbor Blvd,Anaheim,CA,92802,33.79837,-117.913714,P
+542,112843,Cortona Inn and Suites Anaheim Resort - Tesla Destination,2029 S Harbor Blvd,Anaheim,CA,92802,33.798591,-117.916153,P
+543,112844,Hyatt Place at Anaheim Resort/Convention Center - Tesla Destination,2035 S Harbor Blvd,Anaheim,CA,92802,33.798151,-117.915464,P
+544,112846,Ayres Hotel - Anaheim - Tesla Destination,2550 E Katella Ave,Anaheim,CA,92806,33.805512,-117.878134,P
+545,112847,Anaheim Marriott - Tesla Destination,700 W Convention Way,Anaheim,CA,92802,33.799164,-117.918298,P
+546,112848,Hilton Anaheim - Tesla Destination,777 W Convention Wy,Anaheim,CA,92802,33.800143,-117.918577,P
+547,112849,Anaheim White House Restaurant - Tesla Destination,887 S Anaheim Blvd,Anaheim,CA,92805,33.823544,-117.910371,P
+548,112850,CADE Estate Winery - Tesla Destination,360 Howell Mountain Road South,Angwin,CA,94508,38.560196,-122.448882,P
+549,112851,Seascape Beach Resort - Tesla Destination,1 Seascape Resort Dr,Aptos,CA,95003,36.9506523,-121.8769721,P
+550,112852,Santa Anita Park - Tesla Destination,285 W Huntington Dr,Arcadia,CA,91007,34.138739,-118.044618,P
+551,112853,The Casitas Estate - Tesla Destination,2655 Lopez Dr,Arroyo Grande,CA,93420,35.157513,-120.536378,P
+552,112854,Aloha Inn - Tesla Destination,611 El Camino Real,Arroyo Grande,CA,93420,35.122126,-120.588927,P
+553,112856,Avila Lighthouse Suites - Tesla Destination,550 Front St,Avila Beach,CA,93424,35.180091,-120.735481,P
+554,112857,Avila Village Inn - Tesla Destination,6655 Bay Laurel Pl,Avila Beach,CA,93424,35.189287,-120.721737,P
+555,112859,Graduate Berkeley - Tesla Destination,2600 Durant Ave,Berkeley,CA,94704,37.867942,-122.256305,P
+556,112860,"Claremont Club & Spa, A Fairmont Hotel - Tesla Destination",41 Tunnel Rd,Berkeley,CA,94705,37.857507,-122.24184,P
+557,112861,Mosaic Hotel Beverly Hills - Tesla Destination,125 S Spaulding Ave,Beverly Hills,CA,90212,34.066124,-118.409117,P
+558,112862,AKA Beverly Hills - Tesla Destination,155 N Crescent Dr,Beverly Hills,CA,90210,34.06794,-118.397163,P
+559,112863,Luxe Rodeo Drive Hotel - Tesla Destination,360 N Rodeo Dr,Beverly Hills,CA,90210,34.068903,-118.402524,P
+560,112864,L'Ermitage Beverly Hills - Tesla Destination,9291 Burton Way,Beverly Hills,CA,90210,34.072382,-118.395128,P
+561,112865,"Beverly Wilshire, a Four Seasons Hotel - Tesla Destination",9500 Wilshire Blvd,Beverly Hills,CA,90212,34.0666534,-118.4010018,P
+562,112866,Beverly Hills Hotel - Tesla Destination,9641 Sunset Blvd,Beverly Hills,CA,90210,34.0817921,-118.4133993,P
+563,112867,The Beverly Hilton - Tesla Destination,9876 Wilshire Blvd,Beverly Hills,CA,90210,34.066881,-118.413267,P
+564,112869,Post Ranch Inn - Tesla Destination,47900 State Highway 1,Big Sur,CA,93920,36.228829,-121.764843,P
+565,112870,Ventana Big Sur - Tesla Destination,48123 Hwy 1,Big Sur,CA,93920,36.2289982,-121.764704,P
+566,112871,Esalen Institute - Tesla Destination,55000 Highway 1,Big Sur,CA,93920,36.124239,-121.637041,P
+567,112873,Hannah Nicole Vineyards & Winery - Tesla Destination,6700 Balfour Rd,Brentwood,CA,94513,37.923893,-121.656966,P
+568,112874,Virginia Creek Settlement - Tesla Destination,70847 US-395,Bridgeport,CA,93517,38.187013,-119.204192,P
+569,112875,Los Angeles Marriott Burbank Airport - Tesla Destination,2500 N Hollywood Wy,Burbank,CA,91505,34.19396,-118.348265,P
+570,112876,Hilton Garden Inn Burbank Downtown - Tesla Destination,401 S San Fernando Blvd,Burbank,CA,91502,34.178478,-118.305686,P
+571,112877,San Francisco Airport Marriott Waterfront - Tesla Destination,1800 Old Bayshore Hwy,Burlingame,CA,94010,37.602645,-122.371,P
+572,112878,Calistoga Spa Hot Springs - Tesla Destination,1005 Washington St,Calistoga,CA,94515,38.579277,-122.577206,P
+573,112879,The Bergson Hotel - Tesla Destination,1010 Foothill Blvd,Calistoga,CA,94515,38.575118,-122.579171,P
+574,112880,Tamber bey Vineyards - Tesla Destination,1251 Tubbs Ln,Calistoga,CA,94515,38.5954604,-122.6047026,P
+575,112881,Old Faithful Geyser Resort - Tesla Destination,1299 Tubbs Ln,Calistoga,CA,94515,38.596348,-122.602268,P
+576,112882,Chateau Montelena Winery - Tesla Destination,1429 Tubbs Ln,Calistoga,CA,94515,38.602511,-122.597651,P
+577,112883,Mount View Hotel & Spa - Tesla Destination,1457 Lincoln Ave,Calistoga,CA,94515,38.579553,-122.578636,P
+578,112884,Dr Wilkinson's Hot Springs Resort - Tesla Destination,1507 Lincoln Ave,Calistoga,CA,94515,38.580532,-122.578276,P
+579,112885,Best Western Plus Stevenson Manor - Tesla Destination,1830 Lincoln Ave,Calistoga,CA,94515,38.584002,-122.575808,P
+580,112886,Tedeschi Family Winery - Tesla Destination,2779 Grant St,Calistoga,CA,94515,38.590351,-122.594049,P
+581,112887,Jericho Canyon Vineyard - Tesla Destination,3292 Old Lawley Toll Rd,Calistoga,CA,94515,38.620343,-122.593546,P
+582,112888,Storybook Mountain Winery - Tesla Destination,3835 Hwy 128,Calistoga,CA,94515,38.599918,-122.639262,P
+583,112889,Castello di Amorosa - Tesla Destination,4045 N St Helena Hwy,Calistoga,CA,94515,38.558501,-122.542644,P
+584,112890,Davis Estates - Tesla Destination,4060 Silverado Trl N,Calistoga,CA,94515,38.569894,-122.514784,P
+585,112891,Fairwinds Estate Winery - Tesla Destination,4550 Silverado Trl N,Calistoga,CA,94515,38.575397,-122.549492,P
+586,112892,Hans Fahden Winery - Tesla Destination,4855 Petrified Forest Rd,Calistoga,CA,94515,38.559898,-122.630428,P
+587,112893,Calistoga Ranch - Tesla Destination,580 Lommel Rd,Calistoga,CA,94515,38.579938,-122.513364,P
+588,112894,Solage Calistoga - Tesla Destination,755 Silverado Trl,Calistoga,CA,94515,38.584218,-122.570291,P
+589,112896,"Twomey Cellars, Calistoga - Tesla Destination",1183 Dunaweal Ln,Calistoga,CA,94515,38.565799,-122.556772,P
+590,112897,Cambria Pines Lodge - Tesla Destination,2905 Burton Dr,Cambria,CA,93428,35.5587454,-121.0801186,P
+591,112898,El Colibri Boutique Hotel & Spa - Tesla Destination,5620 Moonstone Beach Dr,Cambria,CA,93428,35.568983,-121.105261,P
+592,112900,Sand Pebbles Inn - Tesla Destination,6252 Moonstone Beach Dr,Cambria,CA,93428,35.573683,-121.112315,P
+593,112901,Blue Dolphin Inn - Tesla Destination,6470 Moonstone Beach Dr,Cambria,CA,93428,35.576504,-121.113529,P
+594,112902,Sea Otter Inn - Tesla Destination,6656 Moonstone Beach Dr,Cambria,CA,93428,35.578439,-121.115586,P
+595,112903,Fairfield Inn & Suites by Marriott Santa Cruz - Tesla Destination,1255 41st Ave,Capitola,CA,95010,36.9697758,-121.9655326,P
+596,112904,Park Hyatt Aviara - Tesla Destination,7100 Aviara Resort Dr,Carlsbad,CA,92056,33.100051,-117.285039,P
+597,112905,Four Seasons Resort Aviara - Tesla Destination,7210 Blue Heron Pl,Carlsbad,CA,92011,33.097038,-117.283761,P
+598,112906,Carmel Valley Ranch - Tesla Destination,1 Old Ranch Rd,Carmel,CA,93923,36.519392,-121.806781,P
+599,112907,Hyatt Carmel Highlands - Tesla Destination,120 Highlands Dr,Carmel,CA,93923,36.501896,-121.9374874,P
+600,112909,Tally Ho - Tesla Destination,6th Ave,Carmel,CA,93923,36.555642,-121.924563,P
+601,112910,Folktale Winery & Vineyards - Tesla Destination,8940 Carmel Valley Rd,Carmel,CA,93923,36.527964,-121.821475,P
+602,112911,Carmel Country Inn - Tesla Destination,Dolores St & Third Ave,Carmel by the Sea,CA,93921,36.559153,-121.922484,P
+603,112912,Joyce Vineyards - Tesla Destination,1 E Carmel Valley Rd,Carmel Valley,CA,93924,36.477736,-121.728896,P
+604,112915,Carmel Plaza Garage - Tesla Destination,#NAME?,Carmel-By-The-Sea,CA,93921,36.554085,-121.920933,P
+605,112916,Holiday Inn Express & Suites-Carpinteria - Tesla Destination,5606 Carpinteria Ave,Carpinteria,CA,93013,34.3923251,-119.5095392,P
+606,112917,Cathedral City Public Parking - Tesla Destination,68500 Ave Lalo Guerrero,Cathedral City,CA,92234,33.781186,-116.465534,P
+607,112918,On the Beach Bed and Breakfast - Tesla Destination,181 N Ocean Ave,Cayucos,CA,93430,35.449297,-120.905887,P
+608,112919,Wellspring Ranch - Tesla Destination,9150 Santa Rita Rd,Cayucos,CA,93430,35.494925,-120.809002,P
+609,112920,Sierra Nevada Brewing - Tesla Destination,1075 E 20th St,Chico,CA,95928,39.72402,-121.815098,P
+610,112921,Oxford Suites Chico - Tesla Destination,2035 Business Ln,Chico,CA,95928,39.7248144,-121.8056562,P
+611,112922,Ayres Hotel - Chino Hills - Tesla Destination,4785 Chino Hills Pkwy,Chino Hills,CA,91709,33.97856,-117.701131,P
+612,112923,Seven Mile Casino - Tesla Destination,285 Bay Blvd,Chula Vista,CA,91910,32.636738,-117.099984,P
+613,112924,Pacific Palms Resort - Tesla Destination,1 Industry Hills Pkwy,City of Industry,CA,91744,34.02053,-117.926766,P
+614,112927,Chukchansi Crossing Fuel Station - Tesla Destination,711 Lucky Ln,Coarsegold,CA,93614,37.214164,-119.708038,P
+615,112928,Bonanza King Resort - Tesla Destination,475 Coffee Creek Rd,Coffee Creek,CA,96091,41.084381,-122.718455,P
+616,112929,Ayres Suites - Corona West - Tesla Destination,1900 Frontage Rd,Corona,CA,92882,33.878933,-117.60352,P
+617,112930,Ayres Suites- Corona West - Tesla Destination,1910 Frontage Rd,Corona,CA,92882,33.879042,-117.604476,P
+618,112931,Ayres Inn - Corona East - Tesla Destination,2260 Griffin Wy,Corona,CA,92879,33.888289,-117.516795,P
+619,112932,Silverlakes Sports Complex - Tesla Destination,5555 Hamner Ave,Corona,CA,92880,33.953317,-117.555626,P
+620,112933,Five Crowns Restaurant - Tesla Destination,3801 E Coast Hwy,Corona del Mar,CA,92625,33.59344,-117.867,P
+621,112935,Coronado Island Marriott Resort & Spa - Tesla Destination,2000 2nd St,Coronado,CA,92118,32.6948025,-117.1661405,P
+622,112936,Ayres Hotel & Suites Costa Mesa - Tesla Destination,325 Bristol St,Costa Mesa,CA,92626,33.665868,-117.881585,P
+623,112937,South Coast Plaza - Tesla Destination,3333 Bear St,Costa Mesa,CA,92626,33.691208,-117.893609,P
+624,112938,Avenue of the Arts Hotel - Tesla Destination,3350 Avenue of the Arts,Costa Mesa,CA,92626,33.691494,-117.880465,P
+625,112939,Ayres Suites - Costa Mesa - Tesla Destination,345 Bristol St,Costa Mesa,CA,92626,33.66535,-117.881234,P
+626,112940,Anchor Beach Inn Crescent City - Tesla Destination,880 US Hwy 101 S,Crescent City,CA,95531,41.746635,-124.178231,P
+627,112941,Chateau Margene - Tesla Destination,4315 La Panza Rd,Creston,CA,93432,35.51663,-120.493938,P
+628,112942,"Juniper Cupertino, Curio Collection by Hilton - Tesla Destination",10050 S De Anza Blvd,Cupertino,CA,95014,37.321772,-122.031361,P
+629,112943,Ridge Vineyards Monte Bello - Tesla Destination,17100 Montebello Rd,Cupertino,CA,95014,37.299769,-122.115738,P
+630,112944,Monarch Beach Resort - Tesla Destination,1 Monarch Beach Resort N,Dana Point,CA,92629,33.482573,-117.714637,P
+631,112945,Best Western Plus Marina Shores Hotel - Tesla Destination,34280 Pacific Coast Hwy,Dana Point,CA,92629,33.4658094,-117.68938,P
+632,112946,Best Western Plus Dana Point Inn By The Sea - Tesla Destination,34744 Pacific Coast Hwy,Dana Point,CA,92624,33.4577232,-117.6706401,P
+633,112947,Best Western Danville Sycamore Inn - Tesla Destination,803 Camino Ramon,Danville,CA,94526,37.810487,-121.991211,P
+634,112949,Viader Vineyards & Winery - Tesla Destination,1120 Deer Park Rd,Deer Park,CA,94576,38.560154,-122.473722,P
+635,112950,L'Auberge Del Mar - Tesla Destination,1540 Camino Del Mar,Del Mar,CA,92014,32.960062,-117.265986,P
+636,112951,Hilton San Diego/Del Mar - Tesla Destination,15575 Jimmy Durante Blvd,Del Mar,CA,92014,32.977989,-117.255156,P
+637,112952,THE SPRING Resort & Spa - Tesla Destination,12699 Reposo Wy,Desert Hot Springs,CA,92240,33.955608,-116.482326,P
+638,112954,Ayres Suites - Diamond Bar - Tesla Destination,21951 Golden Springs Dr,Diamond Bar,CA,91765,34.003248,-117.829644,P
+639,112955,"Riverside Inn, a Select Registry Property - Tesla Destination",206 Commercial St,Downieville,CA,95936,39.559625,-120.828017,P
+640,112956,Dunsmuir Lodge - Tesla Destination,6604 Dunsmuir Ave,Dunsmuir,CA,96025,41.198733,-122.277447,P
+641,112957,Embassy Suites by Hilton - LAX South - Tesla Destination,1440 E Imperial Ave,El Segundo,CA,90245,33.930574,-118.400744,P
+642,112958,Elk Cove Inn & Spa - Tesla Destination,6300 S Hwy 1,Elk,CA,95432,39.1270371,-123.7144402,P
+643,112959,Hampton Inn Elk Grove - Tesla Destination,2305 Longport Ct,Elk Grove,CA,95758,38.426784,-121.482186,P
+644,112960,Hyatt House Emeryville/San Francisco Bay Area - Tesla Destination,5800 Shellmound St,Emeryville,CA,94608,37.83963,-122.292879,P
+645,112962,Quality Inn - Redwoods Area - Tesla Destination,1209 4th St,Eureka,CA,95501,40.804184,-124.158086,P
+646,112963,Carter House Inns and Restaurant 301 - Tesla Destination,301 L St,Eureka,CA,95501,40.8043,-124.1595855,P
+647,112964,Town House Motel - Historic Old Town - Tesla Destination,933 4th St,Eureka,CA,95501,40.803762,-124.160955,P
+648,112965,EV Energy Inc - Tesla Destination,10417 Fair Oaks Blvd,Fair Oaks,CA,95628,38.643902,-121.268204,P
+649,112966,Redwood Suites - Tesla Destination,332 Ocean Ave,Ferndale,CA,95536,40.575953,-124.265579,P
+650,112967,The Victorian Inn - Tesla Destination,400 Ocean Ave,Ferndale,CA,95536,40.575456,-124.264533,P
+651,112968,Broadstone Plaza - Tesla Destination,2765 E Bidwell,Folsom,CA,95630,38.653825,-121.126366,P
+652,112969,Farmhouse Inn - Tesla Destination,7871 River Rd,Forestville,CA,95436,38.490004,-122.883477,P
+653,112970,Beachcomber Motel & Spa on the Beach - Tesla Destination,1111 N Main St,Fort Bragg,CA,95437,39.460496,-123.80675,P
+654,112971,Ocean View Lodge - Tesla Destination,1141 N Main St,Fort Bragg,CA,95437,39.462683,-123.806348,P
+655,112972,Super 8 Motel Fortuna - Tesla Destination,1805 Alamar Way,Fortuna,CA,95540,40.578614,-124.15297,P
+656,112973,The Redwood Riverwalk Hotel - Tesla Destination,1859 Alamar Wy,Fortuna,CA,95540,40.578286,-124.152926,P
+657,112974,Ayres Hotel - Fountain Valley - Tesla Destination,17550 Brookhurst St,Fountain Valley,CA,92708,33.708309,-117.953806,P
+658,112975,Hyatt Place Fremont/Silicon Valley - Tesla Destination,3101 W Warren Ave,Fremont,CA,94538,37.483726,-121.939835,P
+659,112976,Fremont Marriott Silicon Valley - Tesla Destination,46100 Landing Pkwy,Fremont,CA,94538,37.488967,-121.94617,P
+660,112977,Best Western Garden Court Inn - Tesla Destination,5400 Mowry Ave,Fremont,CA,94538,37.532181,-122.000213,P
+661,112978,DoubleTree by Hilton Fresno Convention Center - Tesla Destination,2233 Ventura St,Fresno,CA,93720,36.732514,-119.78393,P
+662,112979,Best Western Plus Fresno Inn - Tesla Destination,480 E. Shaw Ave,Fresno,CA,93710,36.8086559,-119.7810627,P
+663,112980,Kendall Jackson Wine Estate - Tesla Destination,5007 Fulton Rd,Fulton,CA,95439,38.504217,-122.770179,P
+664,112981,Old World Winery - Tesla Destination,850 River Rd,Fulton,CA,95439,38.495894,-122.766331,P
+665,112983,Zialena Winery - Tesla Destination,21112 River Rd,Geyserville,CA,95441,38.716197,-122.893565,P
+666,112985,David Coffaro Winery - Tesla Destination,7485 Dry Creek Rd,Geyserville,CA,95441,38.705497,-122.960132,P
+667,112986,Trattore Farms - Tesla Destination,7878 Dry Creek Rd,Geyserville,CA,95441,38.710151,-122.961827,P
+668,112987,Olea Hotel - Tesla Destination,5131 Warm Springs Rd,Glen Ellen,CA,95442,38.366659,-122.52871,P
+669,112988,Valley of the Moon Winery - Tesla Destination,777 Madrone Rd,Glen Ellen,CA,95442,38.340537,-122.50572,P
+670,112989,Bacara Resort & Spa - Tesla Destination,8301 Hollister Ave,Goleta,CA,93117,34.435065,-119.920236,P
+671,112990,Gray Eagle Lodge - Tesla Destination,5000 Gold Lake Rd,Graeagle,CA,96103,39.723118,-120.662973,P
+672,112991,Chalet View Lodge - Tesla Destination,72056 Hwy 70,Graeagle,CA,96103,39.793039,-120.531491,P
+673,112993,Grass Valley Courtyard Suites - Tesla Destination,210 N Auburn St,Grass Valley,CA,95945,39.220443,-121.062682,P
+674,112994,"The Groveland Hotel, a Select Registry Property - Tesla Destination",18767 Main St,Groveland,CA,95321,37.839448,-120.229199,P
+675,112995,Evergreen Lodge - Tesla Destination,33160 Evergreen Rd,Groveland,CA,95321,37.875969,-119.858266,P
+676,112996,The Stavrand - Tesla Destination,13555 Rte 116,Guerneville,CA,95446,38.4996103,-122.9890892,P
+677,112999,"The Ritz-Carlton, Half Moon Bay + Golf Links - Tesla Destination",1 Miramontes Point Rd,Half Moon Bay,CA,94019,37.43374,-122.441248,P
+678,113001,The Gardens Casino - Tesla Destination,11871 Carson St,Hawaiian Gardens,CA,90716,33.832254,-118.079218,P
+679,113002,Hampton Inn Los Angeles Int'l Airport Hawthorne - Tesla Destination,11430 Acacia Ave,Hawthorne,CA,90250,33.930692,-118.350711,P
+680,113003,Ayres Hotel Manhattan Beach/Hawthorne - Tesla Destination,14400 Hindry Ave,Hawthorne,CA,90250,33.901253,-118.371181,P
+681,113004,Madrona Manor Wine Country Inn & Restaurant - Tesla Destination,1001 Westside Rd,Healdsburg,CA,95448,38.604548,-122.886511,P
+682,113005,Gary Farrell Vineyards & Winery - Tesla Destination,10701 Westside Rd,Healdsburg,CA,95448,38.507359,-122.897396,P
+683,113006,Comstock Wines - Tesla Destination,1290 Dry Creek Rd,Healdsburg,CA,95448,38.632637,-122.895148,P
+684,113007,h2hotel - Tesla Destination,219 Healdsburg Ave,Healdsburg,CA,94558,38.609124,-122.870456,P
+685,113008,Hotel Healdsburg - Tesla Destination,25 Matheson St,Healdsburg,CA,95448,38.610448,-122.871408,P
+686,113009,Dry Creek Vineyard - Tesla Destination,3770 Lambert Bridge Rd,Healdsburg,CA,95448,38.652759,-122.925048,P
+687,113010,Lambert Bridge Winery - Tesla Destination,4085 W Dry Creek Rd,Healdsburg,CA,95448,38.646898,-122.927687,P
+688,113012,Papapietro Perry Winery - Tesla Destination,4791 Dry Creek Rd,Healdsburg,CA,95448,38.67324,-122.933823,P
+689,113013,Quivira Vineyards - Tesla Destination,4900 W Dry Creek Rd,Healdsburg,CA,94949,38.655932,-122.937324,P
+690,113015,Ridge Vineyards - Tesla Destination,650 Lytton Springs Rd,Healdsburg,CA,95448,38.659382,-122.885417,P
+691,113016,River Belle Inn - Tesla Destination,68 Front St,Healdsburg,CA,95448,38.606658,-122.861649,P
+692,113017,Williams Selyem Winery - Tesla Destination,7227 Westside Rd,Healdsburg,CA,95405,38.520826,-122.869841,P
+693,113018,Thomas George Estates - Tesla Destination,8075 Westside Rd,Healdsburg,CA,95448,38.522965,-122.879001,P
+694,113019,"Twomey Cellars, Healdsburg - Tesla Destination",3000 Westside Rd,Healdsburg,CA,95448,38.577291,-122.876575,P
+695,113020,TE Connectivity-Hemet - Tesla Destination,5733 W Whittier Ave,Hemet,CA,92545,33.735562,-117.030779,P
+696,113021,San Manuel Indian Bingo & Casino - Tesla Destination,777 San Manuel Blvd,Highland,CA,92346,34.150335,-117.229094,P
+697,113022,Sorensen's Resort - Tesla Destination,14255 Hwy 88,Hope Valley,CA,96120,38.7747706,-119.9029911,P
+698,113023,Real Goods Solar Living Center - Tesla Destination,13771 S Hwy 101,Hopland,CA,95449,38.966973,-123.114044,P
+699,113024,Terra Savia Winery - Tesla Destination,14160 Mountain House Rd,Hopland,CA,95449,38.959887,-123.115359,P
+700,113025,Hyatt Regency Huntington Beach - Tesla Destination,21500 Pacific Coast Highway,Huntington Beach,CA,92648,33.6511516,-117.990526,P
+701,113026,Pasea Hotel & Spa - Tesla Destination,21080 Pacific Coast Hwy,Huntington Beach,CA,92648,33.655156,-117.999073,P
+702,113027,Fern Valley Inn - Tesla Destination,25210 Fern Valley Rd,Idyllwild,CA,92549,33.7554,-116.702189,P
+703,113028,Renaissance Indian Wells Resort & Spa - Tesla Destination,44400 Indian Wells Ln,Indian Wells,CA,92210,33.723301,-116.329538,P
+704,113029,Hyatt Regency Indian Wells Resort & Spa - Tesla Destination,44600 Indian Wells Ln,Indian Wells,CA,92210,33.723051,-116.32682,P
+705,113030,"Miramonte Resort & Spa, a Destination Hotel - Tesla Destination",45000 Indian Wells Ln,Indian Wells,CA,92210,33.720792,-116.330965,P
+706,113031,Big Rock Pub & Indian Springs Golf Club - Tesla Destination,79940 Westward Ho Dr,Indio,CA,92201,33.715419,-116.270206,P
+707,113033,Tomales Bay Resort - Tesla Destination,12938 Sir Francis Drake Blvd,Inverness,CA,94937,38.107042,-122.862711,P
+708,113034,SPACE - Tesla Destination,17666 Fitch,Irvine,CA,92614,33.694745,-117.858723,P
+709,113035,Irvine Marriott - Tesla Destination,18000 Von Karman Ave,Irvine,CA,92612,33.678988,-117.851352,P
+710,113036,Marriott Irvine Spectrum - Tesla Destination,7889 Irvine Center Dr,Irvine,CA,92618,33.65729,-117.748379,P
+711,113037,Chicken Ranch Casino - Tesla Destination,16929 Chicken Ranch Rd,Jamestown,CA,95327,37.929206,-120.451752,P
+712,113038,Jamestown Hotel - Tesla Destination,18153 Main St,Jamestown,CA,95327,37.952106,-120.423294,P
+713,113042,Orchard Hill Country Inn - Tesla Destination,2502 Washington St,Julian,CA,92036,33.080346,-116.601988,P
+714,113044,La Rochelle Winery - Tesla Destination,233 Adobe Canyon Rd,Kenwood,CA,95452,38.428521,-122.555443,P
+715,113047,Empress Hotel - Tesla Destination,7766 Fay Ave,La Jolla,CA,92037,32.844475,-117.275126,P
+716,113048,Best Western Plus La Mesa - Tesla Destination,9550 Murray Dr,La Mesa,CA,91943,32.779705,-116.99169,P
+717,113049,Embassy Suites La Quinta - Hotel & Spa - Tesla Destination,50777 Santa Rosa Plaza,La Quinta,CA,92253,33.680036,-116.302711,P
+718,113050,The Madison Club - Tesla Destination,53-035 Meriwether Wy,La Quinta,CA,92253,33.660694,-116.244489,P
+719,113051,City of La Quinta - Tesla Destination,78495 Calle Tampico,La Quinta,CA,92253,33.677573,-116.295878,P
+720,113052,Hideaway Golf Club - Tesla Destination,80-440 Hideaway Club Dr,La Quinta,CA,92253,33.665933,-116.263705,P
+721,113054,The Chateau at Lake La Quinta - Tesla Destination,78-120 Caleo Bay,La Quinta,CA,92253,33.703455,-116.293031,P
+722,113055,Surf & Sand Resort - Tesla Destination,1555 S Coast Hwy,Laguna Beach,CA,92651,33.530274,-117.773811,P
+723,113056,Mozambique Restaurant - Tesla Destination,1740 S Coast Hwy,Laguna Beach,CA,92651,33.52938,-117.771459,P
+724,113057,Montage Laguna Beach - Tesla Destination,30801 South Coast Hwy,Laguna Beach,CA,92651,33.516102,-117.757461,P
+725,113058,The Ranch at Laguna Beach - Tesla Destination,31106 S Coast Hwy,Laguna Beach,CA,92651,33.51357,-117.748042,P
+726,113059,Ayres Hotel - Laguna Woods - Tesla Destination,24341 El Toro Rd,Laguna Woods,CA,92637,33.610142,-117.729803,P
+727,113060,Lake Arrowhead Resort & Spa - Tesla Destination,27984 Highway 189,Lake Arrowhead,CA,92352,34.2508,-117.191926,P
+728,113061,The Cottage at Winjes Farm - Tesla Destination,45875 County Rd 1,Lake City,CA,96115,41.740992,-120.194759,P
+729,113062,Lake Elsinore Valley Center - Tesla Destination,2501 E Lakeshore Dr,Lake Elsinore,CA,92530,33.6601961,-117.302192,P
+730,113063,Tachi Palace Hotel and Casino - Tesla Destination,17225 Jersey Ave,Lemoore,CA,93245,36.236696,-119.766144,P
+731,113064,The Old Lewiston Inn - Tesla Destination,71 Deadwood Rd,Lewiston,CA,96052,40.713669,-122.803812,P
+732,113065,Dennen's Victorian Farmhouse - Tesla Destination,7001 North Hwy One,Little River,CA,95456,39.262711,-123.783953,P
+733,113066,Little River Inn - Tesla Destination,7751 N HWY 1,Little River,CA,95456,39.272267,-123.789132,P
+734,113067,Mendocino Inn & Spa - Tesla Destination,8211 N Highway 1,Little River,CA,95456,39.278015,-123.790152,P
+735,113068,The Inn at Locke House - Tesla Destination,19960 N. Elliott Road,Lockeford,CA,95237,38.165257,-121.152498,P
+736,113069,Wine & Rose Hotel - Tesla Destination,2505 W Turner Rd,Lodi,CA,95242,38.1462792,-121.3071982,P
+737,113071,Spear Vineyards and Winery - Tesla Destination,6700 CA-246,Lompoc,CA,93436,34.637418,-120.298425,P
+738,113072,Renaissance Long Beach Hotel - Tesla Destination,111 E Ocean Blvd,Long Beach,CA,90802,33.767198,-118.191987,P
+739,113073,Long Beach Marriott - Tesla Destination,4700 Airport Plaza Dr,Long Beach,CA,90815,33.8114844,-118.138451,P
+740,113074,"Hotel Maya, a Doubletree by Hilton - Tesla Destination",700 Queensway Dr,Long Beach,CA,90802,33.757146,-118.19861,P
+741,113075,Bob's Well Bread Bakery - Tesla Destination,550 Bell St,Los Alamos,CA,93440,34.743791,-120.276887,P
+742,113076,Courtyard Marriott Palo Alto-Los Altos - Tesla Destination,4320 El Camino Real,Los Altos,CA,94022,37.40506,-122.119167,P
+743,113077,Met Lofts Parking Garage - Tesla Destination,1050 S Flower St,Los Angeles,CA,90015,34.042799,-118.262703,P
+744,113078,Luxe Sunset Blvd Hotel - Tesla Destination,11461 Sunset Blvd,Los Angeles,CA,90049,34.068876,-118.402376,P
+745,113079,Hollywood Hotel - Tesla Destination,1160 N Vermont Ave,Los Angeles,CA,90029,34.093106,-118.291242,P
+746,113080,Wilshire West Medical Tower - Tesla Destination,11645 Wilshire Blvd,Los Angeles,CA,90025,34.050187,-118.460342,P
+747,113081,Doubletree by Hilton Los Angeles Downtown - Tesla Destination,120 S Los Angeles St,Los Angeles,CA,90012,34.050528,-118.242649,P
+748,113082,Mr. C Beverly Hills - Tesla Destination,1224 Beverwil Dr,Los Angeles,CA,90035,34.055264,-118.398586,P
+749,113083,1600 Vine Parking Garage - Tesla Destination,1600 Vine St,Los Angeles,CA,90028,34.099893,-118.325744,P
+750,113084,InterContinental Hotel Los Angeles - Tesla Destination,2151 Avenue of the Stars,Los Angeles,CA,90067,34.054371,-118.411911,P
+751,113085,The Glen Centre - Tesla Destination,2936 Beverly Glen Cir,Los Angeles,CA,90077,34.12755,-118.443664,P
+752,113087,Wilshire Vermont Parking Garage - Tesla Destination,3183 Wilshire Blvd,Los Angeles,CA,90010,34.062301,-118.290127,P
+753,113088,The Westin Bonaventure Hotel & Suites - Tesla Destination,404 S Figueroa St,Los Angeles,CA,90071,34.052495,-118.255408,P
+754,113089,The Beverly Garland Hotel - Tesla Destination,4222 Vineland Ave,Los Angeles,CA,91602,34.144974,-118.370105,P
+755,113090,SLS Hotel at Beverly Hills - Tesla Destination,465 S La Cienega Blvd,Los Angeles,CA,90048,34.069888,-118.376637,P
+756,113091,"The Standard, Downtown LA - Tesla Destination",550 S Flower St,Los Angeles,CA,90071,34.050184,-118.257063,P
+757,113092,Hilton Los Angeles Airport - Tesla Destination,5711 W Century Blvd,Los Angeles,CA,90045,33.94584,-118.381748,P
+758,113094,W Hollywood Hotel and Residences - Tesla Destination,6250 Hollywood Blvd,Los Angeles,CA,90028,34.101608,-118.325804,P
+759,113095,Hotel Bel-Air - Tesla Destination,701 Stone Canyon Rd,Los Angeles,CA,90077,34.086515,-118.445697,P
+760,113096,Chateau Marmont - Tesla Destination,8221 Sunset Blvd,Los Angeles,CA,90046,34.09806,-118.368305,P
+761,113097,Elan Hotel - Tesla Destination,8435 Beverly Blvd,Los Angeles,CA,90048,34.076247,-118.374499,P
+762,113098,Sofitel Los Angeles at Beverly Hills - Tesla Destination,8555 Beverly Blvd,Los Angeles,CA,90048,34.07626,-118.377534,P
+763,113099,LEVEL Furnished Living - Tesla Destination,888 S Olive St,Los Angeles,CA,90014,34.04385,-118.257712,P
+764,113103,Ace Hotel Los Angeles - Tesla Destination,929 South Broadway,Los Angeles,CA,90015,34.041963,-118.256607,P
+765,113104,W Hotel Los Angeles - West Beverly Hills - Tesla Destination,930 Hilgard Ave,Los Angeles,CA,90024,34.06329,-118.441191,P
+766,113105,Hotel Figueroa - Tesla Destination,939 S Figueroa St,Los Angeles,CA,90015,34.045531,-118.264006,P
+767,113106,Toll House Hotel - Tesla Destination,140 S Santa Cruz Ave,Los Gatos,CA,95030,37.2210758,-121.9850882,P
+768,113108,Hotel Los Gatos - Tesla Destination,210 E Main St,Los Gatos,CA,95030,37.220969,-121.977106,P
+769,113109,Los Gatos Garden Inn - Tesla Destination,46 E Main St,Los Gatos,CA,95030,37.220872,-121.980319,P
+770,113110,Geoffrey's Malibu - Tesla Destination,27400 Coast Hwy,Malibu,CA,90265,34.025182,-118.769613,P
+771,113111,Paradise Cove Beach Cafe - Tesla Destination,28128 Pacific Coast Hwy,Malibu,CA,90265,34.020235,-118.787141,P
+772,113112,The Village Lodge at Mammoth - Tesla Destination,1111 Forest Trl,Mammoth Lakes,CA,93546,37.651321,-118.986123,P
+773,113113,Juniper Springs Resort - Tesla Destination,4000 Meridian Blvd,Mammoth Lakes,CA,93546,37.6355,-118.99,P
+774,113114,80|50 Mammoth - Tesla Destination,50 Canyon Blvd,Mammoth Lakes,CA,93546,37.6499,-118.985167,P
+775,113115,Westin Monache Resort - Tesla Destination,50 Hillside Dr,Mammoth Lakes,CA,93546,37.64947,-118.986681,P
+776,113116,"westdrift Manhattan Beach, Autograph Collection - Tesla Destination",1400 Parkview Ave,Manhattan Beach,CA,90266,33.90027,-118.388495,P
+777,113117,Delicato Family Vineyard Manteca - Tesla Destination,12221 South Hwy 99,Manteca,CA,95336,37.854975,-121.2193169,P
+778,113118,Marina del Rey Marriott - Tesla Destination,4100 Admiralty Way,Marina del Rey,CA,90292,33.982146,-118.459493,P
+779,113119,"The Ritz-Carlton, Marina Del Rey - Tesla Destination",4375 Admiralty Way,Marina del Rey,CA,90292,33.9841057,-118.4507094,P
+780,113120,Yosemite Plaisance Bed & Breakfast - Tesla Destination,4953 Trabucco St,Mariposa,CA,95338,37.486506,-119.961525,P
+781,113121,The Stanford Inn by the Sea - Tesla Destination,10051 S Big River Rd,Mendocino,CA,95460,39.300258,-123.791342,P
+782,113122,"Sea Rock Inn, a Select Registry Property - Tesla Destination",11101 Lansing St,Mendocino,CA,95460,39.3154958,-123.799205,P
+783,113123,Agate Cove Inn - Tesla Destination,11201 Lansing St,Mendocino,CA,95460,39.316084,-123.799273,P
+784,113124,MacCallum House - Tesla Destination,45020 Albion St,Mendocino,CA,95460,39.30559,-123.799629,P
+785,113125,Hotel Nia - Tesla Destination,200 Independence Dr,Menlo Park,CA,94025,37.482386,-122.176522,P
+786,113126,Twin Pine Casino & Hotel - Tesla Destination,22223 Rancheria Rd,Middletown,CA,95461,38.732695,-122.624575,P
+787,113127,Millwood Inn and Suites - Tesla Destination,1375 El Camino Real,Millbrae,CA,94030,37.609602,-122.401414,P
+788,113129,SpringHill Suites by Marriott Modesto - Tesla Destination,1901 W Orangeburg Ave,Modesto,CA,95350,37.664601,-121.026568,P
+789,113130,San Ysidro Ranch - Tesla Destination,900 San Ysidro Lane,Montecito,CA,93108,34.446845,-119.623718,P
+790,113132,Super 8 by Wyndham Monterey/Carmel - Tesla Destination,1300 Munras Ave,Monterey,CA,93940,36.585678,-121.900656,P
+791,113134,"Monterey Tides, a Joie de Vivre hotel - Tesla Destination",2600 Sand Dunes Dr,Monterey,CA,93940,36.611223,-121.858855,P
+792,113135,Monterey Marriott - Tesla Destination,350 Calle Principal,Monterey,CA,93940,36.6008432,-121.8951335,P
+793,113136,The Monterey Hotel - Tesla Destination,406 Alvarado St,Monterey,CA,93940,36.599754,-121.894638,P
+794,113138,Villafranca Inn - Tesla Destination,900 Munras Ave,Monterey,CA,93940,36.592792,-121.894115,P
+795,113140,Ayres Hotel & Spa - Moreno Valley - Tesla Destination,12631 Memorial Way,Moreno Valley,CA,92553,33.935974,-117.27492,P
+796,113141,Coyote Creek Golf Club - Tesla Destination,1 Coyote Creek Golf Dr,Morgan Hill,CA,95037,37.193039,-121.702313,P
+797,113142,La Quinta Inn & Suites Morgan Hill - Tesla Destination,17043 Condit Rd,Morgan Hill,CA,95037,37.134293,-121.631501,P
+798,113143,Seal Cove Inn - Tesla Destination,221 Cypress Ave,Moss Beach,CA,94038,37.5220717,-122.5135405,P
+799,113144,Holiday Inn Express Mountain View - Tesla Destination,1561 W El Camino Real,Mountain View,CA,94040,37.3894309,-122.0920614,P
+800,113145,Hotel Vue - Tesla Destination,64 W El Camino Real,Mountain View,CA,94040,37.381445,-122.074197,P
+801,113146,Shasta Inn - Tesla Destination,1121 S Mount Shasta Blvd,Mount Shasta,CA,96067,41.303614,-122.30835,P
+802,113147,Courtwood Inn - Tesla Destination,2081 Ponderosa Way,Murphys,CA,95247,38.142564,-120.495249,P
+803,113148,"Dunbar House 1880, a Select Registry Property - Tesla Destination",271 Jones St,Murphys,CA,95247,38.136964,-120.461852,P
+804,113149,Victoria Inn - Tesla Destination,402 Main St,Murphys,CA,95247,38.137793,-120.464116,P
+805,113150,SpringHill Suites by Marriott Napa Valley - Tesla Destination,101 Gateway Rd E,Napa,CA,94558,38.2242325,-122.2594288,P
+806,113151,Candlelight Inn Napa Valley - Tesla Destination,1045 Easum Dr,Napa,CA,94558,38.3033887,-122.3113571,P
+807,113152,O'Brien Estates - Tesla Destination,1200 Orchard Ave,Napa,CA,94558,38.34591,-122.33966,P
+808,113153,The Westin Verasa Napa - Tesla Destination,1314 McKinstry St,Napa,CA,94559,38.304309,-122.283944,P
+809,113154,Silverado Resort & Spa - Tesla Destination,1600 Atlas Peak Rd,Napa,CA,94558,38.348616,-122.264465,P
+810,113155,River Terrace Inn - Tesla Destination,1600 Soscol Ave,Napa,CA,94559,38.305275,-122.283453,P
+811,113156,Reynolds Family Winery - Tesla Destination,3266 Silverado Trl,Napa,CA,94558,38.355633,-122.28608,P
+812,113157,SENZA Hotel - Tesla Destination,4066 Howard Ln,Napa,CA,94558,38.341938,-122.324832,P
+813,113158,Black Stallion Estate Winery - Tesla Destination,4089 Silverado Trl,Napa,CA,94558,38.3598318,-122.2906388,P
+814,113159,"Inn on Randolph, a Select Registry Property - Tesla Destination",411 Randolph St,Napa,CA,94559,38.292615,-122.287015,P
+815,113160,"Churchill Manor, a Select Registry Property - Tesla Destination",485 Brown St,Napa,CA,94559,38.2930642,-122.2844017,P
+816,113161,Napa River Inn - Tesla Destination,500 Main St,Napa,CA,94559,38.29622,-122.283138,P
+817,113162,Rudd Winery - Tesla Destination,500 Oakville Cross Rd,Napa,CA,94558,38.455324,-122.365144,P
+818,113163,Odette Estate Winery - Tesla Destination,5998 Silverado Trail,Napa,CA,94558,38.406448,-122.328279,P
+819,113164,Quixote and Pott Wines - Tesla Destination,6126 Silverado Trl S,Napa,CA,94558,38.417886,-122.323317,P
+820,113166,Italics Winegrowers - Tesla Destination,70 Rapp Ln,Napa,CA,94558,38.308931,-122.246385,P
+821,113167,ZD Wines - Tesla Destination,8383 Silverado Trl,Napa,CA,94558,38.476549,-122.38888,P
+822,113168,Ashes & Diamonds Winery - Tesla Destination,4130 Howard Ln,Napa Valley,CA,94558,38.344114,-122.326251,P
+823,113169,Doubletree by Hilton - Newark/Fremont - Tesla Destination,39900 Balentine Dr,Newark,CA,94560,37.521383,-121.9909546,P
+824,113171,Hyatt Regency Newport Beach - Tesla Destination,1107 Jamboree Rd,Newport Beach,CA,92660,33.616571,-117.890341,P
+825,113172,Balboa Bay Resort - Tesla Destination,1221 W Coast Hwy,Newport Beach,CA,92663,33.61548,-117.914397,P
+826,113173,The Resort At Pelican Hill - Tesla Destination,22701 S Pelican Hill Rd,Newport Beach,CA,92657,33.588671,-117.842165,P
+827,113174,"Lido House, Autograph Collection - Tesla Destination",3300 Newport Blvd,Newport Beach,CA,92663,33.616574,-117.929906,P
+828,113175,Island Hotel - Tesla Destination,690 Newport Center Dr,Newport Beach,CA,92660,33.62027,-117.875355,P
+829,113176,Best Western Plus Yosemite Gateway Inn - Tesla Destination,40530 Hwy 41,Oakhurst,CA,93644,37.336027,-119.64585,P
+830,113177,Hounds Tooth Inn - Tesla Destination,42071 Hwy 41,Oakhurst,CA,93644,37.360511,-119.644104,P
+831,113178,Chateau du Sureau - Tesla Destination,48688 Victoria Lane,Oakhurst,CA,93644,37.326493,-119.660074,P
+832,113179,Holiday Inn Express Hotel & Suites Oakland-Airport - Tesla Destination,66 Airport Access Rd,Oakland,CA,94603,37.725841,-122.198335,P
+833,113180,Signature Flight Support OAK - Oakland Int'l Airport - Tesla Destination,8433 Earhart Rd,Oakland,CA,94621,37.730079,-122.213042,P
+834,113181,Cardinale Estate Winery - Tesla Destination,7600 St Helena Hwy,Oakville,CA,94562,38.430622,-122.38952,P
+835,113182,Oakville Grocery - Tesla Destination,7856 St Helena Hwy,Oakville,CA,94562,38.43722,-122.402878,P
+836,113183,Turnbull Wine Cellars - Tesla Destination,8210 St Helena Hwy,Oakville,CA,94562,38.444093,-122.409261,P
+837,113184,Silver Oak Cellars - Tesla Destination,915 Oakville Crossroad,Oakville,CA,94562,38.441026,-122.38129,P
+838,113185,"Inn at Occidental, a Select Registry Property - Tesla Destination",3657 Church St,Occidental,CA,95465,38.407219,-122.94643,P
+839,113186,Ojai Valley Inn & Spa - Tesla Destination,905 Country Club Rd,Ojai,CA,93023,34.438204,-119.254609,P
+840,113187,Resort at Squaw Creek - Tesla Destination,400 Squaw Valley Rd,Olympic Valley,CA,96146,39.199222,-120.217786,P
+841,113188,Ayres Suites Ontario at the Mills Mall - Tesla Destination,4370 Mills Cir,Ontario,CA,91764,34.070333,-117.557221,P
+842,113189,Ayres Inn & Suites - Ontario - Tesla Destination,4395 E Ontario Mills Pkwy,Ontario,CA,91764,34.070169,-117.555636,P
+843,113190,Haven Craft Kitchen + Bar - Tesla Destination,190 S. Glassell St,Orange,CA,92866,33.786281,-117.853549,P
+844,113191,Ayres Hotel - Orange - Tesla Destination,200 The City Dr N,Orange,CA,92868,33.790277,-117.890929,P
+845,113192,ALO Hotel - Orange - Tesla Destination,3735 W Chapman Ave,Orange,CA,92868,33.789539,-117.891337,P
+846,113194,Feather Falls Casino - Tesla Destination,3 Alverda Dr,Oroville,CA,95966,39.466997,-121.515891,P
+847,113196,Best Western The Inn & Suites Pacific Grove - Tesla Destination,660 Dennett St,Pacific Grove,CA,93950,36.6198213,-121.9328597,P
+848,113197,Embarc Palm Desert - Tesla Destination,1 Willow Ridge,Palm Desert,CA,92260,33.7603,-116.362218,P
+849,113198,"HOTEL PASEO, Autograph Collection - Tesla Destination",45-400 Larkspur Ln,Palm Desert,CA,92260,33.718238,-116.380194,P
+850,113199,JW Marriott Desert Springs Resort and Spa - Tesla Destination,74855 Country Club Dr,Palm Desert,CA,92260,33.757998,-116.360617,P
+851,113200,Indian Wells Resort Hotel - Tesla Destination,76661 California 111,Palm Desert,CA,92210,33.721415,-116.32681,P
+852,113201,Sparrows Lodge - Tesla Destination,1330 E Palm Canyon Dr,Palm Springs,CA,92264,33.801901,-116.532388,P
+853,113203,Riviera Palm Springs - Tesla Destination,1600 N Indian Canyon Dr,Palm Springs,CA,92262,33.8457902,-116.5444318,P
+854,113205,Holiday House Palm Springs - Tesla Destination,200 W Areans Rd,Palm Springs,CA,92262,33.821543,-116.548456,P
+855,113206,Ingleside Inn - Tesla Destination,200 W Ramon Rd,Palm Springs,CA,92264,33.816364,-116.54844,P
+856,113208,The Monkey Tree Hotel - Tesla Destination,2388 E Racquet Club Rd,Palm Springs,CA,92262,33.852474,-116.52098,P
+857,113210,The Willows Historic Palm Springs Inn - Tesla Destination,412 W Tahquitz Canyon Way,Palm Springs,CA,92262,33.8231919,-116.5504963,P
+858,113211,Parker Palm Springs - Tesla Destination,4200 E Palm Canyon Dr,Palm Springs,CA,92264,33.795216,-116.501511,P
+859,113212,Colony Palms Hotel - Tesla Destination,572 N Indian Canyon Dr,Palm Springs,CA,92262,33.831533,-116.545469,P
+860,113213,Alcazar Palm Springs - Tesla Destination,622 N Palm Canyon Dr,Palm Springs,CA,92262,33.832355,-116.545965,P
+861,113216,Ace Hotel Palm Springs - Tesla Destination,701 E Palm Canyon Dr,Palm Springs,CA,92264,33.801116,-116.540061,P
+862,113217,Element  Palmdale - Tesla Destination,39325 Trade Center Dr,Palmdale,CA,93551,34.597428,-118.143177,P
+863,113218,Transplants Brewing Company - Tesla Destination,40242 La Quinta Ln  Suite 101,Palmdale,CA,93551,34.614361,-118.139606,P
+864,113219,The Epiphany Hotel - Tesla Destination,180 Hamilton Ave,Palo Alto,CA,94301,37.443601,-122.161516,P
+865,113220,Creekside Inn Hotel - Tesla Destination,3400 El Camino Real,Palo Alto,CA,94306,37.418651,-122.135119,P
+866,113221,Hilton Garden Inn Palo Alto - Tesla Destination,4216 El Camino Real,Palo Alto,CA,94306,37.409314,-122.123068,P
+867,113222,Dinah's Garden Hotel & Poolside Restaurant - Tesla Destination,4261 El Camino Real,Palo Alto,CA,94306,37.407771,-122.120076,P
+868,113223,Homewood Suites by Hilton Palo Alto - Tesla Destination,4329 El Camino Real,Palo Alto,CA,94306,37.405664,-122.118794,P
+869,113224,The Farm Winery - Tesla Destination,10920 Chimney Rock Rd,Paso Robles,CA,93446,35.654935,-120.889991,P
+870,113225,Paso Robles Inn - Tesla Destination,1103 Spring St,Paso Robles,CA,93446,35.625553,-120.69206,P
+871,113226,Best Western Plus Black Oak - Tesla Destination,1135 24th St,Paso Robles,CA,93446,35.6410124,-120.6872712,P
+872,113227,JUSTIN Wines - Tesla Destination,11680 Chimney Rock Rd,Paso Robles,CA,93446,35.654981,-120.900694,P
+873,113228,Adelaide Inn - Tesla Destination,1215 Ysabel Ave,Paso Robles,CA,93446,35.6423898,-120.6876664,P
+874,113229,Herman Story Winery - Tesla Destination,1227 Paso Robles St,Paso Robles,CA,93446,35.627343,-120.685824,P
+875,113230,Windward Winery - Tesla Destination,1380 Live Oak Rd,Paso Robles,CA,93446,35.589594,-120.715827,P
+876,113231,SummerWood Winery & Inn - Tesla Destination,2175 Arbor Rd,Paso Robles,CA,93446,35.584158,-120.714971,P
+877,113232,Niner Wine Estates - Tesla Destination,2400 CA 46 W,Paso Robles,CA,93446,35.569905,-120.741587,P
+878,113233,Booker Vineyard & Winery - Tesla Destination,2640 Anderson Rd,Paso Robles,CA,93446,35.578571,-120.739736,P
+879,113234,Allegretto Vineyard Resort - Tesla Destination,2700 Buena Vista Dr,Paso Robles,CA,93446,35.646657,-120.671627,P
+880,113235,Alta Colina Vineyard & Winery - Tesla Destination,2825 Adelaida Rd,Paso Robles,CA,93446,35.65105,-120.741489,P
+881,113236,The Oaks Hotel Paso Robles - Tesla Destination,3000 Riverside Ave,Paso Robles,CA,93446,35.645075,-120.688609,P
+882,113237,Tin City Cider - Tesla Destination,3005 Limestone Wy,Paso Robles,CA,93446,35.576456,-120.690461,P
+883,113238,Clos Solene Winery/ Aaron Winery - Tesla Destination,3050 Limestone Way,Paso Robles,CA,93446,35.575977,-120.69072,P
+884,113239,Robert Hall Winery - Tesla Destination,3443 Mill Rd,Paso Robles,CA,93446,35.643897,-120.633493,P
+885,113240,CaliPaso Winery - Tesla Destination,4230 Buena Vista Dr,Paso Robles,CA,93446,35.662696,-120.668302,P
+886,113241,Giornata - Tesla Destination,470 Marquita Ave,Paso Robles,CA,93446,35.574613,-120.689693,P
+887,113242,Pear Valley Estate Wine - Tesla Destination,4900 Union Rd,Paso Robles,CA,93446,35.635866,-120.607745,P
+888,113243,Vines on the Marycrest - Tesla Destination,5076 Mustard Creek Rd,Paso Robles,CA,93446,35.674968,-120.729615,P
+889,113244,Derby Wine Estates Tasting Room - Tesla Destination,525 Riverside Ave,Paso Robles,CA,93446,35.620301,-120.686952,P
+890,113245,Creekside Bed & Breakfast - Tesla Destination,5325 Vineyard Dr,Paso Robles,CA,93446,35.5707816,-120.7913841,P
+891,113246,Denner Winery - Tesla Destination,5414 Vineyard Dr,Paso Robles,CA,93446,35.576878,-120.792808,P
+892,113247,Jada Vineyard & Winery - Tesla Destination,5620 Vineyard Dr,Paso Robles,CA,93446,35.581241,-120.796249,P
+893,113248,Adelaida Cellars - Tesla Destination,5805 Adelaida Rd,Paso Robles,CA,93446,35.645249,-120.802495,P
+894,113249,Cass Winery - Tesla Destination,7350 Linne Rd,Paso Robles,CA,93446,35.59766,-120.564938,P
+895,113250,Brecon Estate Tasting Room - Tesla Destination,7450 Vineyard Dr,Paso Robles,CA,93446,35.597588,-120.829814,P
+896,113251,HammerSky Winery - Tesla Destination,7725 Vineyard Dr,Paso Robles,CA,93446,35.59795,-120.83332,P
+897,113252,Glunz Family Winery & Cellars - Tesla Destination,8331 E Hwy 46,Paso Robles,CA,93446,35.657456,-120.545645,P
+898,113253,Pasolivo Olive Oil - Tesla Destination,8530 Vineyard Dr,Paso Robles,CA,93446,35.620507,-120.845779,P
+899,113254,Halter Ranch Vineyard - Tesla Destination,8910 Adelaida Rd,Paso Robles,CA,93446,35.639417,-120.854499,P
+900,113255,Tablas Creek Vineyard - Tesla Destination,9339 Adelaida Rd,Paso Robles,CA,93446,35.636418,-120.859674,P
+901,113256,The Lodge at Pebble Beach - Tesla Destination,1700 17 Mile Dr,Pebble Beach,CA,93953,36.568768,-121.950626,P
+902,113257,Poppy Hills Golf Course - Tesla Destination,3200 Lopez Rd,Pebble Beach,CA,93953,36.582435,-121.938447,P
+903,113259,Lagunitas Brewing - Tesla Destination,1280 N McDowell Blvd,Petaluma,CA,94954,38.272406,-122.662407,P
+904,113260,Sheraton Sonoma County-Petaluma - Tesla Destination,745 Baywood Dr,Petaluma,CA,94954,38.230988,-122.612703,P
+905,113261,The Bewildered Pig - Tesla Destination,1810 Hwy 128,Philo,CA,95466,39.131869,-123.532571,P
+906,113262,Greenwood Ridge Vineyards Tasting Room - Tesla Destination,5501 Highway 128,Philo,CA,95466,39.102721,-123.49261,P
+907,113264,Kon Tiki Inn - Tesla Destination,1621 Price St,Pismo Beach,CA,93449,35.146613,-120.645444,P
+908,113265,Cottage Inn By the Sea - Tesla Destination,2351 Price St,Pismo Beach,CA,93449,35.14834,-120.650611,P
+909,113266,Pismo Lighthouse Suites - Tesla Destination,2411 Price St,Pismo Beach,CA,93449,35.149329,-120.65135,P
+910,113267,Shore Cliff Hotel - Tesla Destination,2555 Price St,Pismo Beach,CA,93449,35.149106,-120.653272,P
+911,113268,The Inn at the Cove - Tesla Destination,2651 Price St,Pismo Beach,CA,93449,35.152539,-120.660449,P
+912,113269,Dolphin Bay Resort & Spa - Tesla Destination,2727 Shell Beach Rd,Pismo Beach,CA,93449,35.164407,-120.689728,P
+913,113270,The Cliffs Resort - Tesla Destination,2757 Shell Beach Rd,Pismo Beach,CA,93449,35.165863,-120.69005,P
+914,113271,Madrona Vineyards - Tesla Destination,2560 High Hill Rd,Placerville,CA,95667,38.744573,-120.718891,P
+915,113272,Bella Vista Bed & Breakfast Inc. - Tesla Destination,581 Cold Springs Rd,Placerville,CA,95667,38.790636,-120.888201,P
+916,113273,The Rose Hotel - Tesla Destination,807 Main St,Pleasanton,CA,94566,37.663977,-121.874814,P
+917,113274,Andis Wines - Tesla Destination,11000 Shenandoah Rd,Plymouth,CA,95642,38.521509,-120.818946,P
+918,113275,Karmere Vineyards & Winery - Tesla Destination,11970 Shenandoah Rd,Plymouth,CA,95669,38.525699,-120.801358,P
+919,113276,REST Hotel Plymouth - Tesla Destination,9372 Main St,Plymouth,CA,95669,38.480785,-120.848399,P
+920,113277,Taste Restaurant and Wine Bar - Tesla Destination,9402 Main St,Plymouth,CA,95669,38.480967,-120.847971,P
+921,113278,Shenandoah Vineyards - Tesla Destination,12300 Steiner Rd,Plymouth,CA,95669,38.53681,-120.792722,P
+922,113279,Omni Rancho Las Palmas Resort and Spa - Tesla Destination,41000 Bob Hope Dr,Rancho Mirage,CA,92270,33.739751,-116.407298,P
+923,113280,"The Ritz-Carlton, Rancho Mirage - Tesla Destination",6900 Frank Sinatra Dr,Rancho Mirage,CA,92270,33.766815,-116.45826,P
+924,113281,The Westin Mission Hills Golf Resort & Spa - Tesla Destination,71333 Dinah Shore Dr,Rancho Mirage,CA,92270,33.799343,-116.417506,P
+925,113282,Hilton Garden Inn Rancho Mirage - Tesla Destination,71-700 Hwy 111,Rancho Mirage,CA,92270,33.742772,-116.412658,P
+926,113283,The Murieta Inn & Spa - Tesla Destination,7337 Murieta Dr,Rancho Murieta,CA,95683,38.491637,-121.099523,P
+927,113284,Fairbanks Village Plaza - Tesla Destination,16236 San Dieguito Rd,Rancho Santa Fe,CA,92067,32.997119,-117.194047,P
+928,113285,The Inn at Rancho Santa Fe - Tesla Destination,5951 Linea Del Cielo,Rancho Santa Fe,CA,92067,33.019087,-117.205773,P
+929,113286,Best Western Antelope Inn - Tesla Destination,203 Antelope Blvd,Red Bluff,CA,96080,40.181715,-122.220555,P
+930,113289,Best Western Plus Hilltop Inn - Tesla Destination,2300 Hilltop Dr,Redding,CA,96002,40.57403,-122.358323,P
+931,113290,Ayres Hotel - Redlands - Tesla Destination,1015 W Colton Ave,Redlands,CA,92374,34.062404,-117.196918,P
+932,113291,"Shade Hotel, Redondo Beach - Tesla Destination",655 N. Harbor Dr,Redondo Beach,CA,90277,33.848991,-118.394897,P
+933,113292,Marriott Riverside at the Convention Center - Tesla Destination,3400 Market St,Riverside,CA,92501,33.986065,-117.372628,P
+934,113293,Oxford Suites Sonoma - Tesla Destination,67 Golf Course Dr W,Rohnert Park,CA,94928,38.363812,-122.715502,P
+935,113294,DoubleTree by Hilton Los Angeles/Rosemead - Tesla Destination,888 Montebello Blvd,Rosemead,CA,91770,34.036533,-118.079876,P
+936,113295,Best Western Plus Executive Inn - Tesla Destination,18880 Gale Ave,Rowland Heights,CA,91748,33.994759,-117.891493,P
+937,113296,Round Pond Winery - Tesla Destination,875 Rutherford Pl,Rutherford,CA,94558,38.468316,-122.404902,P
+938,113297,Frog's Leap Winery - Tesla Destination,8815 Conn Creek Rd,Rutherford,CA,94573,38.473609,-122.402659,P
+939,113298,Hyatt Regency Sacramento - Tesla Destination,1209 L St,Sacramento,CA,95814,38.5776272,-121.4907685,P
+940,113299,Kimpton Sawyer Hotel - Tesla Destination,500 J St,Sacramento,CA,95814,38.581533,-121.499473,P
+941,113300,Pessagno Winery - Tesla Destination,1645 River Rd,Salinas,CA,93908,36.480776,-121.484144,P
+942,113301,The Mill at 43 Ranch - Tesla Destination,65340 Los Lobos Rd,San Ardo,CA,93450,35.973672,-120.900041,P
+943,113302,Super 8 San Bruno /SF Intl Arpt West - Tesla Destination,421 El Camino Real,San Bruno,CA,94066,37.621832,-122.412209,P
+944,113303,The Bristol Hotel - Tesla Destination,1055 1st Ave,San Diego,CA,92101,32.716655,-117.163677,P
+945,113304,The Lodge at Torrey Pines - Tesla Destination,11480 N Torrey Pines Rd,San Diego,CA,92037,32.904137,-117.24453,P
+946,113305,Radisson Hotel San Diego - Rancho Bernardo - Tesla Destination,11520 W Bernardo Ct,San Diego,CA,92127,33.02097,-117.082304,P
+947,113306,Sheraton San Diego Hotel and Marina - Tesla Destination,1380 Harbor Island Dr,San Diego,CA,92101,32.727033,-117.197655,P
+948,113307,"Paradise Point, A Destination Hotel - Tesla Destination",1404 Vacation Rd,San Diego,CA,92109,32.775408,-117.238673,P
+949,113308,Hyatt Regency Mission Bay Spa & Marina - Tesla Destination,1441 Quivira Rd,San Diego,CA,92109,32.765541,-117.24046,P
+950,113309,Kona Kai Resort and Spa - Tesla Destination,1551 Shelter Island Dr,San Diego,CA,92106,32.70937,-117.232073,P
+951,113310,La Jolla Beach & Tennis Club - Tesla Destination,2000 Spindrift Dr,San Diego,CA,92037,32.853915,-117.258396,P
+952,113311,Aladdin Airport Parking - Tesla Destination,2548 Kettner Blvd,San Diego,CA,92101,32.730308,-117.172655,P
+953,113312,US Grant - Tesla Destination,326 Broadway,San Diego,CA,92101,32.715797,-117.161544,P
+954,113314,Best Western Seven Seas - Tesla Destination,411 Hotel Circle S,San Diego,CA,92108,32.760622,-117.165981,P
+955,113315,W San Diego - Tesla Destination,421 West B St,San Diego,CA,92101,32.7176572,-117.1669007,P
+956,113316,"Embassy Suites Hotel - San Diego, La Jolla - Tesla Destination",4550 La Jolla Village Dr,San Diego,CA,92122,32.874767,-117.208742,P
+957,113318,La Quinta Inn & Suites - Tesla Destination,4610 De Soto St,San Diego,CA,92109,32.807264,-117.21805,P
+958,113319,Fairmont Grand Del Mar Resort - Tesla Destination,5300 Grand Del Mar Ct,San Diego,CA,92130,32.938489,-117.197766,P
+959,113320,Residence Inn by Marriott San Diego Central - Tesla Destination,5400 Kearny Mesa Rd,San Diego,CA,92111,32.83358,-117.143817,P
+960,113321,Pendry San Diego - Tesla Destination,550 J St,San Diego,CA,92101,32.709565,-117.159897,P
+961,113322,Tower23 Hotel - Tesla Destination,723 Felspar St,San Diego,CA,92109,32.797021,-117.256456,P
+962,113323,La Jolla Shores Hotel - Tesla Destination,8110 Camino Del Oro,San Diego,CA,92037,32.854614,-117.257992,P
+963,113324,Lane Field North Garage - Tesla Destination,900 Bayfront Ct,San Diego,CA,92101,32.717043,-117.171821,P
+964,113325,Grande Colonial Hotel - Tesla Destination,910 Prospect St,San Diego,CA,92037,32.847417,-117.275211,P
+965,113327,Estancia La Jolla Hotel and Spa - Tesla Destination,9700 North Torrey Pines Rd,San Diego,CA,92037,32.8838084,-117.2449668,P
+966,113330,101 Second Street Garage - Tesla Destination,101 Second St.,San Francisco,CA,94111,37.788097,-122.39918,P
+967,113331,101 California Street Garage - Tesla Destination,101 California St,San Francisco,CA,94111,37.792826,-122.397675,P
+968,113332,345 California Center Parking Garage - Tesla Destination,115 Battery St,San Francisco,CA,94111,37.792496,-122.39998,P
+969,113333,"Hotel Kabuki, a Joie de Vivre Hotel - Tesla Destination",1625 Post St,San Francisco,CA,94115,37.785523,-122.428919,P
+970,113334,"Hotel Buchanan, a Kimpton Hotel - Tesla Destination",1800 Sutter St,San Francisco,CA,94115,37.78679,-122.430143,P
+971,113335,Loews Regency San Francisco - Tesla Destination,222 Sansome St,San Francisco,CA,94104,37.792442,-122.401039,P
+972,113336,Hilton San Francisco Union Square - Tesla Destination,333 O'Farrell St,San Francisco,CA,94102,37.786079,-122.4104325,P
+973,113337,The Westin St. Francis San Francisco on Union Square - Tesla Destination,335 Powell St,San Francisco,CA,94102,37.787828,-122.408731,P
+974,113338,Park Central Hotel - Tesla Destination,50 3rd St,San Francisco,CA,94103,37.78671,-122.402827,P
+975,113339,The Ritz-Carlton Hotel San Francisco - Tesla Destination,600 Stockton St,San Francisco,CA,94108,37.7918779,-122.4071784,P
+976,113340,San Francisco Marriott Marquis - Tesla Destination,780 Mission St,San Francisco,CA,94103,37.7849,-122.4043,P
+977,113342,The Fairmont San Francisco - Tesla Destination,950 Mason St,San Francisco,CA,94108,37.7924958,-122.4100354,P
+978,113343,InterContinental Mark Hopkins San Francisco - Tesla Destination,999 California St,San Francisco,CA,94108,37.791596,-122.410385,P
+979,113344,San Francisco Zoo - Tesla Destination,Sloat Blvd & Great Hwy,San Francisco,CA,94132,37.73313,-122.505159,P
+980,113345,Atlantic Aviation SJC - Tesla Destination,1250 Aviation Ave,San Jose,CA,95110,37.356798,-121.930151,P
+981,113346,The Fairmont San Jose - Tesla Destination,170 S Market St,San Jose,CA,95113,37.3327794,-121.8892745,P
+982,113347,La Quinta Inn & Suites San Jose Airport - Tesla Destination,2585 Seaboard Ave,San Jose,CA,95131,37.378373,-121.939254,P
+983,113348,Holiday Inn Express San Jose - Tesla Destination,2660 Monterey Hwy,San Jose,CA,95111,37.296681,-121.853109,P
+984,113349,San Jose Marriott - Tesla Destination,301 S Market St,San Jose,CA,95113,37.330348,-121.888385,P
+985,113350,Hyatt House San Jose/Silicon Valley - Tesla Destination,75 Headquarters Dr,San Jose,CA,95134,37.416498,-121.953018,P
+986,113351,Hilton Garden Inn Oakland/San Leandro - Tesla Destination,510 Lewelling Blvd,San Leandro,CA,94579,37.685716,-122.132684,P
+987,113354,Tolosa Winery - Tesla Destination,4910 Edna Rd,San Luis Obispo,CA,94301,35.230915,-120.625431,P
+988,113355,Lakehouse Hotel & Resort - Tesla Destination,1025 La Bonita Dr,San Marcos,CA,92078,33.125037,-117.208168,P
+989,113356,Lakehouse Hotel and Resort - Tesla Destination,1035 La Bonita Dr,San Marcos,CA,92078,33.124952,-117.207924,P
+990,113357,St. Mark Executive Golf Course - Tesla Destination,1556 Camino Del Arroyo,San Marcos,CA,92078,33.120928,-117.216082,P
+991,113358,Rosewood CordeValle - Tesla Destination,1 CordeValle Club Dr,San Martin,CA,95046,37.0679,-121.633,P
+992,113359,Hyatt House San Ramon - Tesla Destination,2323 San Ramon Valley Blvd,San Ramon,CA,94583,37.777919,-121.977858,P
+993,113360,Hearst Castle - Tesla Destination,750 Hearst Castle Rd,San Simeon,CA,93452,35.650031,-121.186571,P
+994,113361,Days Inn - San Simeon - Tesla Destination,9280 Castillo Dr,San Simeon,CA,93452,35.6132391,-121.1436427,P
+995,113362,Hyatt Centric Santa Barbara - Tesla Destination,1111 E Cabrillo Blvd,Santa Barbara,CA,93103,34.417504,-119.670699,P
+996,113364,Montecito Inn - Tesla Destination,1295 Coast Village Rd,Santa Barbara,CA,93108,34.421513,-119.640535,P
+997,113365,The Canary Hotel - Tesla Destination,31 W Carrillo St,Santa Barbara,CA,93101,34.420632,-119.702748,P
+998,113366,Beachside Inn - Tesla Destination,336 W Cabrillo Blvd,Santa Barbara,CA,93101,34.408546,-119.693617,P
+999,113367,Hotel Californian - Tesla Destination,36 State St,Santa Barbara,CA,93101,34.413249,-119.689955,P
+1000,113368,Pacific Crest Hotel - Tesla Destination,433 Corona Del Mar Dr,Santa Barbara,CA,93103,34.41832,-119.671381,P
+1001,113369,Hilton Santa Barbara Beachfront Resort - Tesla Destination,633  E Cabrillo Blvd.,Santa Barbara,CA,93103,34.41725,-119.67772,P
+1002,113370,Belmond El Encanto - Tesla Destination,800 Alvarado Pl,Santa Barbara,CA,93103,34.439156,-119.704221,P
+1003,113371,Santa Clara Marriott - Tesla Destination,2700 Mission College Blvd,Santa Clara,CA,95054,37.390939,-121.974647,P
+1004,113372,Towneplace Suites by Marriott San Jose - Santa Clara - Tesla Destination,2877 Lakeside Dr,Santa Clara,CA,95054,37.383181,-121.978802,P
+1005,113373,Signature Flight Support - San Jose - Tesla Destination,323 Martin Ave,Santa Clara,CA,95050,37.36135,-121.935057,P
+1006,113374,Hyatt House Santa Clara - Tesla Destination,3915 Rivermark Plaza,Santa Clara,CA,95054,37.39449,-121.944762,P
+1007,113376,Chaminade Resort & Spa - Tesla Destination,1 Chaminade Ln,Santa Cruz,CA,95065,36.996951,-121.985265,P
+1008,113377,Holiday Inn Express & Suites-Santa Cruz - Tesla Destination,1410 Ocean St,Santa Cruz,CA,95060,36.984315,-122.022581,P
+1009,113379,Radisson Hotel Santa Maria - Tesla Destination,3455 Skyway Dr,Santa Maria,CA,93455,34.896575,-120.444896,P
+1010,113380,Presqu'ile Winery - Tesla Destination,5391 Presquile Dr,Santa Maria,CA,93455,34.854043,-120.370813,P
+1011,113381,Fairmont Miramar Hotel & Bungalows - Tesla Destination,101 Wilshire Blvd,Santa Monica,CA,90401,34.01765,-118.501217,P
+1012,113382,The Huntley Hotel - Tesla Destination,1111 2nd St,Santa Monica,CA,90403,34.018311,-118.501067,P
+1013,113383,Ambrose Hotel - Tesla Destination,1255 20th St,Santa Monica,CA,90404,34.03032,-118.48186,P
+1014,113384,Hotel Shangri-La - Tesla Destination,1301 Ocean Ave,Santa Monica,CA,90401,34.015369,-118.499111,P
+1015,113385,Loews Santa Monica Beach Hotel - Tesla Destination,1700 Ocean Ave,Santa Monica,CA,90401,34.009207,-118.492867,P
+1016,113386,JW Marriott Santa Monica Le Merigot - Tesla Destination,1740 Ocean Ave,Santa Monica,CA,90401,34.00854,-118.492438,P
+1017,113387,Viceroy Santa Monica - Tesla Destination,1819 Ocean Ave,Santa Monica,CA,90401,34.007904,-118.490424,P
+1018,113388,Travelodge Santa Monica - Tesla Destination,3102 Pico Blvd,Santa Monica,CA,90405,34.0257921,-118.4571468,P
+1019,113389,Courtyard by Marriott Santa Monica - Tesla Destination,425 Colorado Ave,Santa Monica,CA,90401,34.013746,-118.492066,P
+1020,113390,Hampton Inn & Suites Santa Monica - Tesla Destination,501 Colorado Ave,Santa Monica,CA,90401,34.014872,-118.491072,P
+1021,113391,Le Meridien Delfina Santa Monica - Tesla Destination,530 Pico Blvd,Santa Monica,CA,90405,34.010562,-118.485467,P
+1022,113392,Shutters on the Beach Hotel - Tesla Destination,1 Pico Blvd,Santa Monica,CA,90405,34.007114,-118.491534,P
+1023,113394,Hyatt Vineyard Creek Hotel and Spa - Tesla Destination,170 Railroad St,Santa Rosa,CA,95401,38.436068,-122.71986,P
+1024,113395,Martin Ray Winery - Tesla Destination,2191 Laguna Rd,Santa Rosa,CA,95401,38.468937,-122.850563,P
+1025,113396,Benovia Winery - Tesla Destination,3339 Hartman Rd,Santa Rosa,CA,95401,38.476196,-122.797839,P
+1026,113397,The Gables Wine Country Inn - Tesla Destination,4257 Petaluma Hill Rd,Santa Rosa,CA,95404,38.3935452,-122.6930142,P
+1027,113398,Vintners Inn - Tesla Destination,4350 Barnes Rd,Santa Rosa,CA,95403,38.4952778,-122.7588656,P
+1028,113399,Sonoma Jet Center - Tesla Destination,6000 Flightline Dr,Santa Rosa,CA,95403,38.509445,-122.804181,P
+1029,113400,ForFriends Inn - Tesla Destination,1121 Edison St,Santa Ynez,CA,93460,34.613487,-120.08196,P
+1030,113401,Santa Ynez Inn - Tesla Destination,3627 Sagunto Street,Santa Ynez,CA,93460,34.612955,-120.07901,P
+1031,113402,Cavallo Point Lodge - Tesla Destination,601 Murray Cir,Sausalito,CA,94965,37.837856,-122.479836,P
+1032,113403,Casa Madrona - Tesla Destination,801 Bridgeway,Sausalito,CA,94965,37.8570477,-122.481192,P
+1033,113404,Sea Ranch Lodge - Tesla Destination,60 Sea Walk Dr,Sea Ranch,CA,95497,38.680822,-123.429276,P
+1034,113405,Ayres Hotel - Seal Beach - Tesla Destination,12850 Seal Beach Blvd,Seal Beach,CA,90740,33.776049,-118.072221,P
+1035,113408,Mt. Lassen Park & Shingletown Campground - Tesla Destination,7749 KOA Rd,Shingletown,CA,96088,40.513221,-121.81233,P
+1036,113410,Pamplemousse Grille - Tesla Destination,514 Via de la Valle,Solana Beach,CA,92075,32.980407,-117.259812,P
+1037,113412,Holiday Inn Express Solvang - Tesla Destination,1455 Mission Dr,Solvang,CA,93463,34.595994,-120.146223,P
+1038,113413,New Haven Inn - Tesla Destination,271 Alisal Rd,Solvang,CA,93463,34.590922,-120.140604,P
+1039,113415,The Fairmont Sonoma Mission Inn & Spa - Tesla Destination,100 Boyes Blvd,Sonoma,CA,95476,38.312891,-122.482471,P
+1040,113416,Ram's Gate Winery - Tesla Destination,28700 Arnold Dr,Sonoma,CA,95476,38.174307,-122.451274,P
+1041,113417,Favero Vineyards - Tesla Destination,3939 Lovall Valley Rd,Sonoma,CA,95476,38.300246,-122.404857,P
+1042,113418,"Grand Residences by Marriott, Tahoe - Tesla Destination",1001 Heavenly Village Way,South Lake Tahoe,CA,96150,38.955286,-119.943303,P
+1043,113423,Hotel Azure Tahoe - Tesla Destination,3300 Lake Tahoe Blvd,South Lake Tahoe,CA,96150,38.945266,-119.971579,P
+1044,113426,Heavenly Mountain Resort - California Lodge - Tesla Destination,3860 Saddle Rd,South Lake Tahoe,CA,96150,38.934939,-119.940518,P
+1045,113427,Marriott's Timber Lodge - Tesla Destination,4100 Lake Tahoe Blvd,South Lake Tahoe,CA,96150,38.95732,-119.942356,P
+1046,113428,The Coachman Hotel - Tesla Destination,4100 Pine Blvd,South Lake Tahoe,CA,96150,38.959537,-119.946952,P
+1047,113429,The Landing Resort & Spa - Tesla Destination,4104 Lakeshore Blvd,South Lake Tahoe,CA,96150,38.96084,-119.949216,P
+1048,113430,Basecamp Hotel - Tesla Destination,4143 Cedar Ave,South Lake Tahoe,CA,96150,38.9599005,-119.9445238,P
+1049,113431,Saint Helena Winery - Tesla Destination,100 Pratt Ave,Saint Helena,CA,94574,38.519773,-122.475455,P
+1050,113433,"Las Alcobas, A Luxury Collection Hotel, Napa Valley - Tesla Destination",1915 Main St,Saint Helena,CA,94574,38.50939,-122.478401,P
+1051,113434,Joseph Phelps Vineyards - Tesla Destination,200 Taplin Rd,Saint Helena,CA,94574,38.507342,-122.428543,P
+1052,113436,Vineyard 29 - Tesla Destination,2929 N Hwy 29,Saint Helena,CA,94574,38.519294,-122.495569,P
+1053,113437,Mending Wall Winery - Tesla Destination,3730 Silverado Trail N,Saint Helena,CA,94574,38.556018,-122.499959,P
+1054,113438,HALL Wines - Tesla Destination,401 St. Helena Hwy S,Saint Helena,CA,94574,38.488989,-122.452143,P
+1055,113439,Velo Vino Clif Family Winery - Tesla Destination,709 Main St,Saint Helena,CA,94574,38.500368,-122.464018,P
+1056,113440,Meadowood - Tesla Destination,900 Meadowood Ln,Saint Helena,CA,94574,38.522276,-122.46597,P
+1057,113441,Corison Winery - Tesla Destination,987 Saint Helena Hwy,Saint Helena,CA,94574,38.484983,-122.44736,P
+1058,113442,Merryvale Vineyards - Tesla Destination,1000 Main St,Saint Helena,CA,94574,38.5022063,-122.4641502,P
+1059,113443,Southbridge Napa Valley - Tesla Destination,1020 Main St,Saint Helena,CA,94574,38.502582,-122.46493,P
+1060,113444,Alpha Omega Winery - Tesla Destination,1155 Mee Ln,Saint Helena,CA,94574,38.470596,-122.429101,P
+1061,113445,Whitehall Lane Winery - Tesla Destination,1563 St. Helena Hwy S,Saint Helena,CA,94574,38.478215,-122.437767,P
+1062,113446,Nine Suns Winery - Tesla Destination,200 Long Ranch Rd,Saint Helena,CA,94574,38.46755,-122.348857,P
+1063,113447,Ovid Napa Valley - Tesla Destination,255 Long Ranch Rd,Saint Helena,CA,94574,38.461982,-122.343979,P
+1064,113448,Newton Vineyard - Tesla Destination,2555 Madrona Ave,Saint Helena,CA,94574,38.5009763,-122.4971795,P
+1065,113449,Trinchero Napa Valley - Tesla Destination,3070 North Saint Helena Hwy,Saint Helena,CA,94574,38.5283957,-122.4977783,P
+1066,113450,PRESS - Tesla Destination,587 St Helena Highway,Saint Helena,CA,94574,38.489023,-122.450566,P
+1067,113451,Wheeler Farms Winery - Tesla Destination,588 Zinfandel Ln,Saint Helena,CA,94574,38.487409,-122.437755,P
+1068,113452,Anderson's Conn Valley Vineyards - Tesla Destination,680 Rossi Rd,Saint Helena,CA,94574,38.515494,-122.41096,P
+1069,113453,Dakota Shy - Tesla Destination,771 Sage Canyon Rd,Saint Helena,CA,94574,38.486594,-122.401241,P
+1070,113454,Yao Family Wines - Tesla Destination,929 Main St,Saint Helena,CA,94574,38.501427,-122.46489,P
+1071,113455,Amizetta Vineyards - Tesla Destination,1099 Greenfield Rd,Saint Helena,CA,94574,38.521258,-122.380629,P
+1072,113459,Red Lion Inn & Suites Susanville - Tesla Destination,3015 Riverside Dr,Susanville,CA,96130,40.4066955,-120.6322662,P
+1073,113460,Avio Vineyards - Tesla Destination,14520 Ridge Rd,Sutter Creek,CA,95685,38.396835,-120.755579,P
+1074,113462,Tahoe Luxury Properties - Tesla Destination,135 River Rd,Tahoe City,CA,96145,39.167011,-120.145385,P
+1075,113463,Oliver Luxury Real Estate - Tesla Destination,319 W Lake Blvd,Tahoe City,CA,96145,39.16093,-120.145295,P
+1076,113464,Cedar Glen Lodge - Tesla Destination,6589 N Lake Blvd,Tahoe Vista,CA,96148,39.240883,-120.05654,P
+1077,113467,Bella Vista Vineyard - Tesla Destination,41220 Calle Contento,Temecula,CA,92592,33.525356,-117.064352,P
+1078,113468,Pechanga Resort and Casino - Tesla Destination,45000 Pechanga Pkwy,Temecula,CA,92592,33.455421,-117.106088,P
+1079,113469,Peltzer Family Cellars - Tesla Destination,40275 Calle Contento,Temecula,CA,92591,33.532782,-117.073443,P
+1080,113470,Castoro Cellars Vineyards & Winery - Tesla Destination,1315 N Bethel Dr,Templeton,CA,93465,35.577261,-120.722921,P
+1081,113471,Peachy Canyon Winery Tasting Room - Tesla Destination,1480 N Bethel Rd,Templeton,CA,93465,35.579832,-120.718979,P
+1082,113472,Grey Wolf Cellars and Barton Family Wines - Tesla Destination,2174 Hwy 46 W,Templeton,CA,93446,35.573155,-120.735182,P
+1083,113473,Rotta Winery - Tesla Destination,250 Winery Rd,Templeton,CA,93465,35.55561,-120.748361,P
+1084,113474,Turley Wine Cellars - Tesla Destination,2900 Vineyard Dr,Templeton,CA,93465,35.553471,-120.750739,P
+1085,113475,Desparada Wines - Tesla Destination,3060 Limestone Wy,Templeton,CA,93465,35.575848,-120.690237,P
+1086,113476,Best Western Plus Thousand Oaks Inn - Tesla Destination,75 W Thousand Oaks Blvd,Thousand Oaks,CA,91360,34.178538,-118.8785878,P
+1087,113478,The Lodge at Tiburon - Tesla Destination,1651 Tiburon Blvd,Tiburon,CA,94920,37.8748518,-122.4576151,P
+1088,113480,Torrance Marriott South Bay - Tesla Destination,3635 Fashion Way,Torrance,CA,90503,33.835802,-118.349995,P
+1089,113481,Trinidad Bay Bed & Breakfast - Tesla Destination,560 Edwards St,Trinidad,CA,95570,41.0586001,-124.1427538,P
+1090,113482,Alibi Ale Works - Tesla Destination,10069 Bridge St,Truckee,CA,96161,39.329284,-120.184278,P
+1091,113483,Cedar House Sport Hotel - Tesla Destination,10918 Brockway Rd,Truckee,CA,96161,39.324349,-120.169376,P
+1092,113484,"The Ritz-Carlton, Lake Tahoe - Tesla Destination",13031 Ritz Carlton Highlands Ct,Truckee,CA,96161,39.26742,-120.127504,P
+1093,113488,NCSD Administration and Engineering Building - Tesla Destination,908 Northstar Dr,Truckee,CA,96161,39.281445,-120.119807,P
+1094,113489,La Piazza Ristorante Italiano - Tesla Destination,1600 E Tulare Ave,Tulare,CA,93274,36.211508,-119.323606,P
+1095,113490,Black Oak Casino Resort - Tesla Destination,19400 Tuolumne Rd,Tuolumne,CA,95379,37.973467,-120.238499,P
+1096,113491,Las Casuelas Restaurant - Tesla Destination,3203 Entertainment Wy,Turlock,CA,95380,37.523014,-120.88445,P
+1097,113492,McCaffrey House Bed & Breakfast Inn - Tesla Destination,23251 Hwy 108,Twain Harte,CA,95383,38.0435364,-120.2107225,P
+1098,113493,Best Western Orchard Inn - Tesla Destination,555 S Orchard Ave,Ukiah,CA,95482,39.14694,-123.197442,P
+1099,113494,Super 8 Ukiah - Tesla Destination,693 S Orchard Ave,Ukiah,CA,95482,39.145162,-123.197807,P
+1100,113495,Days Inn Ukiah - Tesla Destination,950 N State St,Ukiah,CA,95482,39.160418,-123.209629,P
+1101,113496,Universal CityWalk Parking (Frankenstein Garage) - Tesla Destination,333 Universal Hollywood Dr,Universal City,CA,90068,34.135763,-118.352967,P
+1102,113497,Tallman Hotel and Blue Wing Restaurant - Tesla Destination,9550 Main St,Upper Lake,CA,95485,39.1651113,-122.9105147,P
+1103,113498,Signature Flight Support Van Nuys East - Tesla Destination,7155 Valjean Ave,Van Nuys,CA,91406,34.2005566,-118.4872569,P
+1104,113501,Holiday Inn Victorville - Tesla Destination,15494 Palmdale Rd,Victorville,CA,92392,34.507904,-117.325918,P
+1105,113502,Marriott TownePlace Suites - Tesla Destination,2201 S Melrose Dr,Vista,CA,92081,33.146664,-117.242044,P
+1106,113503,Sunset Marquis Hotel - Tesla Destination,1200 Alta Loma Rd,West Hollywood,CA,90069,34.091985,-118.377766,P
+1107,113505,"The Standard, Hollywood - Tesla Destination",8300 Sunset Blvd,West Hollywood,CA,90069,34.095937,-118.371104,P
+1108,113506,Best Western Plus Sunset Plaza Hotel - Tesla Destination,8400 Sunset Blvd,West Hollywood,CA,90069,34.0963159,-118.3727563,P
+1109,113508,The London West Hollywood at Beverly Hills Hotel - Tesla Destination,1020 N San Vicente Blvd,West Hollywood,CA,90069,34.089668,-118.385005,P
+1110,113509,Four Seasons Westlake Village - Tesla Destination,2 Dole Dr,Westlake Village,CA,91362,34.151844,-118.804643,P
+1111,113510,Hyatt Westlake Plaza - Tesla Destination,880 S Westlake Blvd,Westlake Village,CA,91361,34.1550113,-118.8250613,P
+1112,113511,The Old West Inn - Tesla Destination,1221 S Main St,Willits,CA,95490,39.39969,-123.349082,P
+1113,113512,Martinelli Winery - Tesla Destination,3360 River Rd,Windsor,CA,95492,38.487603,-122.807316,P
+1114,113513,Hampton Inn & Suites Windsor - Sonoma Wine Country - Tesla Destination,8937 Brooks Rd S,Windsor,CA,95492,38.548889,-122.807771,P
+1115,113514,Inn at Park Winters - Tesla Destination,27850 County Rd 26,Winters,CA,95694,38.635601,-121.992605,P
+1116,113515,The Mountain House Restaurant - Tesla Destination,13808 Skyline Blvd,Woodside,CA,94062,37.438194,-122.322541,P
+1117,113516,Ayres Suites - Yorba Linda - Tesla Destination,22677 Oakcrest Cir,Yorba Linda,CA,92887,33.872319,-117.741279,P
+1118,113517,The Majestic Yosemite Hotel - Tesla Destination,1 Ahwahnee Dr,Yosemite National Park,CA,95389,37.746154,-119.5743357,P
+1119,113518,Priest Ranch Wines - Tesla Destination,6490 Washington St,Yountville,CA,94599,38.4000624,-122.3591091,P
+1120,113519,Bardessono Hotel & Spa - Tesla Destination,6526 Yount St,Yountville,CA,94599,38.402469,-122.361104,P
+1121,113520,North Block Hotel - Tesla Destination,6757 Washington St,Yountville,CA,94599,38.406124,-122.366872,P
+1122,116759,Noyan Frazier,1951 W Clinton Ave,Fresno,CA,93705,36.77159146,-119.8362773,P
+1123,116768,Jessup Auto Plaza,68-111 E Palm Canyon Dr,Cathedral City,CA,92234,33.782964,-116.474197,P
+1124,116775,Lazy Dog at the Collection,598 Town Center Dr,Oxnard,CA,93036,34.239634,-119.178748,P
+1125,116959,California State University - Stanislaus,1 University Cir,Turlock,CA,95382,37.52509378618576,-120.8619368505401,P
+1126,117099,Glendeven Inn & Lodge,8211 N Highway 1,Little River,CA,95456,39.278102,-123.790334,P
+1127,117100,MacCallum House Suites,10691 Palette Dr,Mendocino,CA,95460,39.309359,-123.798062,P
+1128,117103,Russian Gulch State Park,N Highway 1,Mendocino,CA,95460,39.330425,-123.801947,P
+1129,117105,Boreal Mountain Resort,19749 Boreal Ridge Rd,Soda Springs,CA,95728,39.336991,-120.350417,P
+1130,117106,Chevron - Cisco Grove,90 Cisco Rd,Soda Springs,CA,95728,39.308641,-120.545315,P
+1131,117109,Northstar Lodge,970 Northstar Dr,Truckee,CA,96161,39.276154,-120.122318,P
+1132,117605,Public Parking,884 Guadalupe St,Guadalupe,CA,93434,34.969815,-120.573014,P
+1133,117867,Assembly,4000 N 1st St,San Jose,CA,95134,37.414851,-121.952883,P
+1134,118693,Sierra Pacific High School,1259 N 13th Ave,Hanford,CA,93230,36.338405,-119.690809,LG
+1135,120806,Paradise Chevrolet,6350 Leland St,Ventura,CA,93003,34.24699,-119.20425,P
+1136,120807,Ventura Volkswagen,3270 Perkin Ave,Ventura,CA,93003,34.24288,-119.20145,P
+1137,120808,California Department of Tax and Fee Administration,4820 McGrath St,Ventura,CA,93003,34.25379,-119.226611,P
+1138,120911,Camarillo Metrolink Station,30 S Lewis Rd,Camarillo,CA,93010,34.21585,-119.034655,P
+1139,121081,Topa Mountain Winery,821 W Ojai Ave,Ojai,CA,93023,34.442783,-119.256709,P
+1140,121399,San Diego Metropolitan Transit System,100 16th St,San Diego,CA,92101,32.705788,-117.149884,LG
+1141,121594,City of Pasadena - Holly Street Garage,150 E Holly St,Pasadena,CA,91103,34.14762,-118.147111,LG
+1142,122368,Cache Creek Casino Resort - Tesla Destination,14455 Hwy 16,Brooks,CA,95606,38.734285,-122.142927,P
+1143,122369,Tradewinds Carmel - Tesla Destination,Mission St at Third Ave,Carmel-by-the-Sea,CA,93921,36.5593468,-121.9209566,P
+1144,122370,CCBC Resort Hotel - Tesla Destination,68300 Gay Resort Dr,Cathedral City,CA,92234,33.780004,-116.469577,P
+1145,122371,"Farmers Market Parking Lot, Chico - Tesla Destination",E 2nd St,Chico,CA,95928,39.730972,-121.8391766,P
+1146,122372,Colusa Casino Resort - Tesla Destination,3770 State Hwy 45,Colusa,CA,95932,39.254375,-122.030952,P
+1147,122373,Aloft Dublin-Pleasanton - Tesla Destination,4075 Grafton St,Dublin,CA,94568,37.704375,-121.865755,P
+1148,122374,Fogline Vineyards - Tesla Destination,875 River Rd,Fulton,CA,95438,38.497132,-122.766341,P
+1149,122375,Michael David Winery of Sonoma - Tesla Destination,24625 Chianti Rd,Geyserville,CA,95441,38.742054,-122.955013,P
+1150,122376,River Rock Casino - Tesla Destination,3250 Hwy 128 E,Geyserville,CA,95441,38.703551,-122.858096,P
+1151,122377,Robert Young Estate Winery - Tesla Destination,5102 Red Winery Rd,Geyserville,CA,94551,38.692506,-122.826306,P
+1152,122379,Hotel Trio Healdsburg - Tesla Destination,110 Dry Creek Rd,Healdsburg,CA,95448,38.626332,-122.874809,P
+1153,122380,Mauritson Wines - Tesla Destination,2859 Dry Creek Rd,Healdsburg,CA,95448,38.651443,-122.911988,P
+1154,122381,Christopher Creek Winery - Tesla Destination,641 Limerick Ln,Healdsburg,CA,95448,38.589818,-122.837842,P
+1155,122384,Flights Restaurant Los Gatos - Tesla Destination,165 Los Gatos/Saratoga Rd,Los Gatos,CA,95030,37.227975,-121.980024,P
+1156,122385,Glendeven Inn Mendocino - Tesla Destination,8205 N Hwy 1,Mendocino,CA,95460,39.277094,-123.791563,P
+1157,122386,Park James Hotel - Tesla Destination,1400 El Camino Real,Menlo Park,CA,94025,37.456271,-122.187642,P
+1158,122387,Home2 Suites Los Angeles Montebello - Tesla Destination,988 Via San Clemente,Montebello,CA,90640,34.030817,-118.129937,P
+1159,122388,Kimpton Rowan Palm Springs Hotel - Tesla Destination,100 W Tahquitz Canyon Wy,Palm Springs,CA,92262,33.823254,-116.547795,P
+1160,122389,La Maison Hotel-Palm Springs - Tesla Destination,1600 E Palm Canyon,Palm Springs,CA,92264,33.801643,-116.529291,P
+1161,122390,Tin Canteen - Tesla Destination,3070 Limestone Wy,Paso Robles,CA,93446,35.575524,-120.69023,P
+1162,122391,Red Lion Hotel Redding - Tesla Destination,1830 Hill Top Dr,Redding,CA,96002,40.5811735,-122.3582499,P
+1163,122392,Melka Estate & Winery - Tesla Destination,2900 Silverado Trl N,Saint Helena,CA,94574,38.526764,-122.481955,P
+1164,122393,Fairmont Heritage Place Ghirardelli Square - Tesla Destination,900 North Point St Suite D100,San Francisco,CA,94109,37.805388,-122.423418,P
+1165,122396,Sonoma Airport - Tesla Destination,2290 Airport Blvd,Santa Rosa,CA,95403,38.463407,-122.718931,P
+1166,122397,Brave & Maiden Estate - Tesla Destination,649 N Refugio Rd,Santa Ynez,CA,93460,34.6008545,-120.0992668,P
+1167,122398,Emeritus Vineyards - Tesla Destination,2500 Gravenstein,Sebastopol,CA,95472,38.428535,-122.851653,P
+1168,122399,Vineyard 7 & 8 - Tesla Destination,4028 Spring Moutain Rd,Saint Helena,CA,94574,38.526095,-122.552481,P
+1169,122400,The Gateway Restaurant and Lodge - Tesla Destination,45978 Sierra Dr./Hwy 198,Three Rivers,CA,93271,36.47961,-118.838757,P
+1170,122401,Northstar Village - Tesla Destination,50 Trimont Ln,Truckee,CA,96161,39.27552,-120.121176,P
+1171,122402,Old Creek Ranch Winery - Tesla Destination,10024 E Old Creek Rd,Ventura,CA,93003,34.389859,-119.294448,P
+1172,122403,Waypoint Ventura Vintage Trailer Hotel & RV Park - Tesla Destination,398 Ash St Unit E,Ventura,CA,93001,34.275576,-119.285431,P
+1173,122404,DuMOL Winery - Tesla Destination,1400 American Wy,Windsor,CA,95492,38.530198,-122.800467,P
+1174,122405,Russian River Brewing Company - Windsor - Tesla Destination,700 Mitchell Ln,Windsor,CA,95492,38.532508,-122.80288,P
+1175,123164,Los Angeles Metro - Expo Sepulveda Station,11295 Exposition Blvd,Los Angeles,CA,90064,34.0345678,-118.437913,P
+1176,123366,El Camino Real Charter High School - Teacher/Faculty Lot,5440 Valley Circle Blvd,Woodland Hills,CA,91367,34.17075,-118.642662,P
+1177,123367,El Camino Real Charter High School - North Campus/Teacher Lot,7401 Shoup Ave,West Hills,CA,91307,34.20513,-118.615262,P
+1178,123927,Rancho Family Medical Center,31720 Temecula Pkwy,Temecula,CA,92592,33.480799,-117.103672,P
+1179,123928,Lake Elsinore - City Hall,130 S Main St,Lake Elsinore,CA,92530,33.667415,-117.327705,LG
+1180,123929,Lake Elsinore - Storm Stadium,500 Diamond Dr,Lake Elsinore,CA,92530,33.655275,-117.300314,P
+1181,123930,Residence Inn - Temecula Murrieta,25407 Madison Ave,Murrieta,CA,92562,33.550431,-117.193826,P
+1182,123931,Archibald's,28881 Newport Rd,Menifee,CA,92584,33.684529,-117.155248,P
+1183,129032,City of Rancho Cucamonga - RC Sports Center,8603 Rochester Ave,Rancho Cucamonga,CA,91730,34.097224,-117.545491,LG
+1184,131662,City of Arvin,200 Campus Dr,Arvin,CA,93203,35.210277,-118.832618,LG
+1185,135489,Monte Sereno - City Hall,18041 Saratoga-Los Gatos Rd,Monte Sereno,CA,95030,37.232617,-121.986211,LG
+1186,138088,Lawrence Livermore National Laboratory,7000 East Ave,Livermore,CA,94551,37.68122,-121.699,FG
+1187,143783,Ferndale Public Parking,361 Main St,Ferndale,CA,95540,40.576303,-124.264504,LG
+1188,143993,El Dorado County - Veterans Services,130 Placerville Dr,Placerville,CA,95667,38.666747,-120.937469,LG
+1189,143994,El Dorado County - Child Support Services/Elections,3883 Ponderosa Rd,Shingle Springs,CA,95682,38.666747,-120.937469,LG
+1190,143995,Cameron Park Library,2500 Country Club Dr,Cameron Park,CA,95682,38.66023,-121.005769,LG
+1191,143996,Placerville Library,345 Fair Ln,Placerville,CA,95667,38.729196,-120.827647,LG
+1192,143997,Henningson Lotus Park,950 Lotus Rd,Lotus,CA,95651,38.803763,-120.907674,LG
+1193,143998,South Lake Tahoe Library,1000 Rufus Allen Blvd,South Lake Tahoe,CA,96150,38.994762,-119.97346,LG
+1194,144025,Sacramento International Airport - Terminal B Garage,Lindbergh Dr,Sacramento,CA,95837,38.68879653237209,-121.5927213518372,P
+1195,144126,San Diego Airport Parking Co,2771 Kurtz St,San Diego,CA,92110,32.757008,-117.206497,P
+1196,145103,St. Ignatius College Preparatory,2001 37th Ave,San Francisco,CA,94116,37.749666,-122.49572,P
+1197,145296,Kohl’s - Yorba Linda,23001 Savi Ranch Pkwy,Yorba Linda,CA,92887,33.873543,-117.734771,P
+1198,145297,Residence Inn by Marriott Rocklin Roseville - Tesla Destination,1850 Freedom Wy,Roseville,CA,95667,38.793192,-121.297453,P
+1199,145298,Oak Street Parking Garage,200 Oak St,Roseville,CA,95678,38.748819,-121.282503,P
+1200,145301,Hyatt House San Jose/Cupertino - Tesla Destination,10380 Perimeter Rd,Cupertino,CA,95014,37.328737,-122.013545,P
+1201,146725,City of Colton - Public Works Yard,160 S 10th St,Colton,CA,92324,34.063046,-117.321689,T
+1202,147007,Greene Middle School,750 N California Ave,Palo Alto,CA,94303,37.438796,-122.134121,P
+1203,147008,Pinewood School,26800 Fremont Rd,Altos Hills,CA,94022,37.38814845128645,-122.1421248572998,P
+1204,147085,ProjectGreenHome.org,314 Stanford Ave,Palo Alto,CA,94306,37.430039,-122.147944,P
+1205,147135,James Areida Education Support Center,1305 E Vine St,Lodi,CA,95240,38.123478,-121.24808,P
+1206,147136,McNair High School,9550 Ronald E. McNair Way,Stockton,CA,95210,38.039516,-121.297808,P
+1207,147533,County of Santa Barbara,130 E Victoria St,Santa Barbara,CA,93101,34.425613,-119.703719,LG
+1208,149227,BMW Designworks USA,2201 Corporate Center Dr,Newbury Park,CA,91320,34.197266,-118.926263,P
+1209,149229,Skyworks Solutions Building 887,2427 W Hillcrest Dr,Newbury Park,CA,91320,34.186832,-118.928352,P
+1210,149231,Price Ford of Simi Valley,2440 1st St,Simi Valley,CA,93065,34.279371,-118.77795,P
+1211,149232,Simi Valley Dodge,2350 1st St,Simi Valley,CA,93065,34.27785,-118.77791,P
+1212,149233,Simi Valley Chevrolet,1001 Cochran St,Simi Valley,CA,93065,34.27985,-118.77987,P
+1213,149234,Grand Vista Hotel - Tesla Destination,999 Enchanted Wy,Simi Valley,CA,93065,34.283707,-118.781297,P
+1214,149953,California Lutheran University,60 W Olsen Rd,Thousand Oaks,CA,91360,34.22407,-118.87677,P
+1215,149955,Janss Touchless Car Wash,467 N Moorpark Rd,Thousand Oaks,CA,91360,34.184982,-118.876724,P
+1216,149961,Neftin Westlake Volkswagen,3550 Auto Mall Dr,Thousand Oaks,CA,91362,34.164753,-118.833784,P
+1217,150281,Chevron- G&M,8032 Garden Grove Blvd,Garden Grove,CA,92844,33.773298,-117.992257,P
+1218,150368,Folsom Chrysler Dodge Jeep Ram,12565 Folsom Blvd,Folsom,CA,95630,38.633138,-121.206164,P
+1219,150487,Four Seasons Hotel Los Angeles at Beverly Hills - Tesla Destination,300 South Doheny Dr,Los Angeles,CA,9048,34.072883,-118.389618,P
+1220,150491,Los Angeles Airport Marriott - Tesla Destination,5855 W Century Blvd,Los Angeles,CA,90045,33.945783,-118.38442,P
+1221,150494,Courtyard Los Angeles L.A. Live - Tesla Destination,901 W Olympic Blvd,Los Angeles,CA,90015,34.046049,-118.266185,P
+1222,150495,Residence Inn Los Angeles L.A. Live - Tesla Destination,901 W Olympic Boulevard,Los Angeles,CA,90015,34.046119,-118.266227,P
+1223,150501,Aloft Silicon Valley - Tesla Destination,8200 Gateway Blvd,Newark,CA,94560,37.535982,-122.062901,P
+1224,150511,Hilton San Francisco Financial District - Tesla Destination,750 Kearny St,San Francisco,CA,94108,37.795208,-122.404869,P
+1225,150542,Silver Oak Alexander Valley - Tesla Destination,7300 Hwy 128,Healdsburg,CA,95448,38.672352,-122.804252,P
+1226,150543,The Gardens on El Paseo - Tesla Destination,73545 El Paseo,Palm Desert,CA,92260,33.7184587,-116.3818948,P
+1227,150551,Home2 Suites by Hilton - South San Francisco - Tesla Destination,555 Gateway Blvd,South San Francisco,CA,94080,37.656805,-122.399173,P
+1228,150561,Mojave Desert Heritage & Cultural Center - Tesla Destination,37198 Lanfair Rd,Essex,CA,92332,34.9212906,-115.0673344,P
+1229,150589,Park Tower - Tesla Destination,980 9th St,Sacramento,CA,95814,38.580905,-121.495496,P
+1230,150590,Red Hawk Casino - Tesla Destination,1 Red Hawk Pkwy,Placerville,CA,95667,38.694947,-120.908402,P
+1231,150598,The Masonic - Tesla Destination,1111 California St,San Francisco,CA,94108,37.791537,-122.412813,P
+1232,150601,"San Jose, CA - Valet Access - Santana Row (Wall Connector) - Tesla Destination",330 Winchester Blvd,San Jose,CA,95128,37.321733,-121.948743,P
+1233,150617,Skyview Los Alamos Hotel - Tesla Destination,9150 US Hwy 101,Los Alamos,CA,93401,34.744634,-120.271812,P
+1234,150630,Agrarian Hotel - Tesla Destination,325 E Branch St,Arroyo Grande,CA,93420,35.1249,-120.576177,P
+1235,150643,"San Jose, CA - Santana Row - Wall Connector - Tesla Destination",330 Winchester Blvd,San Jose,CA,95128,37.321884,-121.949815,P
+1236,150650,Barona Resort and Casino - Tesla Destination,1932 Wildcat Canyon Rd,Lakeside,CA,92040,32.939979,-116.873918,P
+1237,150666,Holiday Inn Express and Suites Visalia - Tesla Destination,5625 W Cypress Ave,Visalia,CA,93277,36.324517,-119.353754,P
+1238,150676,Westin Gaslamp District - Tesla Destination,910 Broadway Cir,San Diego,CA,92101,32.7143935,-117.1632054,P
+1239,150692,AutoCamp Yosemite - Tesla Destination,6323 Hwy 140,Midpines,CA,95345,37.544194,-119.920112,P
+1240,150706,Fairfield Inn & Suites by Marriott Selma Kingsburg - Tesla Destination,216 Ventura Ct,Kingsburg,CA,93631,36.520518,-119.565647,P
+1241,150729,UCSD - Athena Garage - Tesla Destination,9415 Campus Point Dr,La Jolla,CA,92093,32.879289,-117.2221437,P
+1242,150730,San Rafael City Hall - Tesla Destination,1400 Fifth Ave,San Rafael,CA,94901,37.975114,-122.531959,P
+1243,150741,Homewood Suites Pleasant Hill Concord - Tesla Destination,650 Ellinwood Wy,Pleasant Hill,CA,94523,37.961354,-122.054339,P
+1244,150744,Croad Vineyards and Inn - Tesla Destination,3550 Vinedo Robles Ln,Paso Robles,CA,93446,35.558868,-120.758446,P
+1245,150773,UCSF - 1630 3rd Garage,1630 3rd St,San Francisco,CA,94158,37.768,-122.39,SG
+1246,150775,300 Lake,300 N Lake Ave,Pasadena,CA,91101,34.151,-118.131,P
+1247,150776,Pasadena Convention Center,300 E Green St,Pasadena,CA,91101,34.14293,-118.143209,LG
+1248,150777,LA County ISD Eastern HQ,1100 N Eastern Ave,Los Angeles,CA,90063,34.050756,-118.173983,LG
+1249,150778,Amador Valley High School,1155 Santa Rita Rd,Pleasanton,CA,94566,37.669,-121.874,LG
+1250,151896,Fresno Metro Black Chamber of Commerce,1444 Fulton St,Fresno,CA,93721,36.7388788,-119.7974054,LG
+1251,152022,DCH Honda - Oxnard,1500 Ventura Blvd,Oxnard,CA,93036,34.227236,-119.157683,P
+1252,152025,Bunnin Chevrolet of Fillmore,1024 W Ventura St,Fillmore,CA,93015,34.394644,-118.925015,P
+1253,152033,First Honda,2283 1st St,Simi Valley,CA,93065,34.276683,-118.779525,P
+1254,152034,Lake Casitas Municipal Water District - Recreational Area,11311 Santa Ana Rd,Ventura,CA,93001,34.378768,-119.313973,LG
+1255,152069,LADWP - John Ferraro Building,111 N Hope St,Los Angeles,CA,90012,34.059133,-118.248589,LG
+1256,152075,LADWP - Materials Test Lab,510 E 2nd St,Los Angeles,CA,90012,34.04684,-118.237458,LG
+1257,152125,LADWP - Alpine,611 Alpine St,Los Angeles,CA,90012,34.063402,-118.241234,LG
+1258,152127,LADWP - Canoga Park,20923 Parthenia St,Canoga Park,CA,91304,34.228403,-118.589661,LG
+1259,152128,LADWP - Dearborn,20820 Dearborn St,Chatsworth,CA,91311,34.237037,-118.587164,LG
+1260,152129,LADWP - Truman,1765 Truman St,San Fernando,CA,91340,34.291096,-118.448935,LG
+1261,152130,LADWP - Chatsworth,15350 Chatsworth St,Mission Hills,CA,91345,34.264345,-118.466124,LG
+1262,152131,LADWP - Sunnyslope,4847 Sunnyslope Ave,Sherman Oaks,CA,91423,34.158486,-118.42708,LG
+1263,152132,LADWP - Saticoy,11720 Saticoy St,North Hollywood,CA,91605,34.208263,-118.388678,LG
+1264,152133,LADWP - Wilmington,1306 N Wilmington Blvd,Wilmington,CA,90744,33.788779,-118.274557,LG
+1265,152135,LADWP - Palos Verdes,1114 S Palos Verdes St,San Pedro,CA,90731,33.734075,-118.281179,LG
+1266,152137,LADWP - Pacific,2224 S Pacific Ave,San Pedro,CA,90731,33.723761,-118.28779,SG
+1267,152139,LADWP - Pacific B,4022 S Pacific Ave,San Pedro,CA,90731,33.707394,-118.287742,LG
+1268,152140,LADWP - Kling,10952 Kling St,North Hollywood,CA,91602,34.155358,-118.369211,LG
+1269,152142,LADWP - Strathern,14736 Strathern St,Van Nuys,CA,91402,34.215908,-118.454423,SG
+1270,152144,LADWP - Western Ave,6506 S Western Ave,Los Angeles,CA,90047,33.98048,-118.308755,LG
+1271,152145,LADWP - Quakertown,5445 Quakertown Ave,Woodland Hills,CA,91364,34.169042,-118.569837,LG
+1272,152146,LADWP - Sunburst,20234 Sunburst St,Chatsworth,CA,91311,34.234279,-118.57491,LG
+1273,152147,LADWP - North Avenue 55,339 N Avenue 55,Los Angeles,CA,90042,34.110891,-118.197136,LG
+1274,152148,LADWP - Califa,15115 Califa St,Van Nuys,CA,91411,34.178032,-118.462403,LG
+1275,152149,LADWP - Budlong,2524 S Budlong Ave,Los Angeles,CA,90007,34.033412,-118.296248,LG
+1276,152150,LADWP - Milwood,6938 Milwood Ave,Canoga Park,CA,91303,34.196289,-118.59406,LG
+1277,152151,LADWP - Variel,9797 Variel Ave,Chatsworth,CA,91311,34.248493,-118.593116,LG
+1278,152152,LADWP - Lurline,9650 Lurline Ave,Chatsworth,CA,91311,34.245466,-118.583973,LG
+1279,152154,LADWP - Receiving Station F,1506 De La Torre Way,Los Angeles,CA,90023,34.015864,-118.205302,LG
+1280,152155,LADWP - Receiving Station G,2625 Fletcher Dr,Los Angeles,CA,90039,34.109854,-118.252525,LG
+1281,152556,City of Los Angeles Lot 702,1627 Vine St,Los Angeles,CA,90028,34.100573,-118.327438,LG
+1282,153212,Trillium - San Diego Metropolitan Transit System,4630 Ruffner St,San Diego,CA,92111,32.824786,-117.157551,LG
+1283,153213,Trillium - San Diego Metropolitan Transit System,3650 Main St,Chula Vista,CA,91911,32.59578,-117.054443,LG
+1284,153214,San Diego Metropolitan Transit System - East County Division,1213 N Johnson Ave,El Cajon,CA,92020,32.812833,-116.970214,LG
+1285,154266,Hilton Plaza - San Gabriel,227 W Valley Blvd,San Gabriel,CA,91776,34.080011,-118.102679,P
+1286,154267,GE,1411 S Garfield Ave,Alhambra,CA,91801,34.077862,-118.123387,P
+1287,154268,City of Los Angeles Lot 670,1710 N Cherokee Ave,Los Angeles,CA,90028,34.102397,-118.334348,P
+1288,155128,City of Los Angeles Lot 745,6801 Hollywood Blvd,Los Angeles,CA,90028,34.102542,-118.339438,P
+1289,155270,Beyond Mart,12970 Day St,Moreno Valley,CA,92507,33.932004,-117.278618,P
+1290,155274,Hyatt Place - Fresno,7333 N Fresno St,Fresno,CA,93720,36.843425,-119.784196,P
+1291,155506,City of Manhattan Beach - Upper South Pier Parking Lot,1121 Ocean Dr,Manhattan Beach,CA,90266,33.883937,-118.411118,P
+1292,155507,City of Manhattan Beach - Upper North Pier Parking Lot,1123 Ocean Dr,Manhattan Beach,CA,90266,33.88472,-118.411547,P
+1293,155508,City of Manhattan Beach - Parking Lot 2,220 12th St,Manhattan Beach,CA,90266,33.885359,-118.410509,P
+1294,155509,City of Manhattan Beach - Parking Lot 3,310-398 12th St,Manhattan Beach,CA,90266,33.885928,-118.409563,P
+1295,155510,City of Manhattan Beach - Metlox,1210 N Morningside Dr,Manhattan Beach,CA,90266,33.886418,-118.409123,P
+1296,155511,City of Manhattan Beach - Joslyn Center,1601 N Valley Dr,Manhattan Beach,CA,90266,33.888713,-118.410028,P
+1297,155512,City of Manhattan Beach - Live Oak Park,1655 N Valley Dr,Manhattan Beach,CA,90266,33.889226,-118.409733,P
+1298,155513,City of Manhattan Beach - Parking Lot 4,3738 Highland Ave,Manhattan Beach,CA,90266,33.901511,-118.417927,P
+1299,155514,City of Manhattan Beach - Manhattan Beach Art Center,1560 Manhattan Beach Blvd,Manhattan Beach,CA,90266,33.88695,-118.385664,P
+1300,155515,California State Polytechnic University - Parking Lot H,3801 W Temple Ave,Pomona,CA,91768,34.061071,-117.818795,P
+1301,155913,City of Palmdale - Park and Ride,210 East Ave S,Palmdale,CA,93550,34.55742944,-118.1290371,LG
+1302,155914,City of Los Angeles Lot 675,4642 Russell Ave,Los Angeles,CA,90027,34.10391149,-118.2910523,LG
+1303,155915,City of Los Angeles Lot 656,1615 Colby Ave,Los Angeles,CA,90025,34.044509,-118.452764,LG
+1304,155916,City of Los Angeles Lot 619,1451 N Gardner St,Hollywood,CA,90046,34.09784,-118.353036,LG
+1305,155986,Stonebrae Elementary School,28761 Hayward Blvd,Hayward,CA,94542,37.652976,-122.017556,LG
+1306,163319,Merced County Office of Education,2100 B Cooper Ave,Merced,CA,95348,37.316589,-120.505128,SG
+1307,163558,Congregation Kol Emeth,4175 Manuela Ave,Palo Alto,CA,94306,37.396594,-122.13288,P
+1308,163700,City of Santa Monica - Annenberg Beach House,415 Pacific Coast Hwy,Santa Monica,CA,90402,34.024126,-118.513277,LG
+1309,163743,Buena Park Downtown,8191-8371 La Palma Ave,Buena Park,CA,90620,33.84785,-117.990308,P
+1310,164184,Six Flags Magic Mountain,26101 Magic Mountain Pkwy,Valencia,CA,91355,34.428862,-118.594906,P
+1311,164547,Cool Earth Solar,2174 Rheem Dr,Pleasanton,CA,94588,37.686207,-121.87566,P
+1312,164548,Construction Testing Services,2118 Rheem Dr,Pleasanton,CA,94588,37.684095,-121.873285,P
+1313,164549,4Leaf Inc,2126 Rheem Dr,Pleasanton,CA,94588,37.684383,-121.873615,P
+1314,164550,Mercedes Fairfield,2950 Auto Mall Pkwy,Fairfield,CA,94533,38.242091,-122.084677,P
+1315,165133,Southbridge Napa Valley,1020 Main St,St. Helena,CA,94574,38.502957,-122.464762,P
+1316,165528,LADWP - West LA Service Center,1394 S Sepulveda,Los Angeles,CA,90025,34.052542,-118.448504,T
+1317,165529,LADWP - Sepulveda Center,6060 Sepulveda Blvd,Van Nuys,CA,91411,34.179965,-118.46533,T
+1318,165532,LADWP - 1145 Bates Ave,1145 Bates Ave,Los Angeles,CA,90029,34.094996,-118.28245,T
+1319,165772,Hampton Inn - El Centro,598 Wake Ave,El Centro,CA,92243,32.771198,-115.533601,P
+1320,166807,76 - Norco,3198 Hamner Ave,Norco,CA,92860,33.928312,-117.558425,P
+1321,166809,Tower Market,84417 Indio Blvd,Indio,CA,92201,33.700776,-116.193157,P
+1322,166810,76 - City of Industry,1010 Fairway Dr,City of Industry,CA,91789,33.997203,-117.870061,P
+1323,167581,McDonald’s,5019 Torrance Blvd,Torrance,CA,90503,33.838075,-118.367161,P
+1324,167822,University of California Los Angeles - Parking Structure 1,701 Gayley Ave,Los Angeles,CA,90024,34.06471,-118.447506,P
+1325,167823,University of California Los Angeles - Parking Structure 5,Royce Dr,Los Angeles,CA,90095,34.073943,-118.442876,P
+1326,167824,University of California Los Angeles - Parking Structure 32,107 Veteran Ave,Los Angeles,CA,90024,34.059973,-118.447749,P
+1327,168158,Amor Wellness Center,121 Belmont Ave,Mendota,CA,93640,36.749094,-120.386481,P
+1328,168159,Amor Wellness Center,115 Belmont Ave,Mendota,CA,93640,36.749094,-120.386481,P
+1329,168300,Holiday Inn Burbank-Media Center,150 E Angeleno Ave,Burbank,CA,91502,34.179679,-118.307654,P
+1330,168307,ALDI - Panorama City,14626 W Roscoe Blvd,Panorama City,CA,91402,34.221087,-118.451275,P
+1331,168543,"2157 Meeker Ave - Richmond, CA - Tesla Destination",2157 Meeker Ave,Richmond,CA,94804,37.920216,-122.348133,P
+1332,168547,275 Battery St - Tesla Destination,275 Battery St,San Francisco,CA,94111,37.793863,-122.40037,P
+1333,168555,55 Second Street Garage - Tesla Destination,55 Second St,San Francisco,CA,94105,37.788655,-122.400563,P
+1334,168559,6th & A Parking Garage - Tesla Destination,1350 6th Ave,San Diego,CA,92101,32.707584,-117.15901,P
+1335,168598,AutoCamp Russian River - Tesla Destination,14120 Old Cazadero Rd,Guerneville,CA,95446,38.496609,-123.008915,P
+1336,168602,Ayres Hotel Chula Vista - Tesla Destination,1710 Millenia Ave,Chula Vista,CA,91915,32.618284,-116.969416,P
+1337,168603,Ayres Suites - Mission Viejo - Tesla Destination,28941 Los Alisos Blvd,Mission Viejo,CA,92692,33.654257,-117.627572,P
+1338,168628,Big Canyon Country Club - Tesla Destination,1 Big Canyon Dr,Newport Beach,CA,92660,33.6200381,-117.8692191,P
+1339,168629,Bighorn Golf Club - Tesla Destination,255 Palowet Dr,Palm Desert,CA,92260,33.678839,-116.409043,P
+1340,168631,Bishop Ranch Business Park - Tesla Destination,2453 Camino Ramon,San Ramon,CA,94583,37.765138,-121.961643,P
+1341,168643,Broadstone on Fairfax - Tesla Destination,947 South Fairfax Ave,Los Angeles,CA,90036,34.058925,-118.363501,P
+1342,168665,Casino M8trix - Tesla Destination,1887 Matrix Blvd,San Jose,CA,95110,37.371136,-121.919431,P
+1343,168668,Castle Rock State Park - Tesla Destination,15000 Skyline Boulevard,Los Gatos,CA,95033,37.230772,-122.0959575,P
+1344,168706,Corral de Tierra Country Club - Tesla Destination,81 Corral de Tierra Road,Salinas,CA,93908,36.567526,-121.730886,P
+1345,168709,Cottage Grove Inn - Tesla Destination,1711 Lincoln Ave,Calistoga,CA,94515,38.58258,-122.576947,P
+1346,168759,ENVi Mobile Car Wash - Tesla Destination,14108 Western Ave,Gardena,CA,90249,33.584879,-117.999172,P
+1347,168781,Fort Ross Vineyard & Winery - Tesla Destination,15725 Meyers Grade Rd,Jenner,CA,95450,38.511994,-123.193433,P
+1348,168784,Four Seasons Resort The Biltmore Santa Barbara - Tesla Destination,1260 Channel Dr,Santa Barbara,CA,93108,34.416592,-119.641575,P
+1349,168803,Golden Door Luxury Resort & Spa - Tesla Destination,777 Deer Springs Rd,San Marcos,CA,92069,33.193577,-117.142217,P
+1350,168809,Groth Vineyards & Winery - Tesla Destination,750 Oakville Cross Rd,Oakville,CA,94562,38.448967,-122.379919,P
+1351,168814,H3Hotel - Tesla Destination,227 Healdsburg Ave,Healdsburg,CA,95448,38.6202088,-122.8719618,P
+1352,168815,Hacienda Robles - Tesla Destination,7129 San Gregorio Rd,Atascadero,CA,93422,35.514954,-120.708858,P
+1353,168829,Hanford House Inn - Tesla Destination,61 Hanford St,Sutter Creek,CA,95685,38.3978904,-120.8071345,P
+1354,168834,Hawthorne-Hawthorne - Tesla Destination,1 Rocket Rd,Hawthorne,CA,90250,33.920903,-118.330216,P
+1355,168838,Hilton Garden Inn Lompoc - Tesla Destination,1201 N H Street,Lompoc,CA,93436,34.65751,-120.458757,P
+1356,168851,Holiday Inn Express & Suites Redding - Tesla Destination,2240 Hilltop Dr,Redding,CA,96002,40.574854,-122.359431,P
+1357,168869,Hyatt Regency La Jolla at Aventine - Tesla Destination,3777 La Jolla Village Dr,San Diego,CA,92122,32.870556,-117.225331,P
+1358,168899,Jonathan Club - Tesla Destination,545 S Figueroa St,Los Angeles,CA,90071,34.051539,-118.258508,P
+1359,168917,La Serena Villas - Tesla Destination,339 S Belardo Rd,Palm Springs,CA,92262,33.818865,-116.54812,P
+1360,168929,Lexington Inn - San Luis Obispo - Tesla Destination,2050 Garfield St,San Luis Obispo,CA,93401,35.290812,-120.650223,P
+1361,168942,Makers Quarter - Tesla Destination,1601 Broadway,San Diego,CA,92101,32.715733,-117.149026,P
+1362,168945,Marc Air - Tesla Destination,4349 Old Santa Fe Road,San Luis Obispo,CA,93401,35.239013,-120.648789,P
+1363,168972,Monterey Peninsula Country Club - Tesla Destination,3000 Club Road,Del Monte Forest,CA,93953,36.600828,-121.945172,P
+1364,168978,Napa Jet Center - Tesla Destination,2030 Airport Rd,Napa,CA,94558,38.217315,-122.272842,P
+1365,168979,Napa Valley Country Club - Tesla Destination,3385 Hagen Road,Napa,CA,94558,38.318338,-122.241068,P
+1366,168997,One Fine Stay - Tesla Destination,141 N Beverly Glen Blvd,Los Angeles,CA,90077,34.082546,-118.434768,P
+1367,169000,Opus One - Tesla Destination,7900 St Helena Hwy,Napa,CA,94558,38.441024,-122.39928,P
+1368,169002,"OSIsoft, LLC - Tesla Destination",1600 Alvarado St,San Leandro,CA,94577,37.720852,-122.160996,P
+1369,169004,Oxford Suites Paso Robles - Tesla Destination,800 4th St,Paso Robles,CA,93446,35.618299,-120.690059,P
+1370,169007,Paraduxx Vineyards - Tesla Destination,7257 Silverado Trail,Napa,CA,94558,38.437392,-122.351001,P
+1371,169019,Pegasus Elite Aviation - Tesla Destination,7943 Woodley Ave,Van Nuys,CA,91406,34.215799,-118.484739,P
+1372,169020,Peninsula Hotel Beverly Hills - Tesla Destination,9882 S Santa Monica Blvd.,Beverly Hills,CA,90212,34.0657248,-118.4106882,P
+1373,169040,Proper Hotel Santa Monica - Tesla Destination,1437 7th St,Santa Monica,CA,90401,34.0206953,-118.4945041,P
+1374,169085,RW Ranch - Tesla Destination,8088 High Rd,Lucerne Valley,CA,92356,34.402767,-117.033786,P
+1375,169087,Samaritan Medical Tower - Tesla Destination,1127 Wilshire Boulevard,Los Angeles,CA,90017,34.052867,-118.264138,P
+1376,169089,Santa Clara University - Tesla Destination,500 El Camino Real,Santa Clara,CA,95050,37.347136,-121.934521,P
+1377,169090,Saticoy Country Club - Tesla Destination,4450 N Clubhouse Dr,Somis,CA,93066,34.272415,-119.107579,P
+1378,169106,Singlethread Farms - Tesla Destination,131 North Street,Healdsburg,CA,95448,38.612162,-122.869885,P
+1379,169121,Spoto Family Wines - Tesla Destination,3630 Meadow Ln,Sacramento,CA,95864,38.601748,-121.381732,P
+1380,169142,Sun Air Jets - Tesla Destination,855 Aviation Dr,Camarillo,CA,93010,34.21004,-119.092822,P
+1381,169170,The Collection at RiverPark - Tesla Destination,2751 Park View Ct,Oxnard,CA,93036,34.241399,-119.177449,P
+1382,169172,The Current Living - Tesla Destination,707 East Ocean Boulevard,Long Beach,CA,90802,33.766268,-118.183706,P
+1383,169178,The Hollywood Roosevelt - Tesla Destination,7000 Hollywood Blvd,Los Angeles,CA,90028,34.101389,-118.341713,P
+1384,169185,The Padre Hotel - Tesla Destination,1702 18th St,Bakersfield,CA,93301,35.375307,-119.021616,P
+1385,169203,The Vintage Club - Tesla Destination,75-001 Vintage Drive West,Indian Wells,CA,92210,33.71111,-116.356916,P
+1386,169206,Timber Cove Resort - Tesla Destination,21780 Hwy 1,Jenner,CA,95450,38.533504,-123.276931,P
+1387,169229,UGP - Tesla Destination,2240 S. Sepulveda Blvd,Los Angeles,CA,90064,34.039223,-118.436732,P
+1388,169231,Universal Studios Hollywood - Tesla Destination,8039 Universal City Plaza,Universal City,CA,91608,34.138117,-118.353378,P
+1389,169233,University Business Park - Tesla Destination,2801 Mission St,Santa Cruz,CA,95060,36.959947,-122.055632,P
+1390,169245,Viejas Casino and Resort - Tesla Destination,5000 Willows Rd,Alpine,CA,91901,32.843397,-116.705637,P
+1391,169249,Vista Sotheby's international Realty - Tesla Destination,608 Silver Spur,Rolling Hills Estates,CA,90274,33.771781,-118.371064,P
+1392,169250,VNT Properties - Tesla Destination,201 E Center St # 108,Anaheim,CA,92805,33.835983,-117.912871,P
+1393,169266,Whitehawk Lodge and Golf - Tesla Destination,768 Whitehawk Dr,Clio,CA,96106,39.716992,-120.545801,P
+1394,169308,Home2 Suites by Hilton - Los Angeles Montebello,988 Via San Clemente,Montebello,CA,90640,34.030479,-118.129924,P
+1395,169309,Hilton Garden Inn Los Angeles Montebello,801 Via San Clemente,Montebello,CA,90640,34.027375,-118.133309,P
+1396,169311,"The Langham - Huntington, Pasadena",1401 S Oak Knoll,Pasadena,CA,91106,34.121386,-118.133626,P
+1397,169485,Woodland Gateway - Red Robin,2031 Bronze Star Dr,Woodland,CA,95776,38.670844,-121.72689,P
+1398,169960,Pala Road Park & Ride,3346 Old Highway 395,Fallbrook,CA,92028,33.32967,-117.162428,P
+1399,170044,Sequoia Courts,440 S Modoc St,Fresno,CA,93706,36.737095,-119.810327,LG
+1400,170045,Yosemite Village,709 W California Ave,Fresno,CA,93706,36.72103,-119.820745,LG
+1401,170046,Sierra Plaza,838 Tulare St,Fresno,CA,93706,36.7256,-119.801622,LG
+1402,170048,Legacy Commons,2255 S Plumas St,Fresno,CA,93706,36.719043,-119.810998,LG
+1403,170380,Hyatt Place - Riverside Downtown,3500 Market St,Riverside,CA,92501,33.9851532,-117.3757253,P
+1404,170482,La Quinta Inn & Suites by Wyndham San Bernardino,225 E Hospitality Ln,San Bernardino,CA,92408,34.064885,-117.282083,P
+1405,170935,Cupertino High School,10100 Finch Ave,Cupertino,CA,95014,37.3217497408215,-122.008606092441,LG
+1406,170936,Monta Vista High School,21840 McClellan Rd,Cupertino,CA,95014,37.3141570156788,-122.058058111111,LG
+1407,170937,Fremont High School,575 W Fremont Ave,Sunnyvale,CA,94087,37.3531886471016,-122.036090796785,LG
+1408,170938,Educational Options Center,589 W Fremont Ave,Sunnyvale,CA,94087,37.353585,-122.037826,LG
+1409,170939,County of Santa Barbara - Lompoc Social Services,1100 W Laurel Ave,Lompoc,CA,93436,34.6432800292969,-120.471589106206,LG
+1410,170950,Geirina,250 W Tasman Dr,San Jose,CA,95134,37.409732,-121.957668,P
+1411,170951,Gillig,451 Discovery Dr,Livermore,CA,94551,37.68757047,-121.8120624,P
+1412,170952,Volkswagen Group of America,500-600 Clipper Dr,Belmont,CA,94002,37.5337545387796,-122.271007318164,P
+1413,171162,LA County Carson Library,151 E Carson St,Carson,CA,90745,33.8321728,-118.276761,LG
+1414,183254,University of California - Davis - Lot 25,760 Orchard Rd,Davis,CA,95616,38.542846,-121.757899,P
+1415,183480,Fresno Convention & Entertainment Center,707 O St,Fresno,CA,93706,36.734725,-119.78224,LG
+1416,183587,The Cole Hotel,2323 N Palm Canyon Dr,Palm Springs,CA,92262,33.851221,-116.550924,P
+1417,183829,Tejon Pass Rest Area - I5 South,Interstate 5 Mile Marker 206,Lebec,CA,93243,34.829254,-118.872293,P
+1418,183830,Weed Patch Park and Ride,8200 Kimber Ave,Bakersfield,CA,93307,35.351728,-118.913792,P
+1419,184085,Two Rock Station,7616 Valley Ford Rd,Petaluma,CA,94952,38.266874,-122.793233,P
+1420,184230,VISN 22/ SAN DIEGO HCS,3350 La Jolla Village Dr,San Diego,CA,92161,32.875205,-117.2327,FG
+1421,184262,77-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1422,184263,RDWD-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1423,184264,76-EVC-LVL2-2,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1424,184265,91-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1425,184266,91-EVC-LVL2-2,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1426,184267,76-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1427,184268,74-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1428,184269,71-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1429,184270,46-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1430,184271,27-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1431,184272,62-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1432,184273,33-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875928,-122.250027,FG
+1433,184274,50F-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1434,184275,50F-EVC-LVL2-2,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1435,184276,59-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1436,184277,59-EVC-LVL2-2,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1437,184278,MCB Camp Pendleton (1 EV station)-near Bldg 22146,22 Area SWRFT,Camp Pendleton,CA,92054,33.292408,-117.347649,FG
+1438,184279,MCB Camp Pendleton (1 EV station)-CVP 22,22 Area SWRFT,Camp Pendleton,CA,92054,33.292408,-117.347649,FG
+1439,184280,MCB Camp Pendleton (1 EV station)- Bldg 1160,MCB Camp Pendleton,Camp Pendleton,CA,92054,33.317842,-117.320512,FG
+1440,184281,MCB Camp Pendleton (1 EV stations)-Near Bldg 13150,13 Area MFSS,Camp Pendleton,CA,92054,33.309332,-117.313042,FG
+1441,184282,MCB Camp Pendleton (1 EV stations)-Near Bldg 140090,14 Area MLG Barracks parking lot,Camp Pendleton,CA,92054,33.317842,-117.320512,FG
+1442,184283,MCB Camp Pendleton (1 EV stations)-Near Bldg 16142,16 Area Base Safety,Camp Pendleton,CA,92054,33.299639,-117.347897,FG
+1443,184284,MCB Camp Pendleton (1 EV stations)-near Bldg 210721,21 Area IMEF,Camp Pendleton,CA,92054,33.317842,-117.320512,FG
+1444,184285,MCB Camp Pendleton (1 EV stations)-near Bldg 2264,22 Area Base Food Service,Camp Pendleton,CA,92054,33.317842,-117.320512,FG
+1445,184286,MCB Camp Pendleton (1 EV stations)-Near Bldg 2459,24 Area CIS,Camp Pendleton,CA,92054,33.299639,-117.347897,FG
+1446,184287,MCB Camp Pendleton (1 EV stations)-near Bldg 2008,Main Gate South Mesa,Camp Pendleton,CA,92054,33.225215,-117.383361,FG
+1447,184288,Sandia National Laboratory / CA,7011 East Ave,Livermore,CA,94550,37.678959,-121.705637,FG
+1448,184289,VISN 22/LOS ANGELES,351 E Temple St,Los Angeles,CA,90012,34.053085,-118.4529,FG
+1449,184290,VISN 21/VA NORTHERN CA HCS,10535 Hospital Way,Mather,CA,95655,38.5732,-121.295448,FG
+1450,184291,VISN 21/PALO ALTO HCS,3801 Miranda Ave,Palo Alto,CA,94304,37.405407,-122.140009,FG
+1451,184292,FMCSA,2297 Niels Bohr Court,San Diego,CA,92154,32.556607,-116.939312,FG
+1452,184293,NAVBASE San Diego / N00245-B116,Knowlton Williams Rd,San Diego,CA,92132,32.6813,-117.12201,FG
+1453,184294,MCAS Miramar,Pless Rd,San Diego,CA,92145,32.877149,-117.145881,FG
+1454,184295,MCAS Miramar,Shields Dr,San Diego,CA,92145,32.885181,-117.129364,FG
+1455,184296,MCAS Miramar,6360 Bauer Rd,San Diego,CA,92145,32.886642,-117.129553,FG
+1456,184297,MCRD San Diego,Guantanamo St,San Diego,CA,92145,32.7404,-117.18701,FG
+1457,184298,MCRD San Diego,1600 Henderson Ave,San Diego,CA,92145,32.7421,-117.2027,FG
+1458,184299,NOAA - University of Santa Barbara,MC 6155,SANTA BARBARA,CA,93106,34.41442,-119.84748,FG
+1459,184300,INL - building 100 - Tracy CA,25673 S Chrisman Rd,Tracy,CA,95304,37.723139,-121.397389,FG
+1460,184301,VISN 21/VA NORTHERN CA HCS,201 Walnut Ave,Vallejo,CA,94592,38.100674,-122.27325,FG
+1461,184551,FRESNO,1900 E St,Fresno,CA,93706,36.738753,-119.804573,FG
+1462,184557,NAVBASE Coronado / N62021-PVCARPORT,Bouganville,Coronado,CA,92155,32.6742,-117.1611,FG
+1463,184558,NAVBASE Ventura County - Point Mugu / N63126-B67,13th St,Point Mugu,CA,93042,34.11013,-119.1101,FG
+1464,184562,SLAC - B041 - Level 2,2575 Sandhill Rd B041,Menlo Park,CA,94025,37.419875,-122.206042,FG
+1465,184590,67-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1466,184591,69-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1467,184592,88-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1468,184593,88-EVC-LVL1-2,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1469,184594,81-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1470,184595,54-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1471,184596,75B-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1472,184597,90-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1473,184598,50F-EVC-LVL1-3,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1474,184599,50-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1475,184600,50E-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1476,184601,90-EVC-LVL1-2,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1477,184602,53-EVC-LVL1-1,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1478,184603,90-EVC-LVL1-3,1 Cyclotron Rd,Berkeley,CA,94720,37.875985,-122.250014,FG
+1479,184604,B76 Gov Charging 1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1480,184605,B76 Gov Charging 2,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1481,184606,B76 Gov Charging 3,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1482,184607,B84 Gov Charging 1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1483,184608,B74 Gov Charging 1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1484,184609,B50 Gov Charging 1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1485,184610,B75 Gov Charging 1,1 Cyclotron Rd,Berkeley,CA,94720,37.875902,-122.250055,FG
+1486,184611,Building 542 Parking Area,410 Norman Ave,Concord,CA,94520,38.031395,-122.032216,FG
+1487,184612,Building 607 Parking Area,410 Norman Ave,Concord,CA,94520,38.018621,-122.032216,FG
+1488,184613,FCI Herlong,Wadsworth Dr,Doyle,CA,96113,40.141746,-120.145156,FG
+1489,184614,FCI Dublin,5701 8Th St,Dublin,CA,94568,37.717453,-121.896069,FG
+1490,184615,B971 Gov Charging 1,6401 Hollis St,Emeryville,CA,94608,37.845358,-122.291794,FG
+1491,184616,FCI Mendota,33500 W California Ave,Mendota,CA,93640,36.720073,-120.397055,FG
+1492,184617,FAA - National Airspace Facility SSC,2500 E Airport Dr,Ontario,CA,91761,34.060307,-117.597893,FG
+1493,184618,FAA - National Airspace Facility (PSP ATCT),3400 E Tahquitz Canyon Way,Palm Springs,CA,92262,33.82143,-116.507317,FG
+1494,184807,Ames Research Center,1150 Moffett Blvd,Mountain View,CA,94043,37.409104,-122.064957,FG
+1495,184808,Armstrong Flight Research Center,2825 E Ave P,Palmdale,CA,93550,34.610387,-118.07896,FG
+1496,184843,NAVBASE San Diego / N00245-B3509 - Station 1,Cummings Rd,San Diego,CA,92132,32.6701,-117.1101,FG
+1497,185486,Greybill Building,1141 Mission St,San Miguel,CA,93451,35.74958763037585,-120.6967915185996,P
+1498,185557,Clovis Veteran's Memorial District,808 4th St,Clovis,CA,93612,36.825058,-119.69843,LG
+1499,185588,City Hall Parking Garage,250 Hamilton Ave,Palo Alto,CA,94301,37.444402,-122.160043,LG
+1500,185589,Webster Street Parking Garage,520 Webster St,Palo Alto,CA,94301,37.449094,-122.157693,LG
+1501,185590,Bryant Street Parking Garage,445 Bryant St,Palo Alto,CA,94301,37.44662,-122.162067,LG
+1502,185672,Love’s Travel Stop - Madera,3175 Avenue 17,Madera,CA,93637,36.99628,-120.097911,P
+1503,185708,Wasco City Hall,719 F St,Wasco,CA,93280,35.594254,-119.334005,LG
+1504,186754,Spiral Garage 7,801 Van Ness Ave,Fresno,CA,93721,36.732853,-119.787603,LG
+1505,186756,Al Radka Park,5897 E Belmont Ave,Fresno,CA,93727,36.750526,-119.686837,LG
+1506,187967,Hawthorn Suite by Wyndham,321 Bercut Dr,Sacramento,CA,95811,38.598933,-121.500919,P
+1507,189892,City of American Canyon,4381 Broadway,American Canyon,CA,94503,38.184195,-122.255879,LG
+1508,190269,San Pasqual Economic Development Corp,31267 Valley Center Rd,Valley Center,CA,92082,33.227963,-116.976294,P
+1509,191209,LADWP - Harbor District HQ,950 W 1st St 4,San Pedro,CA,90731,33.743771,-118.297368,T
+1510,191210,LADWP - Ripple St Yard,2333 Ripple St,Los Angeles,CA,90039,34.106894,-118.252569,T
+1511,191211,LADWP - Bishop Telecomm,300 Mandich St,Bishop,CA,93514,37.356213,-118.399776,T
+1512,191523,Granzella’s Inn,391 6th St,Williams,CA,95987,39.156534,-122.149054,P
+1513,193974,Yosemite National Park - Tuolumne Meadows Public Parking Area,Tioga Pass Rd,Yosemite National Park,CA,95389,37.873696,-119.357795,SG
+1514,193977,Yosemite National Park - Yosemite Lodge,9006 Yosemite Lodge Dr,Yosemite National Park,CA,95389,37.743182,-119.597748,SG
+1515,194594,San Francisco International Airport - G1,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1516,194595,San Francisco International Airport - G2,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1517,194596,San Francisco International Airport - G5,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1518,194597,San Francisco International Airport - G6,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1519,194598,San Francisco International Airport - G10,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1520,194599,San Francisco International Airport - G13,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1521,194600,San Francisco International Airport - G7,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1522,194601,San Francisco International Airport - G3 West,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1523,194602,San Francisco International Airport - G3 East,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1524,194603,San Francisco International Airport - D2 East,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1525,194604,San Francisco International Airport - D2 West,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1526,194605,San Francisco International Airport - D4 West,1 N McDonnell Rd,San Francisco,CA,94128,37.6161599,-122.3968687,LG
+1527,195715,Bacchus Landing,14210 Bacchus Landing Way,Healdsburg,CA,95448,38.6059670122053,-122.881657608698,P
+1528,195931,Santa Barbara City College - Lot 4C,721 Cliff Dr,Santa Barbara,CA,93109,34.403832,-119.702827,P
+1529,197441,River Rock Casino,3250 Highway 128 E,Geyserville,CA,95441,38.694469,-122.856567,P
+1530,199060,Sheraton Redding,820 Sundial Bridge Dr,Redding,CA,96003,40.5885047213028,-122.377787957733,P
+1531,203102,George Beal,940 E Belmont Ave,Fresno,CA,93701,36.750314,-119.799561,P
+1532,203269,1820 Industrial,1820 Industrial St,Los Angeles,CA,90021,34.0358629,-118.2337486,P
+1533,204266,Gateway Oaks Metro Center,2710 Gateway Oaks Dr,Sacramento,CA,95833,38.615468,-121.517263,P
+1534,204644,Trevor Beal,7505 N Willow Ave,Fresno,CA,93720,36.8451434,-119.7322825,P
+1535,204645,Propel Fuels - Shell,1124 E Chapman Ave,Fullerton,CA,92831,33.873803,-117.907484,P
+1536,204646,Pearson Fuels - 76,19851 Esperanza Rd,Yorba Linda,CA,92886,33.863037,-117.786625,P
+1537,204647,Cher-Ae Heights Casino,27 Scenic Dr,Trinidad,CA,95570,41.05401242704603,-124.1288084423161,P
+1538,205140,San Rafael Airport Sports Center,440 Smith Ranch Rd,San Rafael,CA,94903,38.025507,-122.518166,P
+1539,205639,LA County ISD Alameda Garage,1055 N Alameda St,Los Angeles,CA,90012,34.061528,-118.236723,LG
+1540,205641,LA County Sheriff Lomita Station,26123 Narbonne Ave,Lomita,CA,90717,33.785919,-118.3211,LG
+1541,205642,LA County Sheriff Santa Clarita Golden Valley Station,26201 Golden Valley Rd,Santa Clarita,CA,91350,34.407277,-118.50415,LG
+1542,205643,LA County Probation Vermont,3965 S vermont Ave,Los Angeles,CA,90037,34.012311,-118.291846,LG
+1543,205677,LA County DPH Burbank,1101 W Magnolia Blvd,Burbank,CA,91506,34.176727,-118.320949,LG
+1544,205678,LA County ISD District 3 HQ Culver City,11236 Playa Ct,Culver City,CA,90230,33.992391,-118.3907684,LG
+1545,205679,LA County Topanga Library,122 N Topanga Canyon Rd,Topanga,CA,90290,34.090301,-118.603522,LG
+1546,205680,LA County Sheriff South LA Station,1310 W Imperial Hwy,Los Angeles,CA,90044,33.929412,-118.298003,LG
+1547,205681,LA County DBH Lot 77 2,13575 Mindanao Way,Marina Del Rey,CA,90292,33.978698,-118.443511,LG
+1548,205682,LA County Library West Covina Book Mobile,1601 West Covina Pkwy,West Covina,CA,91790,34.070869,-117.940018,LG
+1549,205724,LA County DHS LAC USC MD Lot,1900 Zonal Ave,Los Angeles,CA,90033,34.059711,-118.209328,LG
+1550,205725,LA County Library HQ,7400 Imperial Hwy,Downey,CA,90242,33.927604,-118.162067,LG
+1551,205726,LA County Sheriff Lennox Station,4331 Lennox Blvd,Lennox,CA,90304,33.938903,-118.351911,LG
+1552,207387,Four Seasons Hotel,765 Market St,San Francisco,CA,94103,37.786313,-122.404781,P
+1553,207701,Anaheim La Palma Mall,5624 E La Palma Ave,Anaheim,CA,92807,33.859326,-117.792228,P
+1554,207711,Tustin Mall 17th,17612 17th St,Tustin,CA,92780,33.759279,-117.82454,P
+1555,207717,Anaheim La Palma Mall,5638 E La Palma Ave,Anaheim,CA,92807,33.859421,-117.791849,P
+1556,211916,Copper Mountain College,6162 Rotary Way,Joshua Tree,CA,92252,34.1413124983078,-116.216564667475,P
+1557,213226,Glendale City Hall Parking Lot,120 N Isabel St,Glendale,CA,91206,34.147332,-118.248648,T
+1558,213227,Glendale Civic Center Parking Structure,650 E Wilson Ave,Glendale,CA,91206,34.147943,-118.247173,T
+1559,213228,Glendale Water & Power Utility Operations Center,800 Air Way,Glendale,CA,91201,34.156814,-118.280563,T
+1560,213990,Valley Mountain Regional Center,1820 Blue Gum Ave,Modesto,CA,95358,37.6600023,-121.0371597,P
+1561,216505,Holiday Inn Santa Ana,2726 S Grand Ave,Santa Ana,CA,92705,33.709447,-117.852017,P
+1562,218622,Georgetown Library,6680 Orleans St,Georgetown,CA,95634,38.9063952425984,-120.837389553325,P
+1563,220687,"Barstow, CA - Tanger Way (Wall Connector) - Tesla Destination",2796  Tanger Way,Barstow,CA,92311,34.844597,-117.0857,P
+1564,221270,Prime Development - DCFC,4110 Edison Ave,Chino,CA,91710,33.9977789,-117.716481,P
+1565,221271,Jordan Ave Lot 674,7220 Jordan Ave,Canoga Park,CA,91303,34.2017705,-118.6043613,P
+1566,221272,Avalon Lot 696,835 N Avalon Blvd,Wilmington,CA,90744,33.7810044,-118.2650878,P
+1567,221274,Best Western Plus Capitola By-the-Sea Inn & Suites,1435 41st Ave,Capitola,CA,95010,36.9712958,-121.9650188,P
+1568,221318,ARC Properties,7555 N Palm Ave,Fresno,CA,93711,36.846909,-119.8116002,P
+1569,221319,Quail Lakes Center,4733 Quail Lakes Dr,Stockton,CA,95207,37.9863797,-121.345183,P
+1570,221414,KPC - Anaheim Global Medical Center,1017 S Anaheim Blvd,Anaheim,CA,92805,33.81989614631524,-117.909163052362,P
+1571,222856,City of Goleta - City Hall,"130 Cremona Drive, Suite B",Goleta,CA,93117,34.431995,-119.856399,LG
+1572,222899,Eagle Valley,515 Keystone Blvd,Patterson,CA,95363,37.474551,-121.162293,P
+1573,223354,The Industrial Store,82740 Trona Road,Trona,CA,93562,35.7564,-117.381218,P
+1574,223594,76,4350 Green River Rd,Corona,CA,92880,33.87854,-117.649955,P
+1575,223602,Tejon Pass Rest Area - I5 South,Interstate 5 Mile Marker 206,Lebec,CA,93243,34.829254,-118.872293,P
+1576,223745,Valley Mountain Regional Stockton,70 N Aurora St,Stockton,CA,95202,37.962639,-121.281525,P
+1577,223801,Kenwood Inn & Spa,10400 Sonoma Hwy,Kenwood,CA,95452,38.4025845,-122.5401688,P
+1578,225027,Comfort Suites Tulare,1021 N Blackstone St,Tulare,CA,93274,36.2226245985535,-119.33374147183,P
+1579,225527,Pala Casino,11154 CA-76,Pala,CA,92059,33.36330308300516,-117.0846778858542,P
+1580,227262,VMware Global HQ,"3415 Hillview Ave, Promontory H",Palo Alto,CA,94304,37.399623,-122.144502,P
+1581,227399,Heritage Village,3 Heritage Village Ln,Campbell,CA,95008,37.2883557,-121.9494521,P
+1582,227402,Heritage Village Offices,51 E Campbell Ave,Campbell,CA,95008,37.2877354,-121.9486887,P
+1583,227408,Revere Apartments,1725 S Bascom Ave,Campbell,CA,95008,37.2917702,-121.9326405,P
+1584,227412,The Cannery Apartments,111 Lewis St,Gilroy,CA,95020,37.010031,-121.5688406,P
+1585,227414,Park Plaza Apartments,1929 Crisanto Ave,Mountain View,CA,94040,37.401167,-122.094361,P
+1586,227565,Glendale Transportation Center,400 W Cerritos Ave,Glendale,CA,91204,34.123478,-118.258283,LG
+1587,227625,Oak Tree Tustin LP,17582 17th St,Tustin,CA,92780,33.75924,-117.825179,P
+1588,227626,Keck Hospital Parking Structure,1510 N San Pablo St,Los Angeles,CA,90033,34.06222,-118.203005,P
+1589,227627,HealthCare Center 2,1500 San Pablo St,Los Angeles,CA,90033,34.061746,-118.201468,P
+1590,227628,HealthCare Center 4,1500 San Pablo St,Los Angeles,CA,90033,34.061598,-118.203214,P
+1591,227630,Bellagio - Bel Air,11715 Bellagio Rd,Bel Air,CA,90049,34.078716,-118.469437,P
+1592,227632,Norton-Empire,8017 Norton,West Hollywood,CA,90046,34.092083,-118.365158,P
+1593,227633,Valero - Arcadia,102 E Duarte Rd,Arcadia,CA,91006,34.129705,-118.027828,P
+1594,227634,Bright Star Valor Academy,9034 Burnet Ave,North Hills,CA,91343,34.234685,-118.462643,P
+1595,227822,LA County DCFS Vermont,8300 S Vermont Ave,Los Angeles,CA,90044,33.96346,-118.291076,LG
+1596,227893,Norfolk Upper Lot,2286 Norfolk St,Los Angeles,CA,90022,34.06,-118.2,P
+1597,227894,KMC Norfolk,1510 North San Pablo St,Los Angeles,CA,90033,34.06273,-118.20222,P
+1598,229383,Conway Homes,741 Flint Ave,Stockton,CA,95206,37.92124,-121.29685,P
+1599,235105,EV ARC - Glendale,1648 Canada Blvd,Glendale,CA,91208,34.172201,-118.228852,LG
+1600,235398,Miller Honey Farms,80 Geraldson Rd,Newcastle,CA,95658,38.88518,-121.11061,P
+1601,236452,Courtyard by Marriott Sunnyvale,660 W El Camino Real,Sunnyvale,CA,94087,37.36912,-122.03962,P
+1602,237115,CA DOT Maintenance Station,301 Front St,Ventura,CA,93001,34.27811,-119.3062,SG
+1603,237827,Shannon Community Center,11600 Shannon Ave,Dublin,CA,94568,37.7151447,-121.9410449,LG
+1604,237828,Fallon Sports Park 1,4605 Lockhart St,Dublin,CA,94568,37.71039798,-121.8542012,LG
+1605,238005,Fallon Sports Park 2,4605 Lockhart St,Dublin,CA,94568,37.71039692,-121.8542737,LG
+1606,240814,Shrine Auditorium Parking,3208 Royal St,Los Angeles,CA,90007,34.02415,-118.28144,P
+1607,240816,Oakland International Airport - Fleet Lot,1 Airport Dr,Oakland,CA,94621,37.71722,-122.21122,LG
+1608,240914,Stay on the Vineyard,7110 Drake Rd,Paso Robles,CA,93446,35.70504,-120.73772,P
+1609,250375,City of Vacaville - Corporation Yard,1001 Allison Dr,Vacaville,CA,95687,38.353612,-121.963617,LG
+1610,250376,City of Vacaville - Jack in the Box,1130 Leisure Town Rd,Vacaville,CA,95687,38.38572,-121.93426,LG
+1611,250379,City of Vacaville - Leisure Town Association,110 Leisure way,Vacaville,CA,95687,38.37531,-121.93838,LG
+1612,250623,DoubleTree by Hilton Modesto,1150 9th St,Modesto,CA,95354,37.64155,-121.00262,P
+1613,250834,Irvine Marriott - Tesla Destination,18000 Von Karman Ave,Irvine,CA,92612,33.6785156,-117.850042,P
+1614,250835,Bernardus Lodge - Tesla Destination,415 W Carmel Valley Rd,Carmel Valley,CA,93924,36.50131,-121.75365,P
+1615,250837,Los Angeles Airport Marriott - Tesla Destination,5855 W Century Blvd,Los Angeles,CA,90045,33.946082,-118.3842664,P
+1616,250839,Chateau Diana - Tesla Destination,6195 Dry Creek Rd,Healdsburg,CA,95448,38.688576,-122.946783,P
+1617,250841,Long Meadow Ranch - Tesla Destination,738 Main St. Main St,Saint Helena,CA,94574,38.50118,-122.462916,P
+1618,250848,Bear Valley Lodge - Tesla Destination,3 Bear Valley Rd,Bear Valley,CA,95223,38.465049,-120.04042,P
+1619,250850,Ayres Hotel & Spa - Mission Viejo - Tesla Destination,28951 Los Alisos Blvd,Mission Viejo,CA,92692,33.65447,-117.626781,P
+1620,250854,Longoria Wines - Tesla Destination,415 E Chestnut Ave,Lompoc,CA,93436,34.642534,-120.453213,P
+1621,250861,The Murieta Inn & Spa - Tesla Destination,7337 Murieta Dr,Rancho Murieta,CA,95683,38.491195,-121.099724,P
+1622,250863,Eden Rift Vineyards - Tesla Destination,10034 Cienega Road,Hollister,CA,95023,36.74757,-121.391234,P
+1623,250875,"San Francisco, CA - Letterman Drive (Wall Connector) - Tesla Destination",1 Letterman Drive,San Francisco,CA,94129,37.798335,-122.449066,P
+1624,250883,Cahuilla Casino Hotel - Tesla Destination,52702  HWY 371,Anza,CA,92539,33.5408,-116.74073,P
+1625,250956,Cuyama Buckhorn - Tesla Destination,5923  Primero Street,New Cuyama,CA,93254,34.9482372,-119.6902796,P
+1626,250960,Olallieberry Inn - Tesla Destination,2476 Main Street,Cambria,CA,93422,35.5655749,-121.0800223,P
+1627,250972,DiCicco's Shields and Armstrong - Tesla Destination,6407  E Shields Ave,Fresno,CA,93727,36.77906,-119.67429,P
+1628,250982,Grand Pine Cabins - Tesla Destination,6045  Pine st,Wrightwood,CA,92397,34.36011,-117.63485,P
+1629,250984,Memo's Cocina & Tequila Bar - Tesla Destination,1433  Sylvan Ave,Modesto,CA,95355,37.4935,-120.84782,P
+1630,250985,Sierra Blue Suites - Tesla Destination,563  lynn rd.,Big Bear Lake,CA,92315,34.24239,-116.91475,P
+1631,251016,Jackson Rancheria Casino Resort - Tesla Destination,12222  New York Ranch Rd,Jackson,CA,95642,38.38667,-120.73405,P
+1632,251033,Paris Valley Road Estate Winery - Tesla Destination,"5625  E, CA-46",Paso Robles,CA,93446,35.65895,-120.59575,P
+1633,251043,St. Supery Estate Vineyards & Winery - Tesla Destination,8440 St. Helena Hwy.,Rutherford,CA,94573,38.45541,-122.41389,P
+1634,251056,Princeton Plaza Mall - Tesla Destination,925  Blossom Hill Rd,San Jose,CA,95123,37.244365,-121.890946,P
+1635,251076,"San Francisco, CA - Geary Boulevard (Wall Connector) - Tesla Destination",2675 Geary Blvd,San Francisco,CA,94118,37.78223,-122.44656,P
+1636,251080,"San Bruno, CA - El Camino Real (Wall Connector) - Tesla Destination",1150 El Camino Real,San Bruno,CA,94066,37.63559,-122.420259,P
+1637,252518,Maggy Hawk Tasting Room,9001 Highway 128,Philo,CA,95466,39.0595642687813,-123.433443813349,P
+1638,254014,The Top Story,413 Beckwith St,Loyalton,CA,96118,39.6769122,-120.2444762,P
+1639,254340,Terminal Access Center,1265 Harbor Ave,Long Beach,CA,90813,33.7822,-118.2108,LG
+1640,257230,Picnic Time B2,5165 Maureen Ln,Moorpark,CA,93021,34.28062,-118.89647,P
+1641,258974,Swtch Energy,2141 S Mission Rd,Fallbrook,CA,92028,33.3574444,-117.2527767,P
+1642,259804,Skyworks Solutions Building 889,649 Lawrence Dr,Newbury Park,CA,91320,34.187331,-118.928352,P
+1643,259810,Kofu Park,1145 S Ham Ln,Lodi,CA,95242,38.11946,-121.28836,LG
+1644,259969,Santa Barbara City College - Auto Quad,721 Cliff Dr,Santa Barbara,CA,93109,34.405984,-119.69902,P
+1645,260352,SYNOPSYS INC,690 E Middlefield Rd,Mountain View,CA,94043,37.39465,-122.04969,P
+1646,261174,Steve Chevrolet of Chowchilla,1 Auto Park Pl,Chowchilla,CA,93610,37.124793,-120.248388,P
+1647,261666,Oakland International Airport - T1 Mgr Lot,1 Airport Dr,Oakland,CA,94621,37.71551706285052,-122.2135347463798,LG
+1648,261667,Oakland International Airport - SG Lot,1 Airport Dr,Oakland,CA,94621,37.71722,-122.21122,LG
+1649,261669,Oakland International Airport - Premier Lot,1 Airport Dr,Oakland,CA,94621,37.71304070622014,-122.2116330601883,LG
+1650,261670,Oakland International Airport - NF Bus Charging Depot,1 Airport Dr,Oakland,CA,94621,37.71722,-122.21122,LG
+1651,262235,Holiday Inn Express,9175 W Stockton Blvd,Elk Grove,CA,95758,38.42408,-121.39871,P
+1652,262236,Hilton Garden Inn,20 Advantage Ct,Sacramento,CA,95834,38.65054,-121.52843,P
+1653,279601,Holiday Inn Redding,1900 Hilltop Dr,Redding,CA,96002,40.57936,-122.35848,P
+1654,297327,Manzanita,457 Acalanes Dr,Sunnyvale,CA,94086,37.3770249,-122.0591331,P
+1655,297329,Downing Oak Court,15080 Downing Oak Ct,Los Gatos,CA,95032,37.240893,-121.9326672,P
+1656,297338,"First Church of Christ, Scientist",2466 Baseline Ave,Solvang,CA,93463,34.6353565,-120.114427,P
+1657,297341,800 Miramonte Dr,800 Miramonte Dr,Santa Barbara,CA,93109,34.4105404,-119.7088035,P
+1658,297344,Sentral at Inspire Hollywood,1530 Cassil Pl,Los Angeles,CA,90028,34.0989198,-118.3338304,P
+1659,302539,Mission Valley Ford,780 E Brokaw Rd,San Jose,CA,95112,37.381081,-121.905304,P
+1660,302679,Jordan Vineyard & Winery,1474 Alexander Valley Rd,Healdsburg,CA,95448,38.65435,-122.84469,P
+1661,302844,GWIN Property Inc,2479 E Bayshore Rd,Palo Alto,CA,94303,37.44836,-122.11823,P
+1662,302932,7Charge - San Jose,1595 Branham Ln,San Jose,CA,95118,37.2537496,-121.9025512,P
+1663,303046,2798 White Ridge Pl,2798 White Ridge Pl,Thousand Oaks,CA,91362,34.21306,-118.82551,J
+1664,303047,2734 Conejo Canyon Ct,2734 Conejo Canyon Ct,Thousand Oaks,CA,91362,34.21306,-118.82551,P
+1665,303048,2448 Vista Wood Cir,2448 Vista Wood Cir,Thousand Oaks,CA,91362,34.21306,-118.82551,P
+1666,303049,2850 Hickory Wood Ln,2850 Hickory Wood Ln,Thousand Oaks,CA,91362,34.21014,-118.82359,P
+1667,303050,2378 Fountain Crest Ln,2378 Fountain Crest Ln,Thousand Oaks,CA,91362,34.21014,-118.82359,P
+1668,303051,2346 FOUNTAIN CREST Ln,2378 Fountain Crest Ln,Thousand Oaks,CA,91362,34.21014,-118.82359,P
+1669,303223,SWTCH Energy,2000 Morgan Rd,Modesto,CA,95358,37.5990230156147,-120.974087671164,P
+1670,303247,Swtch Energy,4320 Anthony Ct,Rocklin,CA,95677,38.8052843,-121.2159953,P
+1671,303615,STA - Fairfield - Allan Witt Community Park,1741 W Texas St,Fairfield,CA,94533,38.24914,-122.05966,P
+1672,303616,Baymont by Wyndham Tehachapi,500 Steuber Rd,Tehachapi,CA,93561,35.12644,-118.41356,P
+1673,303617,Surestay Hotel Best Western,418 W Tehachapi Blvd,Tehachapi,CA,93561,35.13273,-118.45436,J
+1674,303619,Jenkins Shopping Center,3434 Manthey Rd,Stockton,CA,95206,37.91163752242169,-121.293744142189,P
+1675,303975,SFO 674 North McDonnell Road Stations,674 N McDonnell Rd,San Francisco,CA,94128,37.62169,-122.39936,LG
+1676,303976,SFO 674 North McDonnell Road Stations,674 N McDonnell Rd,San Francisco,CA,94128,37.62169,-122.39936,LG
+1677,303978,SFO Courtyard 4,757 N McDonnell Rd,San Francisco,CA,94128,37.62646,-122.40095,LG
+1678,303979,SFO Courtyard A,San Francisco International Airport,San Francisco,CA,94128,37.614485,-122.390108,LG
+1679,303980,SFO Courtyard G,San Francisco International Airport,San Francisco,CA,94128,37.616035,-122.39071,LG
+1680,303981,SFO Business Center,575 N McDonnell Rd,San Francisco,CA,94128,37.61589,-122.39549,LG
+1681,303982,Bldg 710,710 N McDonnell Rd,San Francisco,CA,94128,37.62477,-122.40046,LG
+1682,303984,SFO Long Term Parking Garage,806 S Airport Blvd,San Francisco,CA,94128,37.63655,-122.40055,LG
+1683,306203,SFO Lot D,San Francisco International Airport,San Francisco,CA,94128,37.63178,-122.399045,LG
+1684,306204,SFO Lot C,San Francisco International Airport,San Francisco,CA,94128,37.615336,-122.395662,LG
+1685,306205,SFO West Field,San Francisco International Airport,San Francisco,CA,94128,37.62289,-122.395127,LG
+1686,306207,7Charge - Covina,105 N Vincent Ave,Covina,CA,91722,34.08689,-117.92584,P
+1687,306552,Camarillo Corp Yard 1-20,283 S Glenn Dr,Camarillo,CA,93010,34.213024,-119.042662,LG
+1688,306870,"CircleK - Perris, CA",1675 N Perris Blvd,Perris,CA,92571,33.80152,-117.22561,P
+1689,307762,Sun Valley TMC HQ,11761 Roscoe Blvd,Sun Valley,CA,91352,34.22177,-118.38982,T
+1690,307900,Wall Street Parking Garage,1370 S Wall St,Los Angeles,CA,90015,34.03222,-118.25777,T
+1691,307901,DS-136,22219 Victory Blvd,Woodland Hills,CA,91303,34.18676,-118.61104,T
+1692,307902,Silver Lake Reservoir,2700 Tesla Ave,Northeast Los Angeles,CA,90039,34.09957,-118.26401,T
+1693,307903,North Yard,8627 S Fir Ave,Watts,CA,90002,33.9591,-118.23757,T
+1694,307904,North Yard,8627 S Fir Ave,Watts,CA,90002,33.9591,-118.23757,T
+1695,307905,Castaic Power Plant,37700 Templin Hwy,Castaic,CA,91384,34.60223,-118.67072,T
+1696,312515,Target - Tesla Supercharger,5731 Bickett St,Huntington Park,CA,90255,33.990229,-118.216265,P
+1697,312665,Stockton Hampton Inn,3651 Arch Rd,Stockton,CA,95215,37.90579,-121.2194,P
+1698,313095,Raley's - Tesla Supercharger,3919 Park Dr,El Dorado Hills,CA,95762,38.656419052304,-121.07076297884,P
+1699,314454,Aloft Silicon Valley - Tesla Supercharger,8200 Gateway Blvd,Newark,CA,94560,37.5360138727832,-122.063364627902,P
+1700,314458,Burger King - Tesla Supercharger,497 Sandalwood Dr,Calimesa,CA,92320,33.993267,-117.056082,P
+1701,314460,Embassy Suites - Tesla Supercharger,150 Anza Blvd,Burlingame,CA,94010,37.591194,-122.348705,P
+1702,314461,Civic Center Dr - Tesla Supercharger,39410 Civic Center Dr,Fremont,CA,94538,37.554989,-121.974239,P
+1703,314466,Target - Tesla Supercharger,1925 Douglas Blvd,Roseville,CA,95661,38.745316,-121.253384,P
+1704,314467,LA Fitness Fountain Valley,10115 Talbert Ave,Fountain Valley,CA,92708,33.7019655915616,-117.95188577117,P
+1705,314468,LA Fitness Murrieta,40985 California Oaks Rd,Murrieta,CA,92562,33.5683664627581,-117.207292740133,P
+1706,316168,Mojave Thai Cuisine - Tesla Supercharger,16870 CA-14,Mojave,CA,93501,35.067855,-118.175439,P
+1707,316175,LA Fitness Sorrento Valley,10535 Heater Court,San Diego,CA,92121,32.9083883005632,-117.172070670893,P
+1708,316893,Carl's Jr - Tesla Supercharger,15360 Whittier Blvd,Whittier,CA,90603,33.945806,-117.999033,P
+1709,316899,Village Pizza - Tesla Supercharger,40568 Village Dr,Big Bear Lake,CA,92315,34.241476,-116.91696,P
+1710,318171,Moulton Plaza - Tesla Supercharger,23601 Moulton Pkwy,Laguna Hills,CA,92653,33.618222,-117.733708,P
+1711,318176,Shamrock Village - Tesla Supercharger,7841 Amador Valley Blvd,Dublin,CA,94568,37.7066,-121.9348,P
+1712,319338,PEM EVANS CORP,1553 Harmony Cir,Anaheim,CA,92807,33.86,-117.8,P
+1713,319491,2401,2401 Crow Canyon Rd,San Ramon,CA,94583,37.77145,-121.99304,P
+1714,319843,"Ayres - Laguna Woods, L.P.",24341 El Toro Rd,Laguna Woods,CA,92637,33.61042,-117.72943,P
+1715,319945,Foxen Winery Public Stations,7600 Foxen Canyon Rd,Santa Maria,CA,93454,34.82023197805674,-120.2302063015747,P
+1716,319951,7Charge - Suisun City,301 Walters Rd,Suisun City,CA,94585,38.24024,-121.98911,P
+1717,320145,Twin Pines Mall - Tesla Supercharger,17501 Colima Rd,City of Industry,CA,91748,33.9907941669518,-117.925540115204,P
+1718,320146,Holiday Inn - Tesla Supercharger,1900 Hilltop Dr,Redding,CA,96002,40.578643,-122.359162,P
+1719,320167,Legoland Castle Hotel,1 Legoland Dr,Carlsbad,CA,92008,33.124922,-117.312712,P
+1720,320697,U.S. Bank,566 Sespe Ave,Fillmore,CA,93015,34.40008,-118.91608,P
+1721,321139,Kimono Japanese Restaurant - Tesla Supercharger,6770 Santa Rita Rd,Pleasanton,CA,94588,37.69989,-121.871035,P
+1722,321145,Lone Wolf Brewing Co - Tesla Supercharger,18210 Yorba Linda Blvd,Yorba Linda,CA,92886,33.887662,-117.81376,P
+1723,321146,Walgreens - Tesla Supercharger,8766 Navajo Rd,San Diego,CA,92119,32.8038830667353,-117.008928755603,P
+1724,321148,Nugget Markets - Tesla Supercharger,154 Browns Valley Pkwy,Vacaville,CA,95688,38.365225,-121.967972,P
+1725,321149,Holiday Market - Tesla Supercharger,2977 Lincoln Hwy US-50,South Lake Tahoe,CA,96150,38.85543,-120.013284,P
+1726,321152,Denny's - Tesla Supercharger,21970 CA-46,Lost Hills,CA,93249,35.616874,-119.656098,P
+1727,321156,Mammoth Creek Park - Tesla Supercharger,686 Old Mammoth Rd,Mammoth Lakes,CA,93546,37.636186,-118.967973,P
+1728,321176,Zayante Creek Market & Deli,9210 E Zayante Rd,Felton,CA,95018,37.085328,-122.047539,P
+1729,322286,North County Square - Tesla Supercharger,1861 University Dr,Vista,CA,92083,33.169838,-117.218482,P
+1730,322291,ChargeNet - Taco Bell,465 El Camino Real,South San Francisco,CA,94080,37.646706769126,-122.429232568679,P
+1731,322626,Solano County - County Administration Center Parking Structure,675 Texas St,Fairfield,CA,94533,38.2491,-122.0416,LG
+1732,322832,Beachwalk Shopping Center - Tesla Supercharger,437 Hwy 101,Solana Beach,CA,92075,32.986172,-117.271545,P
+1733,322834,Lucky's Travel Plaza - Tesla Supercharger,85 Cisco Rd,Soda Springs,CA,95728,39.308967,-120.545004,P
+1734,322837,Vernon Retail Center - Tesla Supercharger,1810 E 25th St,Vernon,CA,90058,34.014333,-118.238189,P
+1735,322839,Hummus Republic - Tesla Supercharger,3032 W Jack London Blvd,Livermore,CA,94551,37.6961539459695,-121.843994491158,P
+1736,323233,UCSD - ECUP DCFC,3683 Voigt Dr,La Jolla,CA,92037,32.8805696267454,-117.2212281138,SG
+1737,323234,UCSD - P707 DCFC,3671 Voigt Dr,La Jolla,CA,92037,32.881424,-117.22335,SG
+1738,323235,UCSD - Pangea - DCFC,9834 Scholars Dr N,La Jolla,CA,92093,0.0,-117.243093,SG
+1739,323236,UCSD - Trade St DCFC,7835 Trade St,San Diego,CA,92121,32.889082604,-117.1518550351,SG
+1740,323237,UCSD - P705 DCFC,Campus Point Dr & Voigt Dr,La Jolla,CA,92037,32.8811993011554,-117.219922046824,SG
+1741,323238,UCSD - OMS PARKING,3603 Miramar St,San Diego,CA,92037,32.873869,-117.225844999999,SG
+1742,323239,UCSD - S MESA,9146 Regents Rd,San Diego,CA,92037,32.872439,-117.220925,SG
+1743,323240,UCSD Hopkins JT,9800 Hopkins Dr,La Jolla,CA,92037,32.883572,-117.23895,SG
+1744,323241,UCSD One Miramar:  OMS,3603 Miramar Cir,La Jolla,CA,92092,32.873584,-117.225584,SG
+1745,323242,UCSD Pangea,9834 Scholars Dr N,La Jolla,CA,92093,32.8841835522881,-117.242858920666,SG
+1746,323243,DSA / A,8046 Regents Rd,San Diego,CA,92122,32.8656834,-117.223795,T
+1747,323244,DSA / GATEWAY,8046 Regents Rd,San Diego,CA,92122,32.86540535,-117.2236929,T
+1748,323245,UCSD SCRIPPS,297 Rosecrans St,San Diego,CA,92106,32.70728781,-117.2379994,T
+1749,323246,UCSD - MCTF,8890 Biological Grade,La Jolla,CA,92037,32.871005,-117.252149,SG
+1750,323247,UCSD - P001,8610 Kennel Way,La Jolla,CA,92037,32.864450515,-117.253853682,SG
+1751,323248,UCSD - Theatre District,9135 Scholars Dr S,La Jolla,CA,92037,32.87266435,-117.2426539,SG
+1752,323249,UCSD - Police,9781 Greenhouse Ln,La Jolla,CA,92093,32.882162741,-117.229459334,SG
+1753,323250,UCSD - 8980,8980 Villa La Jolla Dr,La Jolla,CA,92037,32.871243619,-117.23417859,SG
+1754,323251,UCSD- Hillcrest Hospital,4245 First Ave,San Diego,CA,92103,32.7541983527,-117.1640359183,SG
+1755,323252,UCSD - Hopkins,9800 Hopkins Dr,La Jolla,CA,92093,32.88381,-117.23936,SG
+1756,323259,Burger King - Tesla Supercharger,4060 Highland Ave,Highland,CA,92346,34.136544,-117.196595,P
+1757,323265,Safeway - Tesla Supercharger,1305 Stratford Ave,Dixon,CA,95620,38.457893,-121.839806,P
+1758,323267,Eastland Shopping Center - Tesla Supercharger,2753 E Eastland Center Dr,West Covina,CA,91791,34.073716,-117.889663,P
+1759,323271,The Gardens Casino - Tesla Supercharger,11871 E Carson St,Hawaiian Gardens,CA,90716,33.831695,-118.078798,P
+1760,323278,LA Fitness Jamboree,2880 Michelle Dr,Irvine,CA,92606,33.7179588108817,-117.798398169773,P
+1761,323489,Los Angeles County - High Desert Regional Health Center,335 E Avenue I,Lancaster,CA,93535,34.706156,-118.1248,LG
+1762,323694,El Dorado County Sheriffs,200 Industrial Drive,Placerville,CA,95667,38.698549,-120.828237,LG
+1763,323695,El Dorado County Department of Transportation,2441 Headington Rd,Placerville,CA,95667,38.715353,-120.842135,LG
+1764,323696,Georgetown Library,6680 Orleans St,Georgetown,CA,95634,38.906376,-120.837532,P
+1765,323697,El Dorado County Senior Center,937 Spring St,Placerville,CA,95667,38.734068,-120.803026,LG
+1766,323703,7Charge - Napa,490 Devlin Rd,Napa,CA,94558,38.22255,-122.26194,P
+1767,323706,7Charge - Walnut Creek,690 Ygnacio Valley Rd,Walnut Creek,CA,94596,37.90694,-122.05939,P

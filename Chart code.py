@@ -11,7 +11,7 @@ from bokeh.models.tools import HoverTool
 from bokeh.plotting import figure, output_file, show, save, ColumnDataSource
 from bokeh.transform import factor_cmap
 from bokeh.palettes import Blues8
-
+import numpy as np
 
 
 
@@ -25,12 +25,19 @@ stations_by_state_df.head()
 
 List = list(electric_stations_by_state_json.items())
 
-stations_by_state_df2 = pd.DataFrame(List, columns=["State", "EV Stations"])
+stations_by_state_df2 = pd.DataFrame(List, columns=["State", "EV_Stations"])
 
 stations_by_state_df2
 
 # State = stations_by_state_df2['State']
 # EV_Stations = stations_by_state_df2['EV Stations']
+
+# change the State and EV_Stations into strings instead of objects
+stations_by_state_df2['State'] = stations_by_state_df2['State'].astype("string")
+stations_by_state_df2['EV_Stations'] = stations_by_state_df2['EV_Stations'].astype(np.int64)
+
+
+
 
 # Create ColumnDataSource from data frame
 source = ColumnDataSource(stations_by_state_df2)
@@ -52,26 +59,26 @@ chart = figure(
 
 # Render glyph
 chart.hbar(y='State',
-           right='EV Stations',
+           right='EV_Stations',
            left=0,
            height=0.7, 
            fill_color=factor_cmap('State',
-                                  palette=Blues8,
-                                  factors=state_list
-           ),
+            palette=Blues8,
+            factors=state_list
+           )
            fill_alpha=0.9,
            source=source
 )
 
 # Add Tooltips
-hover = HoverTool()
-hover.tooltips ="""
-    <div>
-        <h3>@State</h3>
-        <div><strong>EV Stations: </strong>@EV Stations</div>
-`   </div>
-"""
-chart.add_tools(hover)
+# hover = HoverTool()
+# hover.tooltips = """
+#     <div>
+#        <h3>@State</h3>
+#         <div><strong>EV_Stations: </strong>@EV_Stations</div>
+#    </div>
+# """
+# chart.add_tools(hover)
 
               
 # show results
